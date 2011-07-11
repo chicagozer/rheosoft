@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1095572/camel/trunk/components/camel-core-osgi/src/main/java/org/apache/camel/core/osgi/utils
+END
+BundleContextUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1095572/camel/trunk/components/camel-core-osgi/src/main/java/org/apache/camel/core/osgi/utils/BundleContextUtils.java
+END
+BundleDelegatingClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1086028/camel/trunk/components/camel-core-osgi/src/main/java/org/apache/camel/core/osgi/utils/BundleDelegatingClassLoader.java
+END

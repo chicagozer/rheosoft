@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1078062/camel/trunk/tests/camel-itest-osgi/src/test/resources/org/apache/camel/itest/osgi/servlet
+END
+ServletComponentTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1078028/camel/trunk/tests/camel-itest-osgi/src/test/resources/org/apache/camel/itest/osgi/servlet/ServletComponentTest-context.xml
+END
+ServletServiceContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1078028/camel/trunk/tests/camel-itest-osgi/src/test/resources/org/apache/camel/itest/osgi/servlet/ServletServiceContext.xml
+END
+CamelServletWithServletServiceContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1078062/camel/trunk/tests/camel-itest-osgi/src/test/resources/org/apache/camel/itest/osgi/servlet/CamelServletWithServletServiceContext.xml
+END

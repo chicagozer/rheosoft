@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1130557/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/greeter
+END
+CamelGreeterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1130557/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/greeter/CamelGreeterTest.java
+END
+GreeterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1049432/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/greeter/GreeterImpl.java
+END
+JmsPrepareRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1097669/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/greeter/JmsPrepareRequest.java
+END
+CamelFileGreeterOneWayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1070802/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/greeter/CamelFileGreeterOneWayTest.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/782579/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/greeter/Server.java
+END
+FilePrepareRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1130513/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/greeter/FilePrepareRequest.java
+END
+JmsPrepareResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1130513/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/greeter/JmsPrepareResponse.java
+END
+PrepareRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1130513/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/greeter/PrepareRequest.java
+END
+CamelGreeterConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1130557/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/greeter/CamelGreeterConsumerTest.java
+END
+CxfToJmsInOutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1130557/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/greeter/CxfToJmsInOutTest.java
+END
+PrepareResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/782579/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/greeter/PrepareResponse.java
+END

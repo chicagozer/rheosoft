@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/768179/camel/trunk/components/camel-web/src/main/webapp/js/dojox/cometd
+END
+RestChannels.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/755904/camel/trunk/components/camel-web/src/main/webapp/js/dojox/cometd/RestChannels.js
+END
+_base.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/755904/camel/trunk/components/camel-web/src/main/webapp/js/dojox/cometd/_base.js
+END
+longPollTransportFormEncoded.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/755904/camel/trunk/components/camel-web/src/main/webapp/js/dojox/cometd/longPollTransportFormEncoded.js
+END
+HttpChannels.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/755904/camel/trunk/components/camel-web/src/main/webapp/js/dojox/cometd/HttpChannels.js
+END
+timesync.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/755904/camel/trunk/components/camel-web/src/main/webapp/js/dojox/cometd/timesync.js
+END
+ack.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/755904/camel/trunk/components/camel-web/src/main/webapp/js/dojox/cometd/ack.js
+END
+longPollTransportJsonEncoded.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/755904/camel/trunk/components/camel-web/src/main/webapp/js/dojox/cometd/longPollTransportJsonEncoded.js
+END
+callbackPollTransport.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/755904/camel/trunk/components/camel-web/src/main/webapp/js/dojox/cometd/callbackPollTransport.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/768179/camel/trunk/components/camel-web/src/main/webapp/js/dojox/cometd/README
+END
+longPollTransport.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/755904/camel/trunk/components/camel-web/src/main/webapp/js/dojox/cometd/longPollTransport.js
+END
+timestamp.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/755904/camel/trunk/components/camel-web/src/main/webapp/js/dojox/cometd/timestamp.js
+END

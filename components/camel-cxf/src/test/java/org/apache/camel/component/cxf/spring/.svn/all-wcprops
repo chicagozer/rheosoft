@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1141094/camel/trunk/components/camel-cxf/src/test/java/org/apache/camel/component/cxf/spring
+END
+CxfEndpointBeanBusSettingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/979626/camel/trunk/components/camel-cxf/src/test/java/org/apache/camel/component/cxf/spring/CxfEndpointBeanBusSettingTest.java
+END
+CxfRsClientFactoryBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1136441/camel/trunk/components/camel-cxf/src/test/java/org/apache/camel/component/cxf/spring/CxfRsClientFactoryBeanTest.java
+END
+MyProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1130499/camel/trunk/components/camel-cxf/src/test/java/org/apache/camel/component/cxf/spring/MyProcessor.java
+END
+CxfEndpointBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1141094/camel/trunk/components/camel-cxf/src/test/java/org/apache/camel/component/cxf/spring/CxfEndpointBeanTest.java
+END
+AbstractSpringBeanTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/835174/camel/trunk/components/camel-cxf/src/test/java/org/apache/camel/component/cxf/spring/AbstractSpringBeanTestSupport.java
+END
+CxfRsServerFactoryBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1136441/camel/trunk/components/camel-cxf/src/test/java/org/apache/camel/component/cxf/spring/CxfRsServerFactoryBeanTest.java
+END
+SpringBusFactoryBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1130499/camel/trunk/components/camel-cxf/src/test/java/org/apache/camel/component/cxf/spring/SpringBusFactoryBeanTest.java
+END
+CxfEndpointBeansRouterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1138700/camel/trunk/components/camel-cxf/src/test/java/org/apache/camel/component/cxf/spring/CxfEndpointBeansRouterTest.java
+END
+FileToCxfMessageDataFormatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1141094/camel/trunk/components/camel-cxf/src/test/java/org/apache/camel/component/cxf/spring/FileToCxfMessageDataFormatTest.java
+END
+CxfEndpointBeanWithBusTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1138700/camel/trunk/components/camel-cxf/src/test/java/org/apache/camel/component/cxf/spring/CxfEndpointBeanWithBusTest.java
+END

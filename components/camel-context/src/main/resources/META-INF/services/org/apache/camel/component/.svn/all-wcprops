@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1069442/camel/trunk/components/camel-context/src/main/resources/META-INF/services/org/apache/camel/component
+END
+context
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1069442/camel/trunk/components/camel-context/src/main/resources/META-INF/services/org/apache/camel/component/context
+END

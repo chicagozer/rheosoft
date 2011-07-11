@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1069679/camel/trunk/components/camel-core-xml/src/main/java/org/apache/camel/core/xml/scan
+END
+AntPathMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1069679/camel/trunk/components/camel-core-xml/src/main/java/org/apache/camel/core/xml/scan/AntPathMatcher.java
+END
+PatternBasedPackageScanFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1069679/camel/trunk/components/camel-core-xml/src/main/java/org/apache/camel/core/xml/scan/PatternBasedPackageScanFilter.java
+END

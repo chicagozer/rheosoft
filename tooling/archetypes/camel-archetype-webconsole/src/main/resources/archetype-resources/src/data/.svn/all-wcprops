@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1076681/camel/trunk/tooling/archetypes/camel-archetype-webconsole/src/main/resources/archetype-resources/src/data
+END
+message1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1076681/camel/trunk/tooling/archetypes/camel-archetype-webconsole/src/main/resources/archetype-resources/src/data/message1.xml
+END
+message2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1076681/camel/trunk/tooling/archetypes/camel-archetype-webconsole/src/main/resources/archetype-resources/src/data/message2.xml
+END
+message3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1076681/camel/trunk/tooling/archetypes/camel-archetype-webconsole/src/main/resources/archetype-resources/src/data/message3.xml
+END

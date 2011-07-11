@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1137899/camel/trunk/components/camel-snmp/src/main/java/org/apache/camel/component/snmp
+END
+SnmpComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/818024/camel/trunk/components/camel-snmp/src/main/java/org/apache/camel/component/snmp/SnmpComponent.java
+END
+SnmpTrapConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1136687/camel/trunk/components/camel-snmp/src/main/java/org/apache/camel/component/snmp/SnmpTrapConsumer.java
+END
+SnmpMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/818024/camel/trunk/components/camel-snmp/src/main/java/org/apache/camel/component/snmp/SnmpMessage.java
+END
+OIDList.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/818024/camel/trunk/components/camel-snmp/src/main/java/org/apache/camel/component/snmp/OIDList.java
+END
+SnmpOIDPoller.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1137899/camel/trunk/components/camel-snmp/src/main/java/org/apache/camel/component/snmp/SnmpOIDPoller.java
+END
+SnmpConverters.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/933507/camel/trunk/components/camel-snmp/src/main/java/org/apache/camel/component/snmp/SnmpConverters.java
+END
+SnmpActionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/818024/camel/trunk/components/camel-snmp/src/main/java/org/apache/camel/component/snmp/SnmpActionType.java
+END
+OIDListEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/818024/camel/trunk/components/camel-snmp/src/main/java/org/apache/camel/component/snmp/OIDListEditor.java
+END
+SnmpEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-snmp/src/main/java/org/apache/camel/component/snmp/SnmpEndpoint.java
+END

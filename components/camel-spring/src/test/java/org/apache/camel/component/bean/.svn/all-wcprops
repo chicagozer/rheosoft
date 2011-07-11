@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/bean
+END
+BeanBindingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/bean/BeanBindingTest.java
+END
+BeanWithRecipientListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/bean/BeanWithRecipientListTest.java
+END
+ExampleBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/bean/ExampleBean.java
+END
+MyBeanBindingConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/830131/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/bean/MyBeanBindingConsumer.java
+END
+BeanRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/bean/BeanRouteTest.java
+END
+RouterBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/bean/RouterBean.java
+END
+MyBeanCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/bean/MyBeanCounter.java
+END
+BeanRouteUsingSpringEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/bean/BeanRouteUsingSpringEndpointTest.java
+END

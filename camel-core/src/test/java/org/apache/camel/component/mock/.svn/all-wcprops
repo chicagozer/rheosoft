@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1141025/camel/trunk/camel-core/src/test/java/org/apache/camel/component/mock
+END
+MockExpectedBodiesAsListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/mock/MockExpectedBodiesAsListTest.java
+END
+MockAsBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/mock/MockAsBeanTest.java
+END
+MockEndpointTimeClauseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/mock/MockEndpointTimeClauseTest.java
+END
+MockThroughtputTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/mock/MockThroughtputTest.java
+END
+MockEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1141025/camel/trunk/camel-core/src/test/java/org/apache/camel/component/mock/MockEndpointTest.java
+END
+MockEndpointWithParametersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1085723/camel/trunk/camel-core/src/test/java/org/apache/camel/component/mock/MockEndpointWithParametersTest.java
+END
+MockPredicateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/mock/MockPredicateTest.java
+END
+MockAssertionClauseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/mock/MockAssertionClauseTest.java
+END
+MockXpathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/998954/camel/trunk/camel-core/src/test/java/org/apache/camel/component/mock/MockXpathTest.java
+END

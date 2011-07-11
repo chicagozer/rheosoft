@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1040085/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/jaxb
+END
+BarRoute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1040085/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/jaxb/BarRoute.xml
+END
+SpringLoadRouteFromXmlTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1040085/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/jaxb/SpringLoadRouteFromXmlTest.xml
+END

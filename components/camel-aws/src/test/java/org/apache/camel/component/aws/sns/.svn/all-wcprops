@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1094187/camel/trunk/components/camel-aws/src/test/java/org/apache/camel/component/aws/sns
+END
+AmazonSNSClientMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1084013/camel/trunk/components/camel-aws/src/test/java/org/apache/camel/component/aws/sns/AmazonSNSClientMock.java
+END
+SnsComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1084013/camel/trunk/components/camel-aws/src/test/java/org/apache/camel/component/aws/sns/SnsComponentTest.java
+END
+SnsComponentSpringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1084013/camel/trunk/components/camel-aws/src/test/java/org/apache/camel/component/aws/sns/SnsComponentSpringTest.java
+END
+SnsComponentConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1094187/camel/trunk/components/camel-aws/src/test/java/org/apache/camel/component/aws/sns/SnsComponentConfigurationTest.java
+END

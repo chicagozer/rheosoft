@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1102200/camel/trunk/components/camel-testng/src/main/java/org/apache/camel/testng
+END
+ExchangeTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1088001/camel/trunk/components/camel-testng/src/main/java/org/apache/camel/testng/ExchangeTestSupport.java
+END
+LanguageTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1100508/camel/trunk/components/camel-testng/src/main/java/org/apache/camel/testng/LanguageTestSupport.java
+END
+CamelSpringTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1102200/camel/trunk/components/camel-testng/src/main/java/org/apache/camel/testng/CamelSpringTestSupport.java
+END
+TestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1102199/camel/trunk/components/camel-testng/src/main/java/org/apache/camel/testng/TestSupport.java
+END
+AvailablePortFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1088001/camel/trunk/components/camel-testng/src/main/java/org/apache/camel/testng/AvailablePortFinder.java
+END
+CamelTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1102199/camel/trunk/components/camel-testng/src/main/java/org/apache/camel/testng/CamelTestSupport.java
+END

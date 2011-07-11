@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1133394/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/aws
+END
+AwsS3Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1133394/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/aws/AwsS3Test.java
+END
+AwsSqsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1133394/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/aws/AwsSqsTest.java
+END
+AmazonSNSClientMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1084013/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/aws/AmazonSNSClientMock.java
+END
+AwsSnsIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1133394/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/aws/AwsSnsIntegrationTest.java
+END
+AmazonS3ClientMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1087367/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/aws/AmazonS3ClientMock.java
+END
+AwsS3IntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1133394/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/aws/AwsS3IntegrationTest.java
+END
+AmazonSQSClientMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1066231/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/aws/AmazonSQSClientMock.java
+END
+AwsSqsIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1133394/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/aws/AwsSqsIntegrationTest.java
+END
+AwsTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1133394/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/aws/AwsTestSupport.java
+END
+AwsSnsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1133394/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/aws/AwsSnsTest.java
+END

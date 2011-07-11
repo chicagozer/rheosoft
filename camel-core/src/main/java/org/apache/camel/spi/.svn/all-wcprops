@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1143952/camel/trunk/camel-core/src/main/java/org/apache/camel/spi
+END
+FactoryFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/FactoryFinder.java
+END
+ExecutorServiceStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/ExecutorServiceStrategy.java
+END
+DataFormatResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/DataFormatResolver.java
+END
+InflightRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/InflightRepository.java
+END
+PackageScanFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/835593/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/PackageScanFilter.java
+END
+ExchangeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/ExchangeFormatter.java
+END
+UnitOfWork.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1140061/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/UnitOfWork.java
+END
+TransactedPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/TransactedPolicy.java
+END
+CamelContextNameStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/CamelContextNameStrategy.java
+END
+RouteStartupOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/RouteStartupOrder.java
+END
+Required.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/Required.java
+END
+FactoryFinderResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/FactoryFinderResolver.java
+END
+SynchronizationVetoable.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/SynchronizationVetoable.java
+END
+ManagementAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1139800/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/ManagementAgent.java
+END
+Policy.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/Policy.java
+END
+TypeConverterLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/TypeConverterLoader.java
+END
+TypeConverterRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/TypeConverterRegistry.java
+END
+EndpointStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/EndpointStrategy.java
+END
+Injector.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/Injector.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/735816/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/package.html
+END
+RoutePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/RoutePolicy.java
+END
+AuthorizationPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/AuthorizationPolicy.java
+END
+Language.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/Language.java
+END
+AggregationRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/AggregationRepository.java
+END
+HasId.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/988835/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/HasId.java
+END
+TypeConverterAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/TypeConverterAware.java
+END
+ManagementNamingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/ManagementNamingStrategy.java
+END
+ServicePool.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1088267/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/ServicePool.java
+END
+ManagementAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1095673/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/ManagementAware.java
+END
+SubUnitOfWorkCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1133789/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/SubUnitOfWorkCallback.java
+END
+ManagementStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1139800/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/ManagementStrategy.java
+END
+Synchronization.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/Synchronization.java
+END
+HeaderFilterStrategyAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/HeaderFilterStrategyAware.java
+END
+LanguageResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/LanguageResolver.java
+END
+Registry.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/Registry.java
+END
+PackageScanClassResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1095673/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/PackageScanClassResolver.java
+END
+EventFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/EventFactory.java
+END
+TracedRouteNodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/TracedRouteNodes.java
+END
+NamespaceAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/NamespaceAware.java
+END
+SubUnitOfWork.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1133789/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/SubUnitOfWork.java
+END
+Debugger.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/Debugger.java
+END
+ComponentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/ComponentResolver.java
+END
+Condition.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/Condition.java
+END
+NodeIdFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1099417/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/NodeIdFactory.java
+END
+ShutdownAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/ShutdownAware.java
+END
+Breakpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/Breakpoint.java
+END
+RecoverableAggregationRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/RecoverableAggregationRepository.java
+END
+RouteContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/RouteContext.java
+END
+ProcessorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1143952/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/ProcessorFactory.java
+END
+IdempotentRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/IdempotentRepository.java
+END
+UuidGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/999235/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/UuidGenerator.java
+END
+InterceptStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/InterceptStrategy.java
+END
+EventNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/EventNotifier.java
+END
+BrowsableEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/BrowsableEndpoint.java
+END
+HeaderFilterStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/HeaderFilterStrategy.java
+END
+ThreadPoolProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/ThreadPoolProfile.java
+END
+DataFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/DataFormat.java
+END
+LifecycleStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1050603/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/LifecycleStrategy.java
+END
+ManagementObjectStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1139800/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/ManagementObjectStrategy.java
+END
+ClassResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/835531/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/ClassResolver.java
+END
+PollingConsumerPollStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/PollingConsumerPollStrategy.java
+END
+ExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1099417/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/ExceptionHandler.java
+END
+ShutdownStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/spi/ShutdownStrategy.java
+END

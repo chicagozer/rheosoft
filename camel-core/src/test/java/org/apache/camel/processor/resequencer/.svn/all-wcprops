@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1095572/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/resequencer
+END
+ResequencerFileNameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/resequencer/ResequencerFileNameTest.java
+END
+SequenceBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/735816/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/resequencer/SequenceBuffer.java
+END
+ResequencerEngineSync.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/792319/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/resequencer/ResequencerEngineSync.java
+END
+IntegerComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/735816/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/resequencer/IntegerComparator.java
+END
+MyFileNameExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/956598/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/resequencer/MyFileNameExpression.java
+END
+TestObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/735816/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/resequencer/TestObject.java
+END
+ResequencerEngineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1095572/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/resequencer/ResequencerEngineTest.java
+END
+TestComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/735816/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/resequencer/TestComparator.java
+END
+TestComparatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/735816/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/resequencer/TestComparatorTest.java
+END
+SequenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/735816/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/resequencer/SequenceTest.java
+END
+ResequencerRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/764683/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/resequencer/ResequencerRunner.java
+END

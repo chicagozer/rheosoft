@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1125242/camel/trunk/components/camel-cometd/src/main/java/org/apache/camel/component/cometd
+END
+CometdProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1095363/camel/trunk/components/camel-cometd/src/main/java/org/apache/camel/component/cometd/CometdProducer.java
+END
+CometdConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1125242/camel/trunk/components/camel-cometd/src/main/java/org/apache/camel/component/cometd/CometdConsumer.java
+END
+CometdProducerConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1095363/camel/trunk/components/camel-cometd/src/main/java/org/apache/camel/component/cometd/CometdProducerConsumer.java
+END
+CometdEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1087994/camel/trunk/components/camel-cometd/src/main/java/org/apache/camel/component/cometd/CometdEndpoint.java
+END
+CometdComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1097867/camel/trunk/components/camel-cometd/src/main/java/org/apache/camel/component/cometd/CometdComponent.java
+END

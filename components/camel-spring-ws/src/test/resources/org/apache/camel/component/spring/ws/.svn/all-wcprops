@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1137057/camel/trunk/components/camel-spring-ws/src/test/resources/org/apache/camel/component/spring/ws
+END
+ProducerRemoteRouteTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1031442/camel/trunk/components/camel-spring-ws/src/test/resources/org/apache/camel/component/spring/ws/ProducerRemoteRouteTest-context.xml
+END
+ConsumerEndpointMappingRouteTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1031442/camel/trunk/components/camel-spring-ws/src/test/resources/org/apache/camel/component/spring/ws/ConsumerEndpointMappingRouteTest-context.xml
+END
+ConsumerEndpointMappingByBeanNameRouteTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/1031442/camel/trunk/components/camel-spring-ws/src/test/resources/org/apache/camel/component/spring/ws/ConsumerEndpointMappingByBeanNameRouteTest-context.xml
+END
+ConsumerEndpointMappingResponseHandlingRouteTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/asf/!svn/ver/1031442/camel/trunk/components/camel-spring-ws/src/test/resources/org/apache/camel/component/spring/ws/ConsumerEndpointMappingResponseHandlingRouteTest-context.xml
+END
+ConsumerMarshallingRouteTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1031442/camel/trunk/components/camel-spring-ws/src/test/resources/org/apache/camel/component/spring/ws/ConsumerMarshallingRouteTest-context.xml
+END
+ConsumerExceptionPropagationRouteTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1137057/camel/trunk/components/camel-spring-ws/src/test/resources/org/apache/camel/component/spring/ws/ConsumerExceptionPropagationRouteTest-context.xml
+END
+ProducerLocalRouteTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1128970/camel/trunk/components/camel-spring-ws/src/test/resources/org/apache/camel/component/spring/ws/ProducerLocalRouteTest-context.xml
+END

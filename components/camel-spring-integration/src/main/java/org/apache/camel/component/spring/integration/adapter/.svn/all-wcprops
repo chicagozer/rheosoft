@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/adapter
+END
+CamelSourceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/adapter/CamelSourceAdapter.java
+END
+AbstractCamelAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/adapter/AbstractCamelAdapter.java
+END
+CamelTargetAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/adapter/CamelTargetAdapter.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-mybatis/src/main/java/org/apache/camel/component/mybatis
+END
+MyBatisConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-mybatis/src/main/java/org/apache/camel/component/mybatis/MyBatisConsumer.java
+END
+MyBatisConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-mybatis/src/main/java/org/apache/camel/component/mybatis/MyBatisConstants.java
+END
+StatementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-mybatis/src/main/java/org/apache/camel/component/mybatis/StatementType.java
+END
+MyBatisProcessingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-mybatis/src/main/java/org/apache/camel/component/mybatis/MyBatisProcessingStrategy.java
+END
+MyBatisEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-mybatis/src/main/java/org/apache/camel/component/mybatis/MyBatisEndpoint.java
+END
+MyBatisComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-mybatis/src/main/java/org/apache/camel/component/mybatis/MyBatisComponent.java
+END
+MyBatisProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1086028/camel/trunk/components/camel-mybatis/src/main/java/org/apache/camel/component/mybatis/MyBatisProducer.java
+END
+DefaultMyBatisProcessingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-mybatis/src/main/java/org/apache/camel/component/mybatis/DefaultMyBatisProcessingStrategy.java
+END

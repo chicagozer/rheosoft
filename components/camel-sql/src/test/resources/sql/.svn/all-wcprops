@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1073186/camel/trunk/components/camel-sql/src/test/resources/sql
+END
+init.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1073186/camel/trunk/components/camel-sql/src/test/resources/sql/init.sql
+END
+init2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1073186/camel/trunk/components/camel-sql/src/test/resources/sql/init2.sql
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1103598/camel/trunk/components/camel-aws/src/test/java/org/apache/camel/component/aws/sqs
+END
+SqsComponentConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1103598/camel/trunk/components/camel-aws/src/test/java/org/apache/camel/component/aws/sqs/SqsComponentConfigurationTest.java
+END
+SqsBatchConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1058409/camel/trunk/components/camel-aws/src/test/java/org/apache/camel/component/aws/sqs/SqsBatchConsumerTest.java
+END
+AmazonSQSClientMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1103598/camel/trunk/components/camel-aws/src/test/java/org/apache/camel/component/aws/sqs/AmazonSQSClientMock.java
+END
+SqsComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1103434/camel/trunk/components/camel-aws/src/test/java/org/apache/camel/component/aws/sqs/SqsComponentTest.java
+END
+SqsComponentSpringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1055334/camel/trunk/components/camel-aws/src/test/java/org/apache/camel/component/aws/sqs/SqsComponentSpringTest.java
+END

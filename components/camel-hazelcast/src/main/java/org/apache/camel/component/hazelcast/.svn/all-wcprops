@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1138971/camel/trunk/components/camel-hazelcast/src/main/java/org/apache/camel/component/hazelcast
+END
+HazelcastDefaultConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1075264/camel/trunk/components/camel-hazelcast/src/main/java/org/apache/camel/component/hazelcast/HazelcastDefaultConsumer.java
+END
+HazelcastComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1075264/camel/trunk/components/camel-hazelcast/src/main/java/org/apache/camel/component/hazelcast/HazelcastComponent.java
+END
+HazelcastComponentHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1075264/camel/trunk/components/camel-hazelcast/src/main/java/org/apache/camel/component/hazelcast/HazelcastComponentHelper.java
+END
+HazelcastDefaultEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1075264/camel/trunk/components/camel-hazelcast/src/main/java/org/apache/camel/component/hazelcast/HazelcastDefaultEndpoint.java
+END
+HazelcastConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1138971/camel/trunk/components/camel-hazelcast/src/main/java/org/apache/camel/component/hazelcast/HazelcastConstants.java
+END

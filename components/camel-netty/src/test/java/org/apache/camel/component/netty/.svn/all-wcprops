@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty
+END
+MultipleCodecsSpringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/936658/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/MultipleCodecsSpringTest.java
+END
+NettyTextlineInOutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyTextlineInOutTest.java
+END
+NettyUDPObjectSyncTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyUDPObjectSyncTest.java
+END
+NettyInOutFromSedaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyInOutFromSedaTest.java
+END
+NettyTextlineInOnlyNullDelimiterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyTextlineInOnlyNullDelimiterTest.java
+END
+NettyTransferExchangeOptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyTransferExchangeOptionTest.java
+END
+NettyProducerAsyncEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyProducerAsyncEndpointTest.java
+END
+NettyConcurrentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyConcurrentTest.java
+END
+Netty2978IssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/Netty2978IssueTest.java
+END
+NettyTCPSyncTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyTCPSyncTest.java
+END
+NettyTCPAsyncTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyTCPAsyncTest.java
+END
+NettyTextlineInOnlyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyTextlineInOnlyTest.java
+END
+NettyUDPSyncTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyUDPSyncTest.java
+END
+NettyFileTcpTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyFileTcpTest.java
+END
+NettyComponentWithConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyComponentWithConfigurationTest.java
+END
+NettyTextlineInOutSynchronousTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyTextlineInOutSynchronousTest.java
+END
+NettyUDPAsyncTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyUDPAsyncTest.java
+END
+NettyInOutCloseChannelWhenCompleteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyInOutCloseChannelWhenCompleteTest.java
+END
+MultipleCodecsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/MultipleCodecsTest.java
+END
+NettyInOutWithForcedNoResponseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyInOutWithForcedNoResponseTest.java
+END
+NettyDisconnectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyDisconnectTest.java
+END
+NettyCustomPipelineFactorySynchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyCustomPipelineFactorySynchTest.java
+END
+NettyTCPSyncNotLazyChannelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyTCPSyncNotLazyChannelTest.java
+END
+NettyCustomPipelineFactoryAsynchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyCustomPipelineFactoryAsynchTest.java
+END
+Poetry.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/927698/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/Poetry.java
+END
+NettySSLTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettySSLTest.java
+END
+NettyTextlineInOutSynchronousFalseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyTextlineInOutSynchronousFalseTest.java
+END
+NettyTcpWithInOutUsingPlainSocketTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyTcpWithInOutUsingPlainSocketTest.java
+END
+NettyUdpWithInOutUsingPlainSocketTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/NettyUdpWithInOutUsingPlainSocketTest.java
+END
+BaseNettyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1134916/camel/trunk/components/camel-netty/src/test/java/org/apache/camel/component/netty/BaseNettyTest.java
+END

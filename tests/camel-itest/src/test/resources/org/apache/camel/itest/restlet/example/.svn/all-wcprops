@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1097681/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/restlet/example
+END
+CxfRSDomainServiceTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1097681/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/restlet/example/CxfRSDomainServiceTest-context.xml
+END
+jaxb.index
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1005723/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/restlet/example/jaxb.index
+END
+RestletDomainServiceTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1097681/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/restlet/example/RestletDomainServiceTest-context.xml
+END

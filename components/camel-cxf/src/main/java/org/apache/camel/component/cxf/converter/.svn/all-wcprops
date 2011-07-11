@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1139163/camel/trunk/components/camel-cxf/src/main/java/org/apache/camel/component/cxf/converter
+END
+CxfPayloadConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1139163/camel/trunk/components/camel-cxf/src/main/java/org/apache/camel/component/cxf/converter/CxfPayloadConverter.java
+END
+NodeListWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1065505/camel/trunk/components/camel-cxf/src/main/java/org/apache/camel/component/cxf/converter/NodeListWrapper.java
+END
+CxfConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1138700/camel/trunk/components/camel-cxf/src/main/java/org/apache/camel/component/cxf/converter/CxfConverter.java
+END

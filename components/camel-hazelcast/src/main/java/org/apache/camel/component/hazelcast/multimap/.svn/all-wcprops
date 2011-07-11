@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1075264/camel/trunk/components/camel-hazelcast/src/main/java/org/apache/camel/component/hazelcast/multimap
+END
+HazelcastMultimapConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1075264/camel/trunk/components/camel-hazelcast/src/main/java/org/apache/camel/component/hazelcast/multimap/HazelcastMultimapConsumer.java
+END
+HazelcastMultimapEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1075264/camel/trunk/components/camel-hazelcast/src/main/java/org/apache/camel/component/hazelcast/multimap/HazelcastMultimapEndpoint.java
+END
+HazelcastMultimapProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1075264/camel/trunk/components/camel-hazelcast/src/main/java/org/apache/camel/component/hazelcast/multimap/HazelcastMultimapProducer.java
+END

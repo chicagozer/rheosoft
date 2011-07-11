@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1102088/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/sql
+END
+FromJmsToJdbcIdempotentConsumerToJmsTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1102088/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/sql/FromJmsToJdbcIdempotentConsumerToJmsTest.xml
+END
+FromJmsToJdbcIdempotentConsumerToJmsXaTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1102080/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/sql/FromJmsToJdbcIdempotentConsumerToJmsXaTest.xml
+END

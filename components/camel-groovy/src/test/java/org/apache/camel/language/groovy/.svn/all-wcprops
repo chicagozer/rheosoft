@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1100508/camel/trunk/components/camel-groovy/src/test/java/org/apache/camel/language/groovy
+END
+Animal.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1091807/camel/trunk/components/camel-groovy/src/test/java/org/apache/camel/language/groovy/Animal.java
+END
+GroovyInvokeMethodTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1100508/camel/trunk/components/camel-groovy/src/test/java/org/apache/camel/language/groovy/GroovyInvokeMethodTest.java
+END
+GroovyExpressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-groovy/src/test/java/org/apache/camel/language/groovy/GroovyExpressionTest.java
+END
+GroovyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-groovy/src/test/java/org/apache/camel/language/groovy/GroovyTest.java
+END
+LanguageGroovyRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-groovy/src/test/java/org/apache/camel/language/groovy/LanguageGroovyRouteTest.java
+END
+GroovyLanguageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1100508/camel/trunk/components/camel-groovy/src/test/java/org/apache/camel/language/groovy/GroovyLanguageTest.java
+END
+GroovySetFixedHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1100508/camel/trunk/components/camel-groovy/src/test/java/org/apache/camel/language/groovy/GroovySetFixedHeaderTest.java
+END
+GroovySetHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1100508/camel/trunk/components/camel-groovy/src/test/java/org/apache/camel/language/groovy/GroovySetHeaderTest.java
+END

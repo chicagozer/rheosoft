@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/998915/camel/trunk/tests/camel-itest-osgi/src/test/resources/org/apache/camel/itest/osgi/spring/xslt
+END
+example.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/998915/camel/trunk/tests/camel-itest-osgi/src/test/resources/org/apache/camel/itest/osgi/spring/xslt/example.xsl
+END

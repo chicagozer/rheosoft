@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1139163/camel/trunk/components/camel-cxf/src/test/java/org/apache/camel/component/cxf/converter
+END
+MyCxfCustomerConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1130537/camel/trunk/components/camel-cxf/src/test/java/org/apache/camel/component/cxf/converter/MyCxfCustomerConverter.java
+END
+CxfPayloadConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1139163/camel/trunk/components/camel-cxf/src/test/java/org/apache/camel/component/cxf/converter/CxfPayloadConverterTest.java
+END
+ConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/933507/camel/trunk/components/camel-cxf/src/test/java/org/apache/camel/component/cxf/converter/ConverterTest.java
+END

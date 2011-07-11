@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1137592/camel/trunk/components/camel-quartz/src/test/java/org/apache/camel/component/quartz
+END
+QuartzRouteFireNowTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-quartz/src/test/java/org/apache/camel/component/quartz/QuartzRouteFireNowTest.java
+END
+QuartzPropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-quartz/src/test/java/org/apache/camel/component/quartz/QuartzPropertiesTest.java
+END
+QuartzNameCollisionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1067624/camel/trunk/components/camel-quartz/src/test/java/org/apache/camel/component/quartz/QuartzNameCollisionTest.java
+END
+QuartzOneCamelContextRestartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-quartz/src/test/java/org/apache/camel/component/quartz/QuartzOneCamelContextRestartTest.java
+END
+QuartzRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1137592/camel/trunk/components/camel-quartz/src/test/java/org/apache/camel/component/quartz/QuartzRouteTest.java
+END
+QuartzComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-quartz/src/test/java/org/apache/camel/component/quartz/QuartzComponentTest.java
+END
+SpringQuartzCronRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-quartz/src/test/java/org/apache/camel/component/quartz/SpringQuartzCronRouteTest.java
+END
+QuartzTwoCamelContextSuspendResumeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-quartz/src/test/java/org/apache/camel/component/quartz/QuartzTwoCamelContextSuspendResumeTest.java
+END
+StatefulQuartzRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-quartz/src/test/java/org/apache/camel/component/quartz/StatefulQuartzRouteTest.java
+END
+QuartzAddRoutesAfterCamelContextStartedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-quartz/src/test/java/org/apache/camel/component/quartz/QuartzAddRoutesAfterCamelContextStartedTest.java
+END
+QuartzOneCamelContextSuspendResumeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-quartz/src/test/java/org/apache/camel/component/quartz/QuartzOneCamelContextSuspendResumeTest.java
+END
+QuartzTwoCamelContextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-quartz/src/test/java/org/apache/camel/component/quartz/QuartzTwoCamelContextTest.java
+END
+QuartzCronRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-quartz/src/test/java/org/apache/camel/component/quartz/QuartzCronRouteTest.java
+END
+QuartzEndpointConfigureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-quartz/src/test/java/org/apache/camel/component/quartz/QuartzEndpointConfigureTest.java
+END
+QuartzTwoCamelContextRestartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-quartz/src/test/java/org/apache/camel/component/quartz/QuartzTwoCamelContextRestartTest.java
+END
+QuartzStartDelayedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-quartz/src/test/java/org/apache/camel/component/quartz/QuartzStartDelayedTest.java
+END
+QuartzAutoStartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-quartz/src/test/java/org/apache/camel/component/quartz/QuartzAutoStartTest.java
+END

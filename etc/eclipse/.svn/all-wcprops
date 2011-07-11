@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/asf/!svn/ver/908377/camel/trunk/etc/eclipse
+END
+CamelCodeFormatter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/908377/camel/trunk/etc/eclipse/CamelCodeFormatter.xml
+END
+camel_java_templates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/800448/camel/trunk/etc/eclipse/camel_java_templates.xml
+END
+org.eclipse.jdt.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/735816/camel/trunk/etc/eclipse/org.eclipse.jdt.core.prefs
+END
+Camel.importorder
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/908377/camel/trunk/etc/eclipse/Camel.importorder
+END
+codetemplates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/735816/camel/trunk/etc/eclipse/codetemplates.xml
+END
+template.checkstyle-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/789121/camel/trunk/etc/eclipse/template.checkstyle-config.xml
+END
+addcheckstyle.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/789121/camel/trunk/etc/eclipse/addcheckstyle.xsl
+END
+camel_xml_templates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/800459/camel/trunk/etc/eclipse/camel_xml_templates.xml
+END

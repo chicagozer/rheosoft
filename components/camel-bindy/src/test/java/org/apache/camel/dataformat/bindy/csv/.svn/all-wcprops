@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1093999/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv
+END
+BindyComplexCsvUnmarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1067381/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindyComplexCsvUnmarshallTest.java
+END
+BindySimpleCsvGenerateHeaderMarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/893726/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindySimpleCsvGenerateHeaderMarshallTest.java
+END
+BindyDoubleQuotesCsvUnmarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1066005/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindyDoubleQuotesCsvUnmarshallTest.java
+END
+BindySimpleCsvMarshallPositionModifiedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1065694/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindySimpleCsvMarshallPositionModifiedTest.java
+END
+BindyPojoSimpleCsvMarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1065694/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindyPojoSimpleCsvMarshallTest.java
+END
+BindySimpleCsvUnmarshallBadIntegerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1066005/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindySimpleCsvUnmarshallBadIntegerTest.java
+END
+BindyCarQuoteAndCommaDelimiterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1093999/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindyCarQuoteAndCommaDelimiterTest.java
+END
+BindySimpleCsvUnmarshallPositionModifiedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1066005/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindySimpleCsvUnmarshallPositionModifiedTest.java
+END
+BindySimpleCsvOneToManyMarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/893726/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindySimpleCsvOneToManyMarshallTest.java
+END
+BindySimpleCsvNullMarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/893726/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindySimpleCsvNullMarshallTest.java
+END
+BindySingleQuotesCsvUnmarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1066005/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindySingleQuotesCsvUnmarshallTest.java
+END
+BindyInlinedQuotesCsvUnmarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1066005/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindyInlinedQuotesCsvUnmarshallTest.java
+END
+BindySimpleCsvRemoveWhitespaceUnmarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/953192/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindySimpleCsvRemoveWhitespaceUnmarshallTest.java
+END
+BindyTabSeparatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindyTabSeparatorTest.java
+END
+BindySimpleCsvMarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1065694/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindySimpleCsvMarshallTest.java
+END
+BindyComplexCsvGenerateHeaderMarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/893726/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindyComplexCsvGenerateHeaderMarshallTest.java
+END
+BindySimpleCsvMarshallDslTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/893726/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindySimpleCsvMarshallDslTest.java
+END
+BindyPipeDelimiterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindyPipeDelimiterTest.java
+END
+BindySimpleCsvUnmarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1067381/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindySimpleCsvUnmarshallTest.java
+END
+BindySimpleCsvUnmarshallDslTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1067381/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindySimpleCsvUnmarshallDslTest.java
+END
+BindySimpleCsvMandatoryFieldsUnmarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1066005/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindySimpleCsvMandatoryFieldsUnmarshallTest.java
+END
+BindySimpleCsvSkipFirstLineUnmarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1067381/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindySimpleCsvSkipFirstLineUnmarshallTest.java
+END
+BindyCsvBigFileUnmarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/893726/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindyCsvBigFileUnmarshallTest.java
+END
+BindyComplexCsvMarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/893726/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/csv/BindyComplexCsvMarshallTest.java
+END

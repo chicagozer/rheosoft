@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-rss/src/main/java/org/apache/camel/component/rss
+END
+RssConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/748570/camel/trunk/components/camel-rss/src/main/java/org/apache/camel/component/rss/RssConstants.java
+END
+AggregateRssFeedStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1065931/camel/trunk/components/camel-rss/src/main/java/org/apache/camel/component/rss/AggregateRssFeedStrategy.java
+END
+RssEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1065931/camel/trunk/components/camel-rss/src/main/java/org/apache/camel/component/rss/RssEndpoint.java
+END
+RssPollingConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/743414/camel/trunk/components/camel-rss/src/main/java/org/apache/camel/component/rss/RssPollingConsumer.java
+END
+RssUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-rss/src/main/java/org/apache/camel/component/rss/RssUtils.java
+END
+RssComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/998608/camel/trunk/components/camel-rss/src/main/java/org/apache/camel/component/rss/RssComponent.java
+END
+RssEntryPollingConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/989022/camel/trunk/components/camel-rss/src/main/java/org/apache/camel/component/rss/RssEntryPollingConsumer.java
+END
+UpdatedDateFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-rss/src/main/java/org/apache/camel/component/rss/UpdatedDateFilter.java
+END
+RssDateComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/915754/camel/trunk/components/camel-rss/src/main/java/org/apache/camel/component/rss/RssDateComparator.java
+END

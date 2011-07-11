@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1143904/camel/trunk/camel-core/src/test/java/org/apache/camel
+END
+MainExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/MainExample.java
+END
+TestSupportJmxCleanup.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1065692/camel/trunk/camel-core/src/test/java/org/apache/camel/TestSupportJmxCleanup.java
+END
+TestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/TestSupport.java
+END
+ExchangeTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1096289/camel/trunk/camel-core/src/test/java/org/apache/camel/ExchangeTestSupport.java
+END
+LanguageTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/LanguageTestSupport.java
+END
+ExchangePatternTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/ExchangePatternTest.java
+END
+ContextTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1100508/camel/trunk/camel-core/src/test/java/org/apache/camel/ContextTestSupport.java
+END
+InjectorDefaultsToReflectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/InjectorDefaultsToReflectionTest.java
+END
+CamelExceptionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/CamelExceptionsTest.java
+END
+MainTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/MainTest.java
+END
+SuspendableServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/SuspendableServiceTest.java
+END
+TestSupportNodeIdFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/943644/camel/trunk/camel-core/src/test/java/org/apache/camel/TestSupportNodeIdFactory.java
+END
+MyFoo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/MyFoo.java
+END
+BodyAndHeaderConvertTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/BodyAndHeaderConvertTest.java
+END
+MyBarSingleton.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/MyBarSingleton.java
+END

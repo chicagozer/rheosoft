@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/bean/issues
+END
+FilterBeanNonRegistryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/bean/issues/FilterBeanNonRegistryTest.java
+END
+BaseClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/bean/issues/BaseClass.java
+END
+BeanRouteToDerivedClassTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/bean/issues/BeanRouteToDerivedClassTest.java
+END
+MyMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/bean/issues/MyMessageListener.java
+END
+FilterBeanLanguageNonRegistryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/bean/issues/FilterBeanLanguageNonRegistryTest.java
+END
+FilterBeanRegistryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/bean/issues/FilterBeanRegistryTest.java
+END
+MyMessageToProcessorConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/bean/issues/MyMessageToProcessorConverter.java
+END
+FilterPojoIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/bean/issues/FilterPojoIssueTest.java
+END
+DerivedClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/bean/issues/DerivedClass.java
+END
+MyMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/bean/issues/MyMessage.java
+END

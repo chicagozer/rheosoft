@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-hl7/src/main/java/org/apache/camel/component/hl7
+END
+HL7MLLPEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-hl7/src/main/java/org/apache/camel/component/hl7/HL7MLLPEncoder.java
+END
+HL7Converter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/798902/camel/trunk/components/camel-hl7/src/main/java/org/apache/camel/component/hl7/HL7Converter.java
+END
+HL7MLLPConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/824648/camel/trunk/components/camel-hl7/src/main/java/org/apache/camel/component/hl7/HL7MLLPConfig.java
+END
+HL7MLLPDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-hl7/src/main/java/org/apache/camel/component/hl7/HL7MLLPDecoder.java
+END
+HL7Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/748121/camel/trunk/components/camel-hl7/src/main/java/org/apache/camel/component/hl7/HL7Constants.java
+END
+HL7DataFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/798902/camel/trunk/components/camel-hl7/src/main/java/org/apache/camel/component/hl7/HL7DataFormat.java
+END
+HL7MLLPCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/798902/camel/trunk/components/camel-hl7/src/main/java/org/apache/camel/component/hl7/HL7MLLPCodec.java
+END

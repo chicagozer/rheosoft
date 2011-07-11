@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1143904/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/exceptionpolicy
+END
+ExceptionPolicyStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/834801/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/exceptionpolicy/ExceptionPolicyStrategy.java
+END
+DefaultExceptionPolicyStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1143904/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/exceptionpolicy/DefaultExceptionPolicyStrategy.java
+END
+ExceptionPolicyKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1095673/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/exceptionpolicy/ExceptionPolicyKey.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/941182/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/exceptionpolicy/package.html
+END

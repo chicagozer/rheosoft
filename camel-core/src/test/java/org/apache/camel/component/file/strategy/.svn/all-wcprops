@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1141471/camel/trunk/camel-core/src/test/java/org/apache/camel/component/file/strategy
+END
+GenericFileDeleteProcessStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/file/strategy/GenericFileDeleteProcessStrategyTest.java
+END
+MarkerFileExclusiveReadLockStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1086529/camel/trunk/camel-core/src/test/java/org/apache/camel/component/file/strategy/MarkerFileExclusiveReadLockStrategyTest.java
+END
+FileChangedReadLockTimeoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1141471/camel/trunk/camel-core/src/test/java/org/apache/camel/component/file/strategy/FileChangedReadLockTimeoutTest.java
+END
+FileChangedReadLockTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1141471/camel/trunk/camel-core/src/test/java/org/apache/camel/component/file/strategy/FileChangedReadLockTest.java
+END

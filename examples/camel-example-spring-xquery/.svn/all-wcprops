@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1092726/camel/trunk/examples/camel-example-spring-xquery
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1092726/camel/trunk/examples/camel-example-spring-xquery/pom.xml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1092726/camel/trunk/examples/camel-example-spring-xquery/README.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/735816/camel/trunk/examples/camel-example-spring-xquery/build.xml
+END

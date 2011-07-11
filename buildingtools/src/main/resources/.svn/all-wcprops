@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1097908/camel/trunk/buildingtools/src/main/resources
+END
+camel-eclipse-checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1097908/camel/trunk/buildingtools/src/main/resources/camel-eclipse-checkstyle
+END
+camel-pmd-ruleset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/735816/camel/trunk/buildingtools/src/main/resources/camel-pmd-ruleset.xml
+END
+camel-eclipse-pmd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/735816/camel/trunk/buildingtools/src/main/resources/camel-eclipse-pmd
+END
+camel-checkstyle-suppressions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/735816/camel/trunk/buildingtools/src/main/resources/camel-checkstyle-suppressions.xml
+END
+camel-checkstyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1097908/camel/trunk/buildingtools/src/main/resources/camel-checkstyle.xml
+END
+notice-supplements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/735816/camel/trunk/buildingtools/src/main/resources/notice-supplements.xml
+END

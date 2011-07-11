@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/926499/camel/trunk/components/camel-crypto/src/main/resources/META-INF/services/org/apache/camel/dataformat
+END
+crypto
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/926499/camel/trunk/components/camel-crypto/src/main/resources/META-INF/services/org/apache/camel/dataformat/crypto
+END

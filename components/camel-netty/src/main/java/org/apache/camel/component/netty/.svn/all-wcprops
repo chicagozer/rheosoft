@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-netty/src/main/java/org/apache/camel/component/netty
+END
+NettyConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-netty/src/main/java/org/apache/camel/component/netty/NettyConsumer.java
+END
+NettyConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-netty/src/main/java/org/apache/camel/component/netty/NettyConstants.java
+END
+DefaultClientPipelineFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-netty/src/main/java/org/apache/camel/component/netty/DefaultClientPipelineFactory.java
+END
+NettyHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1086028/camel/trunk/components/camel-netty/src/main/java/org/apache/camel/component/netty/NettyHelper.java
+END
+NettyEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1064780/camel/trunk/components/camel-netty/src/main/java/org/apache/camel/component/netty/NettyEndpoint.java
+END
+ServerPipelineFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/986850/camel/trunk/components/camel-netty/src/main/java/org/apache/camel/component/netty/ServerPipelineFactory.java
+END
+NettyComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/979276/camel/trunk/components/camel-netty/src/main/java/org/apache/camel/component/netty/NettyComponent.java
+END
+NettyProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-netty/src/main/java/org/apache/camel/component/netty/NettyProducer.java
+END
+DefaultServerPipelineFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-netty/src/main/java/org/apache/camel/component/netty/DefaultServerPipelineFactory.java
+END
+NettyConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-netty/src/main/java/org/apache/camel/component/netty/NettyConfiguration.java
+END
+NettyConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-netty/src/main/java/org/apache/camel/component/netty/NettyConverter.java
+END
+TextLineDelimiter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-netty/src/main/java/org/apache/camel/component/netty/TextLineDelimiter.java
+END
+ClientPipelineFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/986850/camel/trunk/components/camel-netty/src/main/java/org/apache/camel/component/netty/ClientPipelineFactory.java
+END
+NettyPayloadHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-netty/src/main/java/org/apache/camel/component/netty/NettyPayloadHelper.java
+END

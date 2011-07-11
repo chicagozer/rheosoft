@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1138905/camel/trunk/components/camel-jt400/src/main/java/org/apache/camel/component/jt400
+END
+Jt400PgmCallException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1077837/camel/trunk/components/camel-jt400/src/main/java/org/apache/camel/component/jt400/Jt400PgmCallException.java
+END
+Jt400DataQueueEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1138905/camel/trunk/components/camel-jt400/src/main/java/org/apache/camel/component/jt400/Jt400DataQueueEndpoint.java
+END
+Jt400Component.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1076099/camel/trunk/components/camel-jt400/src/main/java/org/apache/camel/component/jt400/Jt400Component.java
+END
+Jt400DataQueueProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1058659/camel/trunk/components/camel-jt400/src/main/java/org/apache/camel/component/jt400/Jt400DataQueueProducer.java
+END
+Jt400PgmEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1138905/camel/trunk/components/camel-jt400/src/main/java/org/apache/camel/component/jt400/Jt400PgmEndpoint.java
+END
+Jt400PgmProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1138901/camel/trunk/components/camel-jt400/src/main/java/org/apache/camel/component/jt400/Jt400PgmProducer.java
+END
+Jt400DataQueueConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1086028/camel/trunk/components/camel-jt400/src/main/java/org/apache/camel/component/jt400/Jt400DataQueueConsumer.java
+END

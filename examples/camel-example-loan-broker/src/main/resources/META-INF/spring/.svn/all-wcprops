@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1141526/camel/trunk/examples/camel-example-loan-broker/src/main/resources/META-INF/spring
+END
+webServiceCamelContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1141526/camel/trunk/examples/camel-example-loan-broker/src/main/resources/META-INF/spring/webServiceCamelContext.xml
+END
+queueCamelContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1141526/camel/trunk/examples/camel-example-loan-broker/src/main/resources/META-INF/spring/queueCamelContext.xml
+END

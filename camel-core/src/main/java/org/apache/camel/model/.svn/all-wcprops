@@ -1,0 +1,521 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1143904/camel/trunk/camel-core/src/main/java/org/apache/camel/model
+END
+MarshalDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1143278/camel/trunk/camel-core/src/main/java/org/apache/camel/model/MarshalDefinition.java
+END
+TransactedDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1089960/camel/trunk/camel-core/src/main/java/org/apache/camel/model/TransactedDefinition.java
+END
+SendDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1074186/camel/trunk/camel-core/src/main/java/org/apache/camel/model/SendDefinition.java
+END
+RemoveHeadersDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1074186/camel/trunk/camel-core/src/main/java/org/apache/camel/model/RemoveHeadersDefinition.java
+END
+OnExceptionDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1143904/camel/trunk/camel-core/src/main/java/org/apache/camel/model/OnExceptionDefinition.java
+END
+ExpressionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1124146/camel/trunk/camel-core/src/main/java/org/apache/camel/model/ExpressionNode.java
+END
+ConvertBodyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1074186/camel/trunk/camel-core/src/main/java/org/apache/camel/model/ConvertBodyDefinition.java
+END
+FinallyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/model/FinallyDefinition.java
+END
+PollEnrichDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1092725/camel/trunk/camel-core/src/main/java/org/apache/camel/model/PollEnrichDefinition.java
+END
+RouteContextRefDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1074186/camel/trunk/camel-core/src/main/java/org/apache/camel/model/RouteContextRefDefinition.java
+END
+PackageScanDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1074186/camel/trunk/camel-core/src/main/java/org/apache/camel/model/PackageScanDefinition.java
+END
+OutputDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1074218/camel/trunk/camel-core/src/main/java/org/apache/camel/model/OutputDefinition.java
+END
+NodeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1129757/camel/trunk/camel-core/src/main/java/org/apache/camel/model/NodeFactory.java
+END
+SetFaultBodyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1075354/camel/trunk/camel-core/src/main/java/org/apache/camel/model/SetFaultBodyDefinition.java
+END
+RemoveHeaderDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1073776/camel/trunk/camel-core/src/main/java/org/apache/camel/model/RemoveHeaderDefinition.java
+END
+OnCompletionDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1124146/camel/trunk/camel-core/src/main/java/org/apache/camel/model/OnCompletionDefinition.java
+END
+InOnlyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/model/InOnlyDefinition.java
+END
+LoopDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1129757/camel/trunk/camel-core/src/main/java/org/apache/camel/model/LoopDefinition.java
+END
+NoOutputExpressionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1075354/camel/trunk/camel-core/src/main/java/org/apache/camel/model/NoOutputExpressionNode.java
+END
+ProcessDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1128271/camel/trunk/camel-core/src/main/java/org/apache/camel/model/ProcessDefinition.java
+END
+AOPDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1095673/camel/trunk/camel-core/src/main/java/org/apache/camel/model/AOPDefinition.java
+END
+RoutesDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1074186/camel/trunk/camel-core/src/main/java/org/apache/camel/model/RoutesDefinition.java
+END
+DescriptionDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1074186/camel/trunk/camel-core/src/main/java/org/apache/camel/model/DescriptionDefinition.java
+END
+FilterDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1096322/camel/trunk/camel-core/src/main/java/org/apache/camel/model/FilterDefinition.java
+END
+ContextScanDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1074186/camel/trunk/camel-core/src/main/java/org/apache/camel/model/ContextScanDefinition.java
+END
+ChoiceDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1134549/camel/trunk/camel-core/src/main/java/org/apache/camel/model/ChoiceDefinition.java
+END
+ThreadsDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1073776/camel/trunk/camel-core/src/main/java/org/apache/camel/model/ThreadsDefinition.java
+END
+NoOutputDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1073776/camel/trunk/camel-core/src/main/java/org/apache/camel/model/NoOutputDefinition.java
+END
+RouteDefinitionHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1134300/camel/trunk/camel-core/src/main/java/org/apache/camel/model/RouteDefinitionHelper.java
+END
+RouteDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1094896/camel/trunk/camel-core/src/main/java/org/apache/camel/model/RouteDefinition.java
+END
+DelayDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1075354/camel/trunk/camel-core/src/main/java/org/apache/camel/model/DelayDefinition.java
+END
+ResequenceDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1136453/camel/trunk/camel-core/src/main/java/org/apache/camel/model/ResequenceDefinition.java
+END
+PolicyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/model/PolicyDefinition.java
+END
+SetPropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1075354/camel/trunk/camel-core/src/main/java/org/apache/camel/model/SetPropertyDefinition.java
+END
+WhenDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1131411/camel/trunk/camel-core/src/main/java/org/apache/camel/model/WhenDefinition.java
+END
+MulticastDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1133789/camel/trunk/camel-core/src/main/java/org/apache/camel/model/MulticastDefinition.java
+END
+LoadBalancerDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1074186/camel/trunk/camel-core/src/main/java/org/apache/camel/model/LoadBalancerDefinition.java
+END
+InterceptSendToEndpointDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1074186/camel/trunk/camel-core/src/main/java/org/apache/camel/model/InterceptSendToEndpointDefinition.java
+END
+WireTapDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1095673/camel/trunk/camel-core/src/main/java/org/apache/camel/model/WireTapDefinition.java
+END
+RecipientListDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1133789/camel/trunk/camel-core/src/main/java/org/apache/camel/model/RecipientListDefinition.java
+END
+TryDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1124146/camel/trunk/camel-core/src/main/java/org/apache/camel/model/TryDefinition.java
+END
+RoutingSlipDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1075354/camel/trunk/camel-core/src/main/java/org/apache/camel/model/RoutingSlipDefinition.java
+END
+ProcessorDefinitionHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/935198/camel/trunk/camel-core/src/main/java/org/apache/camel/model/ProcessorDefinitionHelper.java
+END
+DataFormatDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/model/DataFormatDefinition.java
+END
+ThreadPoolProfileDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1075001/camel/trunk/camel-core/src/main/java/org/apache/camel/model/ThreadPoolProfileDefinition.java
+END
+LoadBalanceDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1136461/camel/trunk/camel-core/src/main/java/org/apache/camel/model/LoadBalanceDefinition.java
+END
+AggregateDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1124146/camel/trunk/camel-core/src/main/java/org/apache/camel/model/AggregateDefinition.java
+END
+ValidateDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1075354/camel/trunk/camel-core/src/main/java/org/apache/camel/model/ValidateDefinition.java
+END
+UnmarshalDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1143278/camel/trunk/camel-core/src/main/java/org/apache/camel/model/UnmarshalDefinition.java
+END
+SplitDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1133789/camel/trunk/camel-core/src/main/java/org/apache/camel/model/SplitDefinition.java
+END
+SetExchangePatternDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1073776/camel/trunk/camel-core/src/main/java/org/apache/camel/model/SetExchangePatternDefinition.java
+END
+InterceptDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1074186/camel/trunk/camel-core/src/main/java/org/apache/camel/model/InterceptDefinition.java
+END
+InOutDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/model/InOutDefinition.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1073359/camel/trunk/camel-core/src/main/java/org/apache/camel/model/Constants.java
+END
+FromDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1074045/camel/trunk/camel-core/src/main/java/org/apache/camel/model/FromDefinition.java
+END
+SetHeaderDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1075354/camel/trunk/camel-core/src/main/java/org/apache/camel/model/SetHeaderDefinition.java
+END
+PipelineDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1074186/camel/trunk/camel-core/src/main/java/org/apache/camel/model/PipelineDefinition.java
+END
+EnrichDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1092725/camel/trunk/camel-core/src/main/java/org/apache/camel/model/EnrichDefinition.java
+END
+TransformDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1075354/camel/trunk/camel-core/src/main/java/org/apache/camel/model/TransformDefinition.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/741939/camel/trunk/camel-core/src/main/java/org/apache/camel/model/package-info.java
+END
+LogDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1074186/camel/trunk/camel-core/src/main/java/org/apache/camel/model/LogDefinition.java
+END
+ThrowExceptionDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1074197/camel/trunk/camel-core/src/main/java/org/apache/camel/model/ThrowExceptionDefinition.java
+END
+CatchDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1124146/camel/trunk/camel-core/src/main/java/org/apache/camel/model/CatchDefinition.java
+END
+SortDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1075354/camel/trunk/camel-core/src/main/java/org/apache/camel/model/SortDefinition.java
+END
+RouteContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/model/RouteContainer.java
+END
+RollbackDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1128271/camel/trunk/camel-core/src/main/java/org/apache/camel/model/RollbackDefinition.java
+END
+RedeliveryPolicyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/model/RedeliveryPolicyDefinition.java
+END
+SetOutHeaderDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1075354/camel/trunk/camel-core/src/main/java/org/apache/camel/model/SetOutHeaderDefinition.java
+END
+IdentifiedType.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/model/IdentifiedType.java
+END
+ExecutorServiceAwareDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/model/ExecutorServiceAwareDefinition.java
+END
+RemovePropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1073776/camel/trunk/camel-core/src/main/java/org/apache/camel/model/RemovePropertyDefinition.java
+END
+RouteBuilderDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/model/RouteBuilderDefinition.java
+END
+BeanDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1135087/camel/trunk/camel-core/src/main/java/org/apache/camel/model/BeanDefinition.java
+END
+ThrottleDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1093970/camel/trunk/camel-core/src/main/java/org/apache/camel/model/ThrottleDefinition.java
+END
+OtherwiseDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1134501/camel/trunk/camel-core/src/main/java/org/apache/camel/model/OtherwiseDefinition.java
+END
+SetBodyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1075354/camel/trunk/camel-core/src/main/java/org/apache/camel/model/SetBodyDefinition.java
+END
+SamplingDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1074186/camel/trunk/camel-core/src/main/java/org/apache/camel/model/SamplingDefinition.java
+END
+OptionalIdentifiedDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1131420/camel/trunk/camel-core/src/main/java/org/apache/camel/model/OptionalIdentifiedDefinition.java
+END
+ProcessorDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1137592/camel/trunk/camel-core/src/main/java/org/apache/camel/model/ProcessorDefinition.java
+END
+Block.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/model/Block.java
+END
+InterceptFromDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1074186/camel/trunk/camel-core/src/main/java/org/apache/camel/model/InterceptFromDefinition.java
+END
+ToDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1095735/camel/trunk/camel-core/src/main/java/org/apache/camel/model/ToDefinition.java
+END
+ExpressionSubElementDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/809819/camel/trunk/camel-core/src/main/java/org/apache/camel/model/ExpressionSubElementDefinition.java
+END
+IdempotentConsumerDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1124146/camel/trunk/camel-core/src/main/java/org/apache/camel/model/IdempotentConsumerDefinition.java
+END
+DynamicRouterDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1075354/camel/trunk/camel-core/src/main/java/org/apache/camel/model/DynamicRouterDefinition.java
+END
+StopDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1074186/camel/trunk/camel-core/src/main/java/org/apache/camel/model/StopDefinition.java
+END

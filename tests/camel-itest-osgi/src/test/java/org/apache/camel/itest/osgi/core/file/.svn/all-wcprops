@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/998915/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/core/file
+END
+FileComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/998915/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/core/file/FileComponentTest.java
+END
+FileRouteDelayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/998915/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/core/file/FileRouteDelayTest.java
+END
+FileRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/998915/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/core/file/FileRouteTest.java
+END

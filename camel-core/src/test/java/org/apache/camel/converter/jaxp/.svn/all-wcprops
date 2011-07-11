@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1071901/camel/trunk/camel-core/src/test/java/org/apache/camel/converter/jaxp
+END
+StreamSourceConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/converter/jaxp/StreamSourceConverterTest.java
+END
+BytesSourceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/converter/jaxp/BytesSourceTest.java
+END
+DomConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/converter/jaxp/DomConverterTest.java
+END
+XmlConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1071901/camel/trunk/camel-core/src/test/java/org/apache/camel/converter/jaxp/XmlConverterTest.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/907402/camel/trunk/components/camel-gae/src/main/resources/META-INF/services/org/apache/camel/component
+END
+glogin
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/907402/camel/trunk/components/camel-gae/src/main/resources/META-INF/services/org/apache/camel/component/glogin
+END
+ghttp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/880672/camel/trunk/components/camel-gae/src/main/resources/META-INF/services/org/apache/camel/component/ghttp
+END
+gauth
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/907402/camel/trunk/components/camel-gae/src/main/resources/META-INF/services/org/apache/camel/component/gauth
+END
+ghttps
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/880672/camel/trunk/components/camel-gae/src/main/resources/META-INF/services/org/apache/camel/component/ghttps
+END
+gmail
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/880672/camel/trunk/components/camel-gae/src/main/resources/META-INF/services/org/apache/camel/component/gmail
+END
+gtask
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/880672/camel/trunk/components/camel-gae/src/main/resources/META-INF/services/org/apache/camel/component/gtask
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1071738/camel/trunk/examples/camel-example-jms-file/src/main/java/org/apache/camel/example/jmstofile
+END
+CamelJmsToFileExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1071738/camel/trunk/examples/camel-example-jms-file/src/main/java/org/apache/camel/example/jmstofile/CamelJmsToFileExample.java
+END
+JmsToFileClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/834475/camel/trunk/examples/camel-example-jms-file/src/main/java/org/apache/camel/example/jmstofile/JmsToFileClient.java
+END
+JmsToFileRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/831843/camel/trunk/examples/camel-example-jms-file/src/main/java/org/apache/camel/example/jmstofile/JmsToFileRoute.java
+END

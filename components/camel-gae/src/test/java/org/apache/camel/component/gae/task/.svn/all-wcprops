@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1127623/camel/trunk/components/camel-gae/src/test/java/org/apache/camel/component/gae/task
+END
+GTaskCombinedRouteBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/930675/camel/trunk/components/camel-gae/src/test/java/org/apache/camel/component/gae/task/GTaskCombinedRouteBuilder.java
+END
+GTaskCombinedRouteBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1076247/camel/trunk/components/camel-gae/src/test/java/org/apache/camel/component/gae/task/GTaskCombinedRouteBuilderTest.java
+END
+GTaskBindingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1053286/camel/trunk/components/camel-gae/src/test/java/org/apache/camel/component/gae/task/GTaskBindingTest.java
+END
+GTaskEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/933507/camel/trunk/components/camel-gae/src/test/java/org/apache/camel/component/gae/task/GTaskEndpointTest.java
+END
+GTaskTestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1127623/camel/trunk/components/camel-gae/src/test/java/org/apache/camel/component/gae/task/GTaskTestUtils.java
+END

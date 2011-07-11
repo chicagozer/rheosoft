@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1137057/camel/trunk/components/camel-spring-ws/src/main/java/org/apache/camel/component/spring/ws
+END
+SpringWebserviceEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1031442/camel/trunk/components/camel-spring-ws/src/main/java/org/apache/camel/component/spring/ws/SpringWebserviceEndpoint.java
+END
+SpringWebserviceComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1065931/camel/trunk/components/camel-spring-ws/src/main/java/org/apache/camel/component/spring/ws/SpringWebserviceComponent.java
+END
+SpringWebserviceProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1128970/camel/trunk/components/camel-spring-ws/src/main/java/org/apache/camel/component/spring/ws/SpringWebserviceProducer.java
+END
+SpringWebserviceMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1031442/camel/trunk/components/camel-spring-ws/src/main/java/org/apache/camel/component/spring/ws/SpringWebserviceMessage.java
+END
+SpringWebserviceConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1031442/camel/trunk/components/camel-spring-ws/src/main/java/org/apache/camel/component/spring/ws/SpringWebserviceConfiguration.java
+END
+SpringWebserviceConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1137057/camel/trunk/components/camel-spring-ws/src/main/java/org/apache/camel/component/spring/ws/SpringWebserviceConsumer.java
+END
+SpringWebserviceConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1031442/camel/trunk/components/camel-spring-ws/src/main/java/org/apache/camel/component/spring/ws/SpringWebserviceConstants.java
+END

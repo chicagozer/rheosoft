@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1036339/camel/trunk/examples/camel-example-jmx/src/main/java/org/apache/camel/example/jmx
+END
+SimpleBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1036339/camel/trunk/examples/camel-example-jmx/src/main/java/org/apache/camel/example/jmx/SimpleBean.java
+END
+MyRouteBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1036339/camel/trunk/examples/camel-example-jmx/src/main/java/org/apache/camel/example/jmx/MyRouteBuilder.java
+END
+ISimpleMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1036339/camel/trunk/examples/camel-example-jmx/src/main/java/org/apache/camel/example/jmx/ISimpleMXBean.java
+END

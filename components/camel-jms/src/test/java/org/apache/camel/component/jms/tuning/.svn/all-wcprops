@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/tuning
+END
+PerformanceRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/tuning/PerformanceRouteTest.java
+END
+RoutePojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/tuning/RoutePojo.java
+END
+PerformanceRoutePojoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/tuning/PerformanceRoutePojoTest.java
+END

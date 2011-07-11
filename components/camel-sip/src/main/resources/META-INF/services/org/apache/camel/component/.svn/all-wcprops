@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/988163/camel/trunk/components/camel-sip/src/main/resources/META-INF/services/org/apache/camel/component
+END
+sip
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/988163/camel/trunk/components/camel-sip/src/main/resources/META-INF/services/org/apache/camel/component/sip
+END

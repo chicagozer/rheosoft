@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/883592/camel/trunk/components/camel-jcr/src/test/resources
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-jcr/src/test/resources/log4j.properties
+END
+repository_with_auth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/883592/camel/trunk/components/camel-jcr/src/test/resources/repository_with_auth.xml
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1005723/camel/trunk/tests/camel-itest-osgi/src/test/resources/org/apache/camel/itest/osgi/restlet/example
+END
+camel-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1005723/camel/trunk/tests/camel-itest-osgi/src/test/resources/org/apache/camel/itest/osgi/restlet/example/camel-context.xml
+END
+jaxb.index
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1005723/camel/trunk/tests/camel-itest-osgi/src/test/resources/org/apache/camel/itest/osgi/restlet/example/jaxb.index
+END

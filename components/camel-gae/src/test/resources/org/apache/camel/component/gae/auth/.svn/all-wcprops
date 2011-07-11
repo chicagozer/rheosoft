@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-gae/src/test/resources/org/apache/camel/component/gae/auth
+END
+test2.pk8
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/907402/camel/trunk/components/camel-gae/src/test/resources/org/apache/camel/component/gae/auth/test2.pk8
+END
+context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-gae/src/test/resources/org/apache/camel/component/gae/auth/context.xml
+END
+test1.jks
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/907402/camel/trunk/components/camel-gae/src/test/resources/org/apache/camel/component/gae/auth/test1.jks
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/755623/camel/trunk/components/camel-web/src/main/webapp/js/dojo/cldr/nls/ru
+END
+number.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/755623/camel/trunk/components/camel-web/src/main/webapp/js/dojo/cldr/nls/ru/number.js
+END
+currency.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/755623/camel/trunk/components/camel-web/src/main/webapp/js/dojo/cldr/nls/ru/currency.js
+END
+gregorian.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/755623/camel/trunk/components/camel-web/src/main/webapp/js/dojo/cldr/nls/ru/gregorian.js
+END

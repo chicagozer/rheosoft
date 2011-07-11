@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-guice/src/test/java/org/apache/camel/guice
+END
+ConciseGuiceRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-guice/src/test/java/org/apache/camel/guice/ConciseGuiceRouteTest.java
+END
+MyRouteInstaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/938312/camel/trunk/components/camel-guice/src/test/java/org/apache/camel/guice/MyRouteInstaller.java
+END
+EndpointInjectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-guice/src/test/java/org/apache/camel/guice/EndpointInjectionTest.java
+END
+MainTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-guice/src/test/java/org/apache/camel/guice/MainTest.java
+END
+MyConfigurableRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-guice/src/test/java/org/apache/camel/guice/MyConfigurableRoute.java
+END
+TraditionalGuiceRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-guice/src/test/java/org/apache/camel/guice/TraditionalGuiceRouteTest.java
+END
+MyConfigurableRoute2.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-guice/src/test/java/org/apache/camel/guice/MyConfigurableRoute2.java
+END
+GuiceRouteWithNamedKeysTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-guice/src/test/java/org/apache/camel/guice/GuiceRouteWithNamedKeysTest.java
+END
+GuiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-guice/src/test/java/org/apache/camel/guice/GuiceTest.java
+END
+CollectionOfCustomRoutesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-guice/src/test/java/org/apache/camel/guice/CollectionOfCustomRoutesTest.java
+END
+ComponentFoundInRegistryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-guice/src/test/java/org/apache/camel/guice/ComponentFoundInRegistryTest.java
+END
+MyHardcodeRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-guice/src/test/java/org/apache/camel/guice/MyHardcodeRoute.java
+END

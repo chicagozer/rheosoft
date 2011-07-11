@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-nagios/src/test/java/org/apache/camel/component/nagios
+END
+NagiosTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-nagios/src/test/java/org/apache/camel/component/nagios/NagiosTest.java
+END
+NagiosEventNotifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-nagios/src/test/java/org/apache/camel/component/nagios/NagiosEventNotifierTest.java
+END
+NagiosConfiguraitonRefTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-nagios/src/test/java/org/apache/camel/component/nagios/NagiosConfiguraitonRefTest.java
+END
+NagiosAsyncSendTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-nagios/src/test/java/org/apache/camel/component/nagios/NagiosAsyncSendTest.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1094187/camel/trunk/components/camel-aws/src/test/java/org/apache/camel/component/aws/s3
+END
+S3ComponentConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1094187/camel/trunk/components/camel-aws/src/test/java/org/apache/camel/component/aws/s3/S3ComponentConfigurationTest.java
+END
+S3BatchConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1087367/camel/trunk/components/camel-aws/src/test/java/org/apache/camel/component/aws/s3/S3BatchConsumerTest.java
+END
+AmazonS3ClientMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1087367/camel/trunk/components/camel-aws/src/test/java/org/apache/camel/component/aws/s3/AmazonS3ClientMock.java
+END
+S3ComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1087367/camel/trunk/components/camel-aws/src/test/java/org/apache/camel/component/aws/s3/S3ComponentTest.java
+END
+S3ComponentSpringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1087367/camel/trunk/components/camel-aws/src/test/java/org/apache/camel/component/aws/s3/S3ComponentSpringTest.java
+END

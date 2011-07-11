@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1075264/camel/trunk/components/camel-hazelcast/src/main/java/org/apache/camel/component/hazelcast/map
+END
+HazelcastMapProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1075264/camel/trunk/components/camel-hazelcast/src/main/java/org/apache/camel/component/hazelcast/map/HazelcastMapProducer.java
+END
+HazelcastMapConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1075264/camel/trunk/components/camel-hazelcast/src/main/java/org/apache/camel/component/hazelcast/map/HazelcastMapConsumer.java
+END
+HazelcastMapEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1075264/camel/trunk/components/camel-hazelcast/src/main/java/org/apache/camel/component/hazelcast/map/HazelcastMapEndpoint.java
+END

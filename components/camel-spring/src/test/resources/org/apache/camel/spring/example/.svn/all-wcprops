@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1074849/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/example
+END
+pojoDualCamelContextConsumer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/example/pojoDualCamelContextConsumer.xml
+END
+pojoConsumer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/example/pojoConsumer.xml
+END
+fooEventRoute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/example/fooEventRoute.xml
+END
+contentBasedRoute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/example/contentBasedRoute.xml
+END
+pojoSender.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1074849/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/example/pojoSender.xml
+END
+simpleRoute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/example/simpleRoute.xml
+END
+xpathFilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/example/xpathFilter.xml
+END

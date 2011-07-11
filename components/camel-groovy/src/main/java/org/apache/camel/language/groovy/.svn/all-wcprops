@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-groovy/src/main/java/org/apache/camel/language/groovy
+END
+GroovyExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-groovy/src/main/java/org/apache/camel/language/groovy/GroovyExpression.java
+END
+GroovyLanguage.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-groovy/src/main/java/org/apache/camel/language/groovy/GroovyLanguage.java
+END
+CamelGroovyMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-groovy/src/main/java/org/apache/camel/language/groovy/CamelGroovyMethods.java
+END
+GroovyRouteBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-groovy/src/main/java/org/apache/camel/language/groovy/GroovyRouteBuilder.java
+END

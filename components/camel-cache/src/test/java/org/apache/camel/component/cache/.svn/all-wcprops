@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-cache/src/test/java/org/apache/camel/component/cache
+END
+CacheConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-cache/src/test/java/org/apache/camel/component/cache/CacheConsumerTest.java
+END
+CacheRoutesManagementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1099711/camel/trunk/components/camel-cache/src/test/java/org/apache/camel/component/cache/CacheRoutesManagementTest.java
+END
+Poetry.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/898273/camel/trunk/components/camel-cache/src/test/java/org/apache/camel/component/cache/Poetry.java
+END
+CacheConsumerFIFOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-cache/src/test/java/org/apache/camel/component/cache/CacheConsumerFIFOTest.java
+END
+CacheManagerFactoryRefTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1090960/camel/trunk/components/camel-cache/src/test/java/org/apache/camel/component/cache/CacheManagerFactoryRefTest.java
+END
+CacheProducerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1095623/camel/trunk/components/camel-cache/src/test/java/org/apache/camel/component/cache/CacheProducerTest.java
+END
+CacheRegistryRefTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1099711/camel/trunk/components/camel-cache/src/test/java/org/apache/camel/component/cache/CacheRegistryRefTest.java
+END
+CacheConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1055051/camel/trunk/components/camel-cache/src/test/java/org/apache/camel/component/cache/CacheConfigurationTest.java
+END

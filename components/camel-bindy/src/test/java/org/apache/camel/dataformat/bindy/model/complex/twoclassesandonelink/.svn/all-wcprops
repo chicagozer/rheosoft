@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/882639/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/model/complex/twoclassesandonelink
+END
+Security.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/882639/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/model/complex/twoclassesandonelink/Security.java
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/882639/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/model/complex/twoclassesandonelink/Order.java
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/882639/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/model/complex/twoclassesandonelink/Client.java
+END

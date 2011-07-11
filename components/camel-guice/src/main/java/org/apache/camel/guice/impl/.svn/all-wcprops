@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-guice/src/main/java/org/apache/camel/guice/impl
+END
+ProduceInjector.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-guice/src/main/java/org/apache/camel/guice/impl/ProduceInjector.java
+END
+GuiceInjector.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-guice/src/main/java/org/apache/camel/guice/impl/GuiceInjector.java
+END
+ConsumerInjection.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-guice/src/main/java/org/apache/camel/guice/impl/ConsumerInjection.java
+END
+EndpointInjector.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-guice/src/main/java/org/apache/camel/guice/impl/EndpointInjector.java
+END

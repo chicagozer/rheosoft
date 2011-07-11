@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/998915/camel/trunk/tests/camel-itest-osgi/src/test/resources/org/apache/camel/itest/osgi/spring/validator
+END
+schema.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/998915/camel/trunk/tests/camel-itest-osgi/src/test/resources/org/apache/camel/itest/osgi/spring/validator/schema.xsd
+END

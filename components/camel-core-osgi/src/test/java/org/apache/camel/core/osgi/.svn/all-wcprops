@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1042523/camel/trunk/components/camel-core-osgi/src/test/java/org/apache/camel/core/osgi
+END
+CamelOsgiTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/951497/camel/trunk/components/camel-core-osgi/src/test/java/org/apache/camel/core/osgi/CamelOsgiTestSupport.java
+END
+CamelMockLanguageResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/951497/camel/trunk/components/camel-core-osgi/src/test/java/org/apache/camel/core/osgi/CamelMockLanguageResolver.java
+END
+OsgiFactoryFinderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/951497/camel/trunk/components/camel-core-osgi/src/test/java/org/apache/camel/core/osgi/OsgiFactoryFinderTest.java
+END
+CamelMockBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1042523/camel/trunk/components/camel-core-osgi/src/test/java/org/apache/camel/core/osgi/CamelMockBundle.java
+END
+OsgiComponentResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1042523/camel/trunk/components/camel-core-osgi/src/test/java/org/apache/camel/core/osgi/OsgiComponentResolverTest.java
+END
+OsgiLanguageResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1042523/camel/trunk/components/camel-core-osgi/src/test/java/org/apache/camel/core/osgi/OsgiLanguageResolverTest.java
+END
+OsgiClassResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/951497/camel/trunk/components/camel-core-osgi/src/test/java/org/apache/camel/core/osgi/OsgiClassResolverTest.java
+END
+ServiceRegistryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1042523/camel/trunk/components/camel-core-osgi/src/test/java/org/apache/camel/core/osgi/ServiceRegistryTest.java
+END
+CamelMockBundleContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1042523/camel/trunk/components/camel-core-osgi/src/test/java/org/apache/camel/core/osgi/CamelMockBundleContext.java
+END
+OsgiPackageScanClassResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1030359/camel/trunk/components/camel-core-osgi/src/test/java/org/apache/camel/core/osgi/OsgiPackageScanClassResolverTest.java
+END

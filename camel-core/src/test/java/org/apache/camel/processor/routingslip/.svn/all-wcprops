@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1141866/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/routingslip
+END
+RoutingSlipDataModificationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1141866/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/routingslip/RoutingSlipDataModificationTest.java
+END
+RoutingSlipTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/949671/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/routingslip/RoutingSlipTest.java
+END
+RoutingSlipWithErrorHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/885876/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/routingslip/RoutingSlipWithErrorHandlerTest.java
+END
+RoutingSlipPOJOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/990724/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/routingslip/RoutingSlipPOJOTest.java
+END
+RoutingSlipWithExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/885876/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/routingslip/RoutingSlipWithExceptionTest.java
+END
+RoutingSlipIgnoreInvalidEndpointsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/956598/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/routingslip/RoutingSlipIgnoreInvalidEndpointsTest.java
+END

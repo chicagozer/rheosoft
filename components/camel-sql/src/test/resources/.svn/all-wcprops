@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1073186/camel/trunk/components/camel-sql/src/test/resources
+END
+jndi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1073186/camel/trunk/components/camel-sql/src/test/resources/jndi.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-sql/src/test/resources/log4j.properties
+END

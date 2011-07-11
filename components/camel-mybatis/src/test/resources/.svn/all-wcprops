@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1070801/camel/trunk/components/camel-mybatis/src/test/resources
+END
+SqlMapConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1070801/camel/trunk/components/camel-mybatis/src/test/resources/SqlMapConfig.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1070801/camel/trunk/components/camel-mybatis/src/test/resources/log4j.properties
+END

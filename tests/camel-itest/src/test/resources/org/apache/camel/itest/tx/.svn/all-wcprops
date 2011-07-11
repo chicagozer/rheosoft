@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1090254/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/tx
+END
+JmsToHttpTXWithRollbackTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1090254/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/tx/JmsToHttpTXWithRollbackTest-context.xml
+END
+JmsToHttpTXWithOnExceptionTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1090254/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/tx/JmsToHttpTXWithOnExceptionTest-context.xml
+END
+JmsToHttpTXWithOnExceptionAndNoTransactionErrorHandlerConfiguredTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/asf/!svn/ver/1090254/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/tx/JmsToHttpTXWithOnExceptionAndNoTransactionErrorHandlerConfiguredTest-context.xml
+END
+JmsToHttpTXTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1090254/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/tx/JmsToHttpTXTest-context.xml
+END

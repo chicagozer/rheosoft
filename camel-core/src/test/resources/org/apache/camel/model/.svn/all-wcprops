@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1073445/camel/trunk/camel-core/src/test/resources/org/apache/camel/model
+END
+setHeaderToConstant.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/741939/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/setHeaderToConstant.xml
+END
+barRoute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1040104/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/barRoute.xml
+END
+dynamicRecipientList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/741939/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/dynamicRecipientList.xml
+END
+staticRecipientList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/741939/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/staticRecipientList.xml
+END
+routeWithJSonDataFormat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/816190/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/routeWithJSonDataFormat.xml
+END
+routeWithFailoverLoadBalance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/816171/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/routeWithFailoverLoadBalance.xml
+END
+convertBody.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/741939/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/convertBody.xml
+END
+barOnExceptionRoute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1059045/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/barOnExceptionRoute.xml
+END
+routeWithRandomLoadBalance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/816171/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/routeWithRandomLoadBalance.xml
+END
+routeWithXStreamDataFormat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/816190/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/routeWithXStreamDataFormat.xml
+END
+routeWithFlatpackDataFormat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/816190/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/routeWithFlatpackDataFormat.xml
+END
+barPolicyRoute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1059327/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/barPolicyRoute.xml
+END
+routingSlipHeaderSet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/959195/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/routingSlipHeaderSet.xml
+END
+setHeader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/741939/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/setHeader.xml
+END
+routeWithChoice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/741939/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/routeWithChoice.xml
+END
+splitter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/741939/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/splitter.xml
+END
+routeWithHL7DataFormat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/816190/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/routeWithHL7DataFormat.xml
+END
+simpleRoute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/741939/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/simpleRoute.xml
+END
+setBody.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/741939/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/setBody.xml
+END
+setOutHeaderToConstant.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/741939/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/setOutHeaderToConstant.xml
+END
+wireTap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/966094/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/wireTap.xml
+END
+processor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/741939/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/processor.xml
+END
+routingSlip.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/959195/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/routingSlip.xml
+END
+processorWithFilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/741939/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/processorWithFilter.xml
+END
+resequencerBatch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1073445/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/resequencerBatch.xml
+END
+routeWithBindyDataFormat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/816190/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/routeWithBindyDataFormat.xml
+END
+routeWithRSSDataFormat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/816190/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/routeWithRSSDataFormat.xml
+END
+routingSlipHeaderAndDelimiterSet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/959195/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/routingSlipHeaderAndDelimiterSet.xml
+END
+routeWithXMLBeansDataFormat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/816190/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/routeWithXMLBeansDataFormat.xml
+END
+routeWithStickyLoadBalance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/775503/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/routeWithStickyLoadBalance.xml
+END
+processorWithGroovyFilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/741939/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/processorWithGroovyFilter.xml
+END
+processorWithHeaderFilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/741939/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/processorWithHeaderFilter.xml
+END
+setOutHeader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/741939/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/setOutHeader.xml
+END
+resequencerStream.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1073445/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/resequencerStream.xml
+END
+routeWithTopicLoadBalance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/816171/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/routeWithTopicLoadBalance.xml
+END
+routeWithLoadBalance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/741939/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/routeWithLoadBalance.xml
+END
+routeWithJaxbDataFormat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/816190/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/routeWithJaxbDataFormat.xml
+END
+barInterceptorRoute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1058858/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/barInterceptorRoute.xml
+END
+processorWithElFilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/741939/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/processorWithElFilter.xml
+END
+routeWithXMLSecurityDataFormat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/819489/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/routeWithXMLSecurityDataFormat.xml
+END
+routeWithTidyMarkupDataFormat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/819489/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/routeWithTidyMarkupDataFormat.xml
+END
+routeWithInterceptor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/741939/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/routeWithInterceptor.xml
+END
+routeWithCvsDataFormat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/819489/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/routeWithCvsDataFormat.xml
+END
+loop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/741939/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/loop.xml
+END
+routeWithCastorDataFormat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/819489/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/routeWithCastorDataFormat.xml
+END
+routeWithJibxDataFormat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1039701/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/routeWithJibxDataFormat.xml
+END
+transform.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/741939/camel/trunk/camel-core/src/test/resources/org/apache/camel/model/transform.xml
+END

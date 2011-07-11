@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1137250/camel/trunk/components/camel-bindy/src/main/java/org/apache/camel/dataformat/bindy
+END
+BindyFixedLengthFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-bindy/src/main/java/org/apache/camel/dataformat/bindy/BindyFixedLengthFactory.java
+END
+BindyKeyValuePairFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1137250/camel/trunk/components/camel-bindy/src/main/java/org/apache/camel/dataformat/bindy/BindyKeyValuePairFactory.java
+END
+FormatFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1038919/camel/trunk/components/camel-bindy/src/main/java/org/apache/camel/dataformat/bindy/FormatFactory.java
+END
+BindyAbstractFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-bindy/src/main/java/org/apache/camel/dataformat/bindy/BindyAbstractFactory.java
+END
+PatternFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/882639/camel/trunk/components/camel-bindy/src/main/java/org/apache/camel/dataformat/bindy/PatternFormat.java
+END
+Format.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/882639/camel/trunk/components/camel-bindy/src/main/java/org/apache/camel/dataformat/bindy/Format.java
+END
+BindyCsvFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-bindy/src/main/java/org/apache/camel/dataformat/bindy/BindyCsvFactory.java
+END
+BindyAbstractDataFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1065694/camel/trunk/components/camel-bindy/src/main/java/org/apache/camel/dataformat/bindy/BindyAbstractDataFormat.java
+END
+BindyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/882639/camel/trunk/components/camel-bindy/src/main/java/org/apache/camel/dataformat/bindy/BindyFactory.java
+END

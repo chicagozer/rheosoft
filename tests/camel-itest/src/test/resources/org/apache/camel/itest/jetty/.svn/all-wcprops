@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1125714/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/jetty
+END
+JettyMulticastJmsFileTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1125714/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/jetty/JettyMulticastJmsFileTest-context.xml
+END
+JettyJmsShutdownInProgressTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/966094/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/jetty/JettyJmsShutdownInProgressTest-context.xml
+END
+JettyJmsTwowayTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/966094/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/jetty/JettyJmsTwowayTest-context.xml
+END
+JettyFileMulticastTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/966094/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/jetty/JettyFileMulticastTest-context.xml
+END
+JettyJmsShutdownTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/966094/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/jetty/JettyJmsShutdownTest-context.xml
+END
+ValidRequest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/998014/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/jetty/ValidRequest.xml
+END
+JettyJmsTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1057156/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/jetty/JettyJmsTest-context.xml
+END
+JettySpringFailoverRoundRobinTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/966094/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/jetty/JettySpringFailoverRoundRobinTest.xml
+END
+InvalidRequest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/998014/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/jetty/InvalidRequest.xml
+END

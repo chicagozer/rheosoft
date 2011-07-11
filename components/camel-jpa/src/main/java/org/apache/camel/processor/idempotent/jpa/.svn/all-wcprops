@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1103388/camel/trunk/components/camel-jpa/src/main/java/org/apache/camel/processor/idempotent/jpa
+END
+JpaMessageIdRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1103388/camel/trunk/components/camel-jpa/src/main/java/org/apache/camel/processor/idempotent/jpa/JpaMessageIdRepository.java
+END
+MessageProcessed.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1103388/camel/trunk/components/camel-jpa/src/main/java/org/apache/camel/processor/idempotent/jpa/MessageProcessed.java
+END

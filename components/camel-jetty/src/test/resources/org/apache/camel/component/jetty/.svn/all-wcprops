@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1094149/camel/trunk/components/camel-jetty/src/test/resources/org/apache/camel/component/jetty
+END
+jetty-noconnection-redelivery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1094149/camel/trunk/components/camel-jetty/src/test/resources/org/apache/camel/component/jetty/jetty-noconnection-redelivery.xml
+END
+jetty-noconnection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1094149/camel/trunk/components/camel-jetty/src/test/resources/org/apache/camel/component/jetty/jetty-noconnection.xml
+END
+jetty-https.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1094149/camel/trunk/components/camel-jetty/src/test/resources/org/apache/camel/component/jetty/jetty-https.xml
+END

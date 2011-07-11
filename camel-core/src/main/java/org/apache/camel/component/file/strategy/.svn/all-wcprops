@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1089960/camel/trunk/camel-core/src/main/java/org/apache/camel/component/file/strategy
+END
+GenericFileDeleteProcessStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1085905/camel/trunk/camel-core/src/main/java/org/apache/camel/component/file/strategy/GenericFileDeleteProcessStrategy.java
+END
+MarkerFileExclusiveReadLockStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1089960/camel/trunk/camel-core/src/main/java/org/apache/camel/component/file/strategy/MarkerFileExclusiveReadLockStrategy.java
+END
+GenericFileRenameExclusiveReadLockStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1085587/camel/trunk/camel-core/src/main/java/org/apache/camel/component/file/strategy/GenericFileRenameExclusiveReadLockStrategy.java
+END
+GenericFileExpressionRenamer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/797459/camel/trunk/camel-core/src/main/java/org/apache/camel/component/file/strategy/GenericFileExpressionRenamer.java
+END
+GenericFileProcessStrategyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1051127/camel/trunk/camel-core/src/main/java/org/apache/camel/component/file/strategy/GenericFileProcessStrategyFactory.java
+END
+GenericFileRenameProcessStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1085905/camel/trunk/camel-core/src/main/java/org/apache/camel/component/file/strategy/GenericFileRenameProcessStrategy.java
+END
+GenericFileRenamer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/789563/camel/trunk/camel-core/src/main/java/org/apache/camel/component/file/strategy/GenericFileRenamer.java
+END
+FileLockExclusiveReadLockStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1089960/camel/trunk/camel-core/src/main/java/org/apache/camel/component/file/strategy/FileLockExclusiveReadLockStrategy.java
+END
+FileChangedExclusiveReadLockStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1089960/camel/trunk/camel-core/src/main/java/org/apache/camel/component/file/strategy/FileChangedExclusiveReadLockStrategy.java
+END
+FileProcessStrategyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1057505/camel/trunk/camel-core/src/main/java/org/apache/camel/component/file/strategy/FileProcessStrategyFactory.java
+END
+GenericFileNoOpProcessStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/739977/camel/trunk/camel-core/src/main/java/org/apache/camel/component/file/strategy/GenericFileNoOpProcessStrategy.java
+END
+GenericFileProcessStrategySupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1089960/camel/trunk/camel-core/src/main/java/org/apache/camel/component/file/strategy/GenericFileProcessStrategySupport.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/735816/camel/trunk/camel-core/src/main/java/org/apache/camel/component/file/strategy/package.html
+END

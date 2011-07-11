@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1104036/camel/trunk/platforms/karaf/commands/src/main/java/org/apache/camel/karaf/commands
+END
+InfoContextCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1104036/camel/trunk/platforms/karaf/commands/src/main/java/org/apache/camel/karaf/commands/InfoContextCommand.java
+END
+StartContextCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1104036/camel/trunk/platforms/karaf/commands/src/main/java/org/apache/camel/karaf/commands/StartContextCommand.java
+END
+ListContextsCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1104036/camel/trunk/platforms/karaf/commands/src/main/java/org/apache/camel/karaf/commands/ListContextsCommand.java
+END
+StopRouteCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1104036/camel/trunk/platforms/karaf/commands/src/main/java/org/apache/camel/karaf/commands/StopRouteCommand.java
+END
+CamelController.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1104036/camel/trunk/platforms/karaf/commands/src/main/java/org/apache/camel/karaf/commands/CamelController.java
+END
+InfoRouteCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1104036/camel/trunk/platforms/karaf/commands/src/main/java/org/apache/camel/karaf/commands/InfoRouteCommand.java
+END
+StopContextCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1104036/camel/trunk/platforms/karaf/commands/src/main/java/org/apache/camel/karaf/commands/StopContextCommand.java
+END
+StartRouteCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1104036/camel/trunk/platforms/karaf/commands/src/main/java/org/apache/camel/karaf/commands/StartRouteCommand.java
+END
+ListRoutesCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1104036/camel/trunk/platforms/karaf/commands/src/main/java/org/apache/camel/karaf/commands/ListRoutesCommand.java
+END
+ShowRouteCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1104036/camel/trunk/platforms/karaf/commands/src/main/java/org/apache/camel/karaf/commands/ShowRouteCommand.java
+END

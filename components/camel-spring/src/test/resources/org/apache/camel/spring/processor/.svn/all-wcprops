@@ -1,0 +1,1175 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1136390/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor
+END
+recipientListWithArrayHeader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/recipientListWithArrayHeader.xml
+END
+xpathFilterWithNamespaceOnRouteContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1128876/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/xpathFilterWithNamespaceOnRouteContext.xml
+END
+SpringInterceptFromWhenTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringInterceptFromWhenTest.xml
+END
+RouteStartupOrderSimpleTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/RouteStartupOrderSimpleTest.xml
+END
+roundRobinLoadBalance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/roundRobinLoadBalance.xml
+END
+SpringOnCompletionTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringOnCompletionTest.xml
+END
+faultRoute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/faultRoute.xml
+END
+ThreadsCoreAndMaxPoolKeepAliveTimeTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/ThreadsCoreAndMaxPoolKeepAliveTimeTest.xml
+END
+RouteWithConstantFieldFromExchangeFailTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1039384/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/RouteWithConstantFieldFromExchangeFailTest.xml
+END
+SpringInterceptSimpleRouteWhenTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringInterceptSimpleRouteWhenTest.xml
+END
+SpringSimpleResultTypeRouteTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1134682/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringSimpleResultTypeRouteTest.xml
+END
+enricher.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/enricher.xml
+END
+SpringThrowExceptionTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringThrowExceptionTest.xml
+END
+SpringErrorHandlerRedeliveryPolicyProfileTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1070270/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringErrorHandlerRedeliveryPolicyProfileTest.xml
+END
+RecipientListAggregationStrategyTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/RecipientListAggregationStrategyTest.xml
+END
+SpringDeadLetterChannelUseOriginalBodyTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1104616/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringDeadLetterChannelUseOriginalBodyTest.xml
+END
+SpringOnCompletionUseOriginalBodyTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringOnCompletionUseOriginalBodyTest.xml
+END
+SpringMulticastStopOnExceptionTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringMulticastStopOnExceptionTest.xml
+END
+InheritErrorHandlerTrueTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/InheritErrorHandlerTrueTest.xml
+END
+SpringOnCompletionAndInterceptGlobalTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringOnCompletionAndInterceptGlobalTest.xml
+END
+interceptSendToEndpoint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/interceptSendToEndpoint.xml
+END
+RouteStartupOrderWithDefaultTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/RouteStartupOrderWithDefaultTest.xml
+END
+routingSlip.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/routingSlip.xml
+END
+SpringTryProcessorHandledTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringTryProcessorHandledTest.xml
+END
+SpringDeadLetterChannelNoRedeliveryTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1136018/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringDeadLetterChannelNoRedeliveryTest.xml
+END
+SplitterOnPrepareTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1090597/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SplitterOnPrepareTest.xml
+END
+SpringDeadLetterChannelUseOriginalBodyNewTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringDeadLetterChannelUseOriginalBodyNewTest.xml
+END
+traceperroute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/traceperroute.xml
+END
+ThreadsCoreAndMaxPoolTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/ThreadsCoreAndMaxPoolTest.xml
+END
+SpringRouteStopTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringRouteStopTest.xml
+END
+aggregator-custom-strategy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/aggregator-custom-strategy.xml
+END
+SpringDeadLetterChannelUseOriginalExchangeWithFileTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/1104616/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringDeadLetterChannelUseOriginalExchangeWithFileTest.xml
+END
+recipientListWithStringDelimitedHeader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/recipientListWithStringDelimitedHeader.xml
+END
+SpringTryProcessorMultipleExceptionTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringTryProcessorMultipleExceptionTest.xml
+END
+transformWithExpressionContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/transformWithExpressionContext.xml
+END
+SpringInterceptFromWhenWithChoiceTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringInterceptFromWhenWithChoiceTest.xml
+END
+ThreadsDefaultTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/ThreadsDefaultTest.xml
+END
+SpringMethodCallTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringMethodCallTest.xml
+END
+setExchangePatternWithCustomId.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1134626/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/setExchangePatternWithCustomId.xml
+END
+aopafter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/aopafter.xml
+END
+interceptSendToEndpointSkip.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/interceptSendToEndpointSkip.xml
+END
+ValidateSimpleTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/ValidateSimpleTest.xml
+END
+DoubleLoadBalancerMisconfigurationTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1039865/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/DoubleLoadBalancerMisconfigurationTest.xml
+END
+SpringMulticastNoStopOnExceptionTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringMulticastNoStopOnExceptionTest.xml
+END
+sortExpressionTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1073634/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/sortExpressionTest.xml
+END
+SpringSplitterNoStopOnExceptionTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringSplitterNoStopOnExceptionTest.xml
+END
+SpringInterceptSimpleRouteTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringInterceptSimpleRouteTest.xml
+END
+loop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/loop.xml
+END
+transform.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/transform.xml
+END
+SpringOnCompletionRouteScopeOverrideGlobalScopeTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringOnCompletionRouteScopeOverrideGlobalScopeTest.xml
+END
+interceptSendToEndpointDynamic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/interceptSendToEndpointDynamic.xml
+END
+topicLoadBalance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/topicLoadBalance.xml
+END
+filter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/filter.xml
+END
+staticRecipientList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/staticRecipientList.xml
+END
+WireTapOnPrepareTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1090762/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/WireTapOnPrepareTest.xml
+END
+recipientListWithStringDelimitedProperty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/recipientListWithStringDelimitedProperty.xml
+END
+throttler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1093976/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/throttler.xml
+END
+xpathFilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/xpathFilter.xml
+END
+setExchangePattern.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/setExchangePattern.xml
+END
+convertBody.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1128172/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/convertBody.xml
+END
+BatchResequencerAllowDuplicatesTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1073445/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/BatchResequencerAllowDuplicatesTest.xml
+END
+splitterMethodCallTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/splitterMethodCallTest.xml
+END
+SpringTraceTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringTraceTest-context.xml
+END
+SpringRecipientListSubUnitOfWorkTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1133789/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringRecipientListSubUnitOfWorkTest.xml
+END
+RecipientListDoNotStopOnExceptionTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/RecipientListDoNotStopOnExceptionTest.xml
+END
+multicast.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/multicast.xml
+END
+SpringInterceptFromWithStopTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringInterceptFromWithStopTest.xml
+END
+aoparoundfinally.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/aoparoundfinally.xml
+END
+SpringDeadLetterChannelInvalidOptionDeadLetterUriTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1085723/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringDeadLetterChannelInvalidOptionDeadLetterUriTest.xml
+END
+stickyLoadBalance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/stickyLoadBalance.xml
+END
+RouteStartupOrderTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/RouteStartupOrderTest.xml
+END
+SpringTraceUsingPropertyTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringTraceUsingPropertyTest-context.xml
+END
+SpringRecipientListParallelTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringRecipientListParallelTest.xml
+END
+FailoverMaximumFailoverAttemptsTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/FailoverMaximumFailoverAttemptsTest.xml
+END
+aopafterfinally.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/aopafterfinally.xml
+END
+SpringTryProcessorOnWhenTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringTryProcessorOnWhenTest.xml
+END
+logProcessorTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1065694/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/logProcessorTest.xml
+END
+samplingThrottler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1057130/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/samplingThrottler.xml
+END
+SpringIdempotentConsumerNoSkipDuplicateTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1091432/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringIdempotentConsumerNoSkipDuplicateTest.xml
+END
+pollEnricher.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1100533/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/pollEnricher.xml
+END
+SpringLoopCopyTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1129757/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringLoopCopyTest.xml
+END
+SpringSetFaultBodyTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1071991/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringSetFaultBodyTest.xml
+END
+SpringRecipientListParallelStreamingTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringRecipientListParallelStreamingTest.xml
+END
+choice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/choice.xml
+END
+SpringIdempotentConsumerNoSkipDuplicateFilterTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1091432/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringIdempotentConsumerNoSkipDuplicateFilterTest.xml
+END
+setOutHeader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/setOutHeader.xml
+END
+streamResequencer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1073445/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/streamResequencer.xml
+END
+SpringWireTapTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringWireTapTest.xml
+END
+SpringRouteContextProduceBeanTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1129023/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringRouteContextProduceBeanTest.xml
+END
+SpringInterceptFromUriWildcardTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringInterceptFromUriWildcardTest.xml
+END
+splitterWithCustomThreadPoolExecutor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/splitterWithCustomThreadPoolExecutor.xml
+END
+SpringOnCompletionOnFailureOnlyTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringOnCompletionOnFailureOnlyTest.xml
+END
+SpringXPathHeaderTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringXPathHeaderTest-context.xml
+END
+ShutdownNotDeferTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/ShutdownNotDeferTest.xml
+END
+SpringInterceptFromEndpointRefTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1074058/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringInterceptFromEndpointRefTest.xml
+END
+RouteNoAutoStartupTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/RouteNoAutoStartupTest.xml
+END
+SpringIdempotentConsumerTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1060370/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringIdempotentConsumerTest.xml
+END
+SpringOnCompletionGlobalTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringOnCompletionGlobalTest.xml
+END
+SpringDefaultErrorHandlerOnExceptionTraceTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringDefaultErrorHandlerOnExceptionTraceTest.xml
+END
+SpringWireTapNewExchangeTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1091752/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringWireTapNewExchangeTest.xml
+END
+delayerperroute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/delayerperroute.xml
+END
+recipientListIgnoreInvalidEndpoints.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/recipientListIgnoreInvalidEndpoints.xml
+END
+SpringDeadLetterChannelInvalidDeadLetterUriTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringDeadLetterChannelInvalidDeadLetterUriTest.xml
+END
+fromMultipleEndpointTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/fromMultipleEndpointTest.xml
+END
+resequencer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/resequencer.xml
+END
+ThrottlingInflightRoutePolicyTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/ThrottlingInflightRoutePolicyTest.xml
+END
+normalizer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/normalizer.xml
+END
+samplingThrottlerWithDefault.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/samplingThrottlerWithDefault.xml
+END
+randomLoadBalance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/randomLoadBalance.xml
+END
+rollback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1128299/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/rollback.xml
+END
+SpringMulticastSubUnitOfWorkTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1133789/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringMulticastSubUnitOfWorkTest.xml
+END
+RecipientListOnPrepareTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1090597/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/RecipientListOnPrepareTest.xml
+END
+BatchResequencerJMSPriorityTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1073445/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/BatchResequencerJMSPriorityTest.xml
+END
+RecipientListStopOnExceptionTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/RecipientListStopOnExceptionTest.xml
+END
+xpathFilterWithNamespace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/xpathFilterWithNamespace.xml
+END
+sortBodyTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1073634/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/sortBodyTest.xml
+END
+SplitCustomExpressionTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1125717/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SplitCustomExpressionTest.xml
+END
+FailoverRoundRobinTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/FailoverRoundRobinTest.xml
+END
+setBody.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/setBody.xml
+END
+handlefaultperroute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/handlefaultperroute.xml
+END
+SpringInterceptFromUriRegexTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringInterceptFromUriRegexTest.xml
+END
+SpringSplitSubUnitOfWorkTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1133789/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringSplitSubUnitOfWorkTest.xml
+END
+aggregator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/aggregator.xml
+END
+SpringLoopNoCopyTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1129757/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringLoopNoCopyTest.xml
+END
+delayer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/delayer.xml
+END
+SpringComplexBlockWithEndTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringComplexBlockWithEndTest.xml
+END
+SpringAggregateFromWireTapTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringAggregateFromWireTapTest.xml
+END
+SpringOnCompletionGlobalTraceTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringOnCompletionGlobalTraceTest.xml
+END
+removeHeaders.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/removeHeaders.xml
+END
+EventNotifierExchangeSentExampleTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/EventNotifierExchangeSentExampleTest.xml
+END
+ShutdownCompleteCurrentTaskOnlyTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/ShutdownCompleteCurrentTaskOnlyTest.xml
+END
+SpringWireTapUsingFireAndForgetCopyTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringWireTapUsingFireAndForgetCopyTest.xml
+END
+setProperty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/setProperty.xml
+END
+aopnestedroute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/aopnestedroute.xml
+END
+SpringInterceptSimpleRouteWhenStopTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringInterceptSimpleRouteWhenStopTest.xml
+END
+example.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/example.xsl
+END
+aopbefore.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/aopbefore.xml
+END
+removeProperty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/removeProperty.xml
+END
+removeHeadersExclude.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1054558/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/removeHeadersExclude.xml
+END
+SpringWireTapUsingFireAndForgetTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringWireTapUsingFireAndForgetTest.xml
+END
+SpringInterceptFromTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringInterceptFromTest.xml
+END
+fromEndpointTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/fromEndpointTest.xml
+END
+PolicyPerProcessorTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/PolicyPerProcessorTest.xml
+END
+SpringDynamicRouterTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/990724/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringDynamicRouterTest.xml
+END
+SpringOnCompletionAndInterceptAndOnExceptionGlobalTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringOnCompletionAndInterceptAndOnExceptionGlobalTest.xml
+END
+interceptSendToEndpointInOnExceptionTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/interceptSendToEndpointInOnExceptionTest.xml
+END
+SpringSetHeaderWithConstantTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringSetHeaderWithConstantTest-context.xml
+END
+ShutdownDeferTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/ShutdownDeferTest.xml
+END
+MulticastOnPrepareTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1090762/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/MulticastOnPrepareTest.xml
+END
+pollEnricherRef.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1100533/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/pollEnricherRef.xml
+END
+PolicyPerRouteTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/PolicyPerRouteTest.xml
+END
+filterNoChild.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1096322/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/filterNoChild.xml
+END
+SpringInterceptSimpleRouteTraceTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringInterceptSimpleRouteTraceTest.xml
+END
+ThreadsExternalThreadPoolFactoryBeanTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1075001/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/ThreadsExternalThreadPoolFactoryBeanTest.xml
+END
+SpringSetHeaderXPathResultTypeTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1134634/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringSetHeaderXPathResultTypeTest.xml
+END
+traceInterceptorWithOutBodyTrace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/traceInterceptorWithOutBodyTrace.xml
+END
+SpringCustomRefLoadBalanceTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1136390/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringCustomRefLoadBalanceTest.xml
+END
+SpringInterceptFromUriSimpleLogTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringInterceptFromUriSimpleLogTest.xml
+END
+CustomProcessorFactoryTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/CustomProcessorFactoryTest.xml
+END
+setOutHeaderWithConstant.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/setOutHeaderWithConstant.xml
+END
+ShutdownCompleteAllTasksTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1024123/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/ShutdownCompleteAllTasksTest.xml
+END
+removeHeader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/removeHeader.xml
+END
+SpringSplitterBodyTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1005355/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringSplitterBodyTest.xml
+END
+SpringSetHeaderTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringSetHeaderTest-context.xml
+END
+SpringSplitterStopOnExceptionTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringSplitterStopOnExceptionTest.xml
+END
+SpringOnCompletionWhenTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringOnCompletionWhenTest.xml
+END
+failOverLoadBalance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/failOverLoadBalance.xml
+END
+routingSlipIgnoreInvalidEndpoints.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/routingSlipIgnoreInvalidEndpoints.xml
+END
+SpringInterceptSimpleRouteStopTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringInterceptSimpleRouteStopTest.xml
+END
+SpringOnCompletionOnCompleteOnlyTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringOnCompletionOnCompleteOnlyTest.xml
+END
+OnExceptionContinueToRouteTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/OnExceptionContinueToRouteTest.xml
+END
+SpringDualManagedThreadsThreadPoolTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1050603/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringDualManagedThreadsThreadPoolTest.xml
+END
+myprop.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/911871/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/myprop.properties
+END
+InheritErrorHandlerFalseTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/InheritErrorHandlerFalseTest.xml
+END
+SpringInterceptFromWhenNoStopTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringInterceptFromWhenNoStopTest.xml
+END
+validate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/validate.xml
+END
+ThreadsThreadPoolFactoryBeanTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/ThreadsThreadPoolFactoryBeanTest.xml
+END
+SpringOnCompletionAndInterceptTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringOnCompletionAndInterceptTest.xml
+END
+enricherref.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/enricherref.xml
+END
+ThreadsCorePoolTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/ThreadsCorePoolTest.xml
+END
+interceptSendToEndpointWhen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/interceptSendToEndpointWhen.xml
+END
+streamcachingperroute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/streamcachingperroute.xml
+END
+RouteWithConstantFieldFromExchangeTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1039384/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/RouteWithConstantFieldFromExchangeTest.xml
+END
+CBRHeaderPredicateTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/CBRHeaderPredicateTest.xml
+END
+splitterTokenizerTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/splitterTokenizerTest.xml
+END
+markrollbackonly.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/markrollbackonly.xml
+END
+weightedRandomLoadBalance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1027979/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/weightedRandomLoadBalance.xml
+END
+weightedRoundRobinLoadBalance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1027979/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/weightedRoundRobinLoadBalance.xml
+END
+SpringRoutePoliciesTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1065012/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringRoutePoliciesTest.xml
+END
+DefaultErrorHandlerRetryWhileTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1024138/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/DefaultErrorHandlerRetryWhileTest.xml
+END
+XsltTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/XsltTest-context.xml
+END
+SpringManagedThreadsThreadPoolTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1050603/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringManagedThreadsThreadPoolTest.xml
+END
+SpringCustomExpressionTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringCustomExpressionTest.xml
+END
+SpringCustomPredicateTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/SpringCustomPredicateTest.xml
+END
+InheritErrorHandlerDefaultTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/InheritErrorHandlerDefaultTest.xml
+END

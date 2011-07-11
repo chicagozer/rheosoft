@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1130160/camel/trunk/components/camel-cxf/src/main/resources/schema
+END
+cxfEndpoint.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/781050/camel/trunk/components/camel-cxf/src/main/resources/schema/cxfEndpoint.xsd
+END

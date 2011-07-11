@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1124141/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/issues
+END
+JmsSpringResequencerTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1073445/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/issues/JmsSpringResequencerTest-context.xml
+END
+JmsSpringSimpleTXResequencerTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1090254/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/issues/JmsSpringSimpleTXResequencerTest.xml
+END
+broker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1059527/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/issues/broker.xml
+END
+JmsInOutWithSpringRestartIssueTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1059928/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/issues/JmsInOutWithSpringRestartIssueTest.xml
+END
+camelBrokerClient.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1059928/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/issues/camelBrokerClient.xml
+END
+TransactionErrorHandlerRedeliveryDelayTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1090254/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/issues/TransactionErrorHandlerRedeliveryDelayTest-context.xml
+END
+JmsResequencerTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1059928/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/issues/JmsResequencerTest-context.xml
+END

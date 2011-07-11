@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/833084/camel/trunk/components/camel-jaxb/src/main/resources/META-INF/services/org/apache/camel
+END
+FallbackTypeConverter
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-jaxb/src/main/resources/META-INF/services/org/apache/camel/FallbackTypeConverter
+END

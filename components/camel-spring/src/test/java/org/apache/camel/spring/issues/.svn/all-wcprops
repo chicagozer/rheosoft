@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1136065/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues
+END
+SpringTwoCamelContextDirectEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringTwoCamelContextDirectEndpointTest.java
+END
+MyFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1092628/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/MyFactoryBean.java
+END
+SpringCatchNestedFailTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringCatchNestedFailTest.java
+END
+SpringAdviceWithRouteScopedErrorHandlerIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1094123/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringAdviceWithRouteScopedErrorHandlerIssueTest.java
+END
+CamelRouteRefInjectionIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/942665/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/CamelRouteRefInjectionIssueTest.java
+END
+SpringOnExceptionRouteScopedErrorHandlerRefIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1132562/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringOnExceptionRouteScopedErrorHandlerRefIssueTest.java
+END
+MyCoolStuff.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/MyCoolStuff.java
+END
+MyRouteBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/MyRouteBuilder.java
+END
+FileWireTapWithXMLPayloadIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/FileWireTapWithXMLPayloadIssueTest.java
+END
+SpringMultipleErrorHandlerOnExceptionIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1136065/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringMultipleErrorHandlerOnExceptionIssueTest.java
+END
+ContextScopedSpringOnExceptionNotHandledRouteScopedErrorHandlerRefIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/asf/!svn/ver/1132608/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/ContextScopedSpringOnExceptionNotHandledRouteScopedErrorHandlerRefIssueTest.java
+END
+CoolService.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/CoolService.java
+END
+MisspelledRouteRefTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/MisspelledRouteRefTest.java
+END
+SpringInstanceFactoryBeanIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1092628/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringInstanceFactoryBeanIssueTest.java
+END
+MyInjectionRouteBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/MyInjectionRouteBuilder.java
+END
+MyCoolRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/MyCoolRoute.java
+END
+SpringInitializationIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/996415/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringInitializationIssueTest.java
+END
+ProduceSplitMethodCallIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/ProduceSplitMethodCallIssueTest.java
+END
+MyStatefulBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/MyStatefulBean.java
+END
+SpringPropertyPlaceholderIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringPropertyPlaceholderIssueTest.java
+END
+SpringPropertyPlaceholderFileEndpointIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringPropertyPlaceholderFileEndpointIssueTest.java
+END
+MyProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/942972/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/MyProcessor.java
+END
+SpringTryCatchWithSplitIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringTryCatchWithSplitIssueTest.java
+END
+SpringCharlesSplitAndTryCatchRollbackIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringCharlesSplitAndTryCatchRollbackIssueTest.java
+END
+SpringOnExceptionErrorHandlerRefIssueTwoRoutesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1132562/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringOnExceptionErrorHandlerRefIssueTwoRoutesTest.java
+END
+SpringExceptionCamel4022Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1132393/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringExceptionCamel4022Test.java
+END
+SpringTransactionErrorHandlerAndContextScopedOnExceptionIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringTransactionErrorHandlerAndContextScopedOnExceptionIssueTest.java
+END
+ContextScopedSpringOnExceptionNotHandledErrorHandlerRefIssueTwoRoutesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/asf/!svn/ver/1132608/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/ContextScopedSpringOnExceptionNotHandledErrorHandlerRefIssueTwoRoutesTest.java
+END
+SpringOnExceptionErrorHandlerRefIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1132562/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringOnExceptionErrorHandlerRefIssueTest.java
+END
+SpringOnExceptionNotHandledErrorHandlerRefIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1132568/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringOnExceptionNotHandledErrorHandlerRefIssueTest.java
+END
+SpringAdviceWithContextScopedErrorHandlerIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1094123/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringAdviceWithContextScopedErrorHandlerIssueTest.java
+END
+ContextScopedSpringOnExceptionErrorHandlerRefIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1132608/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/ContextScopedSpringOnExceptionErrorHandlerRefIssueTest.java
+END
+MyHelloBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1092628/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/MyHelloBean.java
+END
+ContextScopedSpringOnExceptionNotHandledErrorHandlerRefIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/1132608/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/ContextScopedSpringOnExceptionNotHandledErrorHandlerRefIssueTest.java
+END
+SpringTryNestedFailTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringTryNestedFailTest.java
+END
+SpringMainStartFailedIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringMainStartFailedIssueTest.java
+END
+SpringOnExceptionRouteScopedErrorHandlerRefIssueTwoRoutesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/1132562/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringOnExceptionRouteScopedErrorHandlerRefIssueTwoRoutesTest.java
+END
+SpringOnExceptionNotHandledRouteScopedErrorHandlerRefIssueTwoRoutesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/asf/!svn/ver/1132568/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringOnExceptionNotHandledRouteScopedErrorHandlerRefIssueTwoRoutesTest.java
+END
+ContextScopedSpringOnExceptionRouteScopedErrorHandlerRefIssueTwoRoutesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/asf/!svn/ver/1132608/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/ContextScopedSpringOnExceptionRouteScopedErrorHandlerRefIssueTwoRoutesTest.java
+END
+ContextScopedSpringOnExceptionNotHandledRouteScopedErrorHandlerRefIssueTwoRoutesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/asf/!svn/ver/1132608/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/ContextScopedSpringOnExceptionNotHandledRouteScopedErrorHandlerRefIssueTwoRoutesTest.java
+END
+SpringRenameFileOnCommitIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringRenameFileOnCommitIssueTest.java
+END
+StringDataFormatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/759437/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/StringDataFormatTest.java
+END
+SampleRouteBuilderContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/996415/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SampleRouteBuilderContainer.java
+END
+SpringOnExceptionNotHandledRouteScopedErrorHandlerRefIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/1132568/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringOnExceptionNotHandledRouteScopedErrorHandlerRefIssueTest.java
+END
+ContextScopedSpringOnExceptionRouteScopedErrorHandlerRefIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/asf/!svn/ver/1132608/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/ContextScopedSpringOnExceptionRouteScopedErrorHandlerRefIssueTest.java
+END
+SpringPackageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringPackageTest.java
+END
+SpringTryCatchFinallyAndErrorHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringTryCatchFinallyAndErrorHandlerTest.java
+END
+SpringFinallyNestedFailTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringFinallyNestedFailTest.java
+END
+SampleInitializingRouteBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/996415/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SampleInitializingRouteBuilder.java
+END
+SampleInitializingBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/996415/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SampleInitializingBean.java
+END
+SpringSingletonScopedBeanIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringSingletonScopedBeanIssueTest.java
+END
+SpringTryCatchWithSplitNotHandledIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringTryCatchWithSplitNotHandledIssueTest.java
+END
+SpringOnExceptionNotHandledErrorHandlerRefIssueTwoRoutesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1132568/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringOnExceptionNotHandledErrorHandlerRefIssueTwoRoutesTest.java
+END
+SpringInstanceFactoryBeanCamelContextScanIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1092628/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringInstanceFactoryBeanCamelContextScanIssueTest.java
+END
+SpringRouteContextOnExceptionNotHandledRouteScopedErrorHandlerRefIssueTwoRoutesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/repos/asf/!svn/ver/1132574/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/SpringRouteContextOnExceptionNotHandledRouteScopedErrorHandlerRefIssueTwoRoutesTest.java
+END

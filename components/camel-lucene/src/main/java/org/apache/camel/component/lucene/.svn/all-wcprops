@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-lucene/src/main/java/org/apache/camel/component/lucene
+END
+LuceneConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/938766/camel/trunk/components/camel-lucene/src/main/java/org/apache/camel/component/lucene/LuceneConfiguration.java
+END
+LuceneQueryProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/938766/camel/trunk/components/camel-lucene/src/main/java/org/apache/camel/component/lucene/LuceneQueryProducer.java
+END
+LuceneIndexProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/895924/camel/trunk/components/camel-lucene/src/main/java/org/apache/camel/component/lucene/LuceneIndexProducer.java
+END
+LuceneSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1086028/camel/trunk/components/camel-lucene/src/main/java/org/apache/camel/component/lucene/LuceneSearcher.java
+END
+LuceneIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-lucene/src/main/java/org/apache/camel/component/lucene/LuceneIndexer.java
+END
+LuceneEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/895924/camel/trunk/components/camel-lucene/src/main/java/org/apache/camel/component/lucene/LuceneEndpoint.java
+END
+LuceneComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/895924/camel/trunk/components/camel-lucene/src/main/java/org/apache/camel/component/lucene/LuceneComponent.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1131070/camel/trunk/examples/camel-example-route-throttling/src/main/java/org/apache/camel/example/client
+END
+CamelClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1131070/camel/trunk/examples/camel-example-route-throttling/src/main/java/org/apache/camel/example/client/CamelClient.java
+END
+CamelFileClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/831684/camel/trunk/examples/camel-example-route-throttling/src/main/java/org/apache/camel/example/client/CamelFileClient.java
+END

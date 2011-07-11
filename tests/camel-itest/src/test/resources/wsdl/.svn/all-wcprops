@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1097669/camel/trunk/tests/camel-itest/src/test/resources/wsdl
+END
+hello_world.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/735816/camel/trunk/tests/camel-itest/src/test/resources/wsdl/hello_world.wsdl
+END
+CustomerService-1.0.0.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/735816/camel/trunk/tests/camel-itest/src/test/resources/wsdl/CustomerService-1.0.0.wsdl
+END
+CustomerService_noSoapAction.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/735816/camel/trunk/tests/camel-itest/src/test/resources/wsdl/CustomerService_noSoapAction.wsdl
+END
+binding.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1097669/camel/trunk/tests/camel-itest/src/test/resources/wsdl/binding.xml
+END

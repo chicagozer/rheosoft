@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1137057/camel/trunk/components/camel-spring-ws/src/test/resources
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1031442/camel/trunk/components/camel-spring-ws/src/test/resources/log4j.properties
+END
+stockquote-response.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1031442/camel/trunk/components/camel-spring-ws/src/test/resources/stockquote-response.xml
+END

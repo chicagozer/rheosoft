@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1141358/camel/trunk/apache-camel/src/main/descriptors
+END
+windows-bin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/735816/camel/trunk/apache-camel/src/main/descriptors/windows-bin.xml
+END
+src.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1139434/camel/trunk/apache-camel/src/main/descriptors/src.xml
+END
+unix-bin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/735816/camel/trunk/apache-camel/src/main/descriptors/unix-bin.xml
+END
+common-bin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1141358/camel/trunk/apache-camel/src/main/descriptors/common-bin.xml
+END

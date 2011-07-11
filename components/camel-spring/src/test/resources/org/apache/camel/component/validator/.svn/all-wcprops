@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/component/validator
+END
+camelContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/component/validator/camelContext.xml
+END
+schema.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/component/validator/schema.xsd
+END

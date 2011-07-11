@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/880657/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/scan/c
+END
+ScanTargetThree.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/880657/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/scan/c/ScanTargetThree.java
+END
+NotAScanTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/880657/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/scan/c/NotAScanTarget.java
+END

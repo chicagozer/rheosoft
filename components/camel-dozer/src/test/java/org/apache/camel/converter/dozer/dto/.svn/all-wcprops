@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1026271/camel/trunk/components/camel-dozer/src/test/java/org/apache/camel/converter/dozer/dto
+END
+CustomerDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1026271/camel/trunk/components/camel-dozer/src/test/java/org/apache/camel/converter/dozer/dto/CustomerDTO.java
+END
+AddressDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1026271/camel/trunk/components/camel-dozer/src/test/java/org/apache/camel/converter/dozer/dto/AddressDTO.java
+END

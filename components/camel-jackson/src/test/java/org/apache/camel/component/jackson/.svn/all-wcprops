@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1131070/camel/trunk/components/camel-jackson/src/test/java/org/apache/camel/component/jackson
+END
+JacksonMarshalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/785879/camel/trunk/components/camel-jackson/src/test/java/org/apache/camel/component/jackson/JacksonMarshalTest.java
+END
+JacksonJsonDataFormatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/781660/camel/trunk/components/camel-jackson/src/test/java/org/apache/camel/component/jackson/JacksonJsonDataFormatTest.java
+END
+TestPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/781660/camel/trunk/components/camel-jackson/src/test/java/org/apache/camel/component/jackson/TestPojo.java
+END
+SpringJacksonJsonDataFormatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1100486/camel/trunk/components/camel-jackson/src/test/java/org/apache/camel/component/jackson/SpringJacksonJsonDataFormatTest.java
+END
+JacksonConcurrentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1131070/camel/trunk/components/camel-jackson/src/test/java/org/apache/camel/component/jackson/JacksonConcurrentTest.java
+END

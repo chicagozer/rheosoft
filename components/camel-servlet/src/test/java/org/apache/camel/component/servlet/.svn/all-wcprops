@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1076163/camel/trunk/components/camel-servlet/src/test/java/org/apache/camel/component/servlet
+END
+HttpClientRouteSpringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1076163/camel/trunk/components/camel-servlet/src/test/java/org/apache/camel/component/servlet/HttpClientRouteSpringTest.java
+END
+ServletCamelRouterTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1076163/camel/trunk/components/camel-servlet/src/test/java/org/apache/camel/component/servlet/ServletCamelRouterTestSupport.java
+END
+ServletTransferExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-servlet/src/test/java/org/apache/camel/component/servlet/ServletTransferExceptionTest.java
+END
+MultiServletConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1076163/camel/trunk/components/camel-servlet/src/test/java/org/apache/camel/component/servlet/MultiServletConsumerTest.java
+END
+HttpClientRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1076163/camel/trunk/components/camel-servlet/src/test/java/org/apache/camel/component/servlet/HttpClientRouteTest.java
+END

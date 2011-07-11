@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1130555/camel/trunk/components/camel-cxf-transport/src/main/java/org/apache/camel/component/cxf/common/message
+END
+DefaultCxfMesssageMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1130499/camel/trunk/components/camel-cxf-transport/src/main/java/org/apache/camel/component/cxf/common/message/DefaultCxfMesssageMapper.java
+END
+CxfMessageHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1130499/camel/trunk/components/camel-cxf-transport/src/main/java/org/apache/camel/component/cxf/common/message/CxfMessageHelper.java
+END
+CxfMessageMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1130499/camel/trunk/components/camel-cxf-transport/src/main/java/org/apache/camel/component/cxf/common/message/CxfMessageMapper.java
+END
+CxfConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1130555/camel/trunk/components/camel-cxf-transport/src/main/java/org/apache/camel/component/cxf/common/message/CxfConstants.java
+END

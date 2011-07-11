@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1066041/camel/trunk/components/camel-soap/src/test/java/org/apache/camel/converter/soap/name
+END
+AnnotatedClassWithoutNamespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/907587/camel/trunk/components/camel-soap/src/test/java/org/apache/camel/converter/soap/name/AnnotatedClassWithoutNamespace.java
+END
+QNameStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/907954/camel/trunk/components/camel-soap/src/test/java/org/apache/camel/converter/soap/name/QNameStrategyTest.java
+END
+ServiceInterfaceStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1066041/camel/trunk/components/camel-soap/src/test/java/org/apache/camel/converter/soap/name/ServiceInterfaceStrategyTest.java
+END
+TypeNameStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/907954/camel/trunk/components/camel-soap/src/test/java/org/apache/camel/converter/soap/name/TypeNameStrategyTest.java
+END
+AnnotatedClassWithNamespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/907587/camel/trunk/components/camel-soap/src/test/java/org/apache/camel/converter/soap/name/AnnotatedClassWithNamespace.java
+END

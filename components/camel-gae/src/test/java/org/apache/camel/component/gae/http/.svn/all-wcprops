@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/938311/camel/trunk/components/camel-gae/src/test/java/org/apache/camel/component/gae/http
+END
+GHttpBindingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/930675/camel/trunk/components/camel-gae/src/test/java/org/apache/camel/component/gae/http/GHttpBindingTest.java
+END
+GHttpEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/933507/camel/trunk/components/camel-gae/src/test/java/org/apache/camel/component/gae/http/GHttpEndpointTest.java
+END
+GHttpTestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/930675/camel/trunk/components/camel-gae/src/test/java/org/apache/camel/component/gae/http/GHttpTestUtils.java
+END
+GHttpInboundRouteBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/880672/camel/trunk/components/camel-gae/src/test/java/org/apache/camel/component/gae/http/GHttpInboundRouteBuilder.java
+END
+GHttpInboundRouteBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/930535/camel/trunk/components/camel-gae/src/test/java/org/apache/camel/component/gae/http/GHttpInboundRouteBuilderTest.java
+END
+GHttpTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/938311/camel/trunk/components/camel-gae/src/test/java/org/apache/camel/component/gae/http/GHttpTestServlet.java
+END
+GHttpOutboundRouteBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/930675/camel/trunk/components/camel-gae/src/test/java/org/apache/camel/component/gae/http/GHttpOutboundRouteBuilder.java
+END
+GHttpOutboundRouteBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/930675/camel/trunk/components/camel-gae/src/test/java/org/apache/camel/component/gae/http/GHttpOutboundRouteBuilderTest.java
+END
+GHttpCombinedRouteBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/930675/camel/trunk/components/camel-gae/src/test/java/org/apache/camel/component/gae/http/GHttpCombinedRouteBuilder.java
+END
+GHttpCombinedRouteBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/938311/camel/trunk/components/camel-gae/src/test/java/org/apache/camel/component/gae/http/GHttpCombinedRouteBuilderTest.java
+END

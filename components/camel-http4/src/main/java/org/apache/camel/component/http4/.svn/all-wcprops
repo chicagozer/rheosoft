@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1144310/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4
+END
+HttpComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1144310/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4/HttpComponent.java
+END
+HttpClientConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4/HttpClientConfigurer.java
+END
+HttpMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/932689/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4/HttpMethods.java
+END
+HttpEntityConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1131372/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4/HttpEntityConverter.java
+END
+BasicAuthenticationHttpClientConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/932689/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4/BasicAuthenticationHttpClientConfigurer.java
+END
+ProxyHttpClientConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1143693/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4/ProxyHttpClientConfigurer.java
+END
+HttpConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1131372/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4/HttpConverter.java
+END
+HttpBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4/HttpBinding.java
+END
+HttpConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4/HttpConstants.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/932689/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4/package.html
+END
+DefaultHttpBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1131372/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4/DefaultHttpBinding.java
+END
+HttpEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1144310/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4/HttpEndpoint.java
+END
+HttpPollingConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4/HttpPollingConsumer.java
+END
+HttpHeaderFilterStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4/HttpHeaderFilterStrategy.java
+END
+HttpProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4/HttpProducer.java
+END
+HttpOperationFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/932689/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4/HttpOperationFailedException.java
+END
+HttpMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4/HttpMessage.java
+END
+CompositeHttpConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1053065/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4/CompositeHttpConfigurer.java
+END
+CamelServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4/CamelServlet.java
+END
+HttpConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4/HttpConsumer.java
+END

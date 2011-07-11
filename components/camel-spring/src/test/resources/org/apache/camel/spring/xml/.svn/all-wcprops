@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/991156/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/xml
+END
+buildDynamicRecipientList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/991156/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/xml/buildDynamicRecipientList.xml
+END
+buildIdempotentConsumer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/991156/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/xml/buildIdempotentConsumer.xml
+END
+buildSplitter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/991156/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/xml/buildSplitter.xml
+END
+buildStaticRecipientList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/991156/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/xml/buildStaticRecipientList.xml
+END
+buildSimpleRoute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/991156/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/xml/buildSimpleRoute.xml
+END
+buildCustomProcessor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/991156/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/xml/buildCustomProcessor.xml
+END
+buildWireTap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/991156/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/xml/buildWireTap.xml
+END
+buildCustomProcessorWithFilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/991156/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/xml/buildCustomProcessorWithFilter.xml
+END
+buildSimpleRouteWithHeaderPredicate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/991156/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/xml/buildSimpleRouteWithHeaderPredicate.xml
+END
+buildSimpleRouteWithChoice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/991156/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/xml/buildSimpleRouteWithChoice.xml
+END

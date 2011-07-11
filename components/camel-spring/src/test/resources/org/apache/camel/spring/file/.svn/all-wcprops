@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1043339/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/file
+END
+SpringFileRouteTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/file/SpringFileRouteTest-context.xml
+END
+SpringFileConsumerPreMoveIssueTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/file/SpringFileConsumerPreMoveIssueTest.xml
+END
+SpringSimpleFileNameWithQuoteTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1043339/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/file/SpringSimpleFileNameWithQuoteTest-context.xml
+END
+SpringFileConsumerPreMoveTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/file/SpringFileConsumerPreMoveTest.xml
+END
+SpringFileLanguageCBRTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/file/SpringFileLanguageCBRTest.xml
+END
+SpringFileAntPathMatcherFileFilterTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/file/SpringFileAntPathMatcherFileFilterTest-context.xml
+END

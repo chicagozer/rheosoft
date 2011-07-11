@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-ognl/src/main/java/org/apache/camel/language/ognl
+END
+OGNL.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-ognl/src/main/java/org/apache/camel/language/ognl/OGNL.java
+END
+OgnlExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-ognl/src/main/java/org/apache/camel/language/ognl/OgnlExpression.java
+END
+OgnlLanguage.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-ognl/src/main/java/org/apache/camel/language/ognl/OgnlLanguage.java
+END
+RootObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-ognl/src/main/java/org/apache/camel/language/ognl/RootObject.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-ognl/src/main/java/org/apache/camel/language/ognl/package.html
+END

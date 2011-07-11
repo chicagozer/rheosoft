@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-rss/src/test/java/org/apache/camel/component/rss
+END
+RssMultipleEndpointsIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-rss/src/test/java/org/apache/camel/component/rss/RssMultipleEndpointsIssueTest.java
+END
+RssEntrySortTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/828125/camel/trunk/components/camel-rss/src/test/java/org/apache/camel/component/rss/RssEntrySortTest.java
+END
+RssUriEncodingIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-rss/src/test/java/org/apache/camel/component/rss/RssUriEncodingIssueTest.java
+END
+RssEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/938760/camel/trunk/components/camel-rss/src/test/java/org/apache/camel/component/rss/RssEndpointTest.java
+END
+RssPollingConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1044237/camel/trunk/components/camel-rss/src/test/java/org/apache/camel/component/rss/RssPollingConsumerTest.java
+END
+RssEntrySortDefaultsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-rss/src/test/java/org/apache/camel/component/rss/RssEntrySortDefaultsTest.java
+END
+RssPollingConsumerWithFeedHeaderDisabledTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/785907/camel/trunk/components/camel-rss/src/test/java/org/apache/camel/component/rss/RssPollingConsumerWithFeedHeaderDisabledTest.java
+END
+RssEntryPollingConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/785907/camel/trunk/components/camel-rss/src/test/java/org/apache/camel/component/rss/RssEntryPollingConsumerTest.java
+END
+RssHttpNoCamelParametersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-rss/src/test/java/org/apache/camel/component/rss/RssHttpNoCamelParametersTest.java
+END
+RssEntryPollingConsumerWithFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/785907/camel/trunk/components/camel-rss/src/test/java/org/apache/camel/component/rss/RssEntryPollingConsumerWithFilterTest.java
+END
+RssFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/835174/camel/trunk/components/camel-rss/src/test/java/org/apache/camel/component/rss/RssFilterTest.java
+END

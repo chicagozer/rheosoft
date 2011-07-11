@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/773476/camel/trunk/components/camel-ibatis/src/test/resources
+END
+SqlMapConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-ibatis/src/test/resources/SqlMapConfig.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/773476/camel/trunk/components/camel-ibatis/src/test/resources/log4j.properties
+END

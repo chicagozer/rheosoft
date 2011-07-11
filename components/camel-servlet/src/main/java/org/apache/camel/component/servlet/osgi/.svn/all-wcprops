@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1079283/camel/trunk/components/camel-servlet/src/main/java/org/apache/camel/component/servlet/osgi
+END
+OsgiServletRegisterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1079283/camel/trunk/components/camel-servlet/src/main/java/org/apache/camel/component/servlet/osgi/OsgiServletRegisterer.java
+END

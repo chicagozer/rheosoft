@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1133394/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/servlet
+END
+ServletProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1065963/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/servlet/ServletProcessor.java
+END
+ServletComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1133394/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/servlet/ServletComponentTest.java
+END
+ServletServicesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1133394/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/servlet/ServletServicesTest.java
+END

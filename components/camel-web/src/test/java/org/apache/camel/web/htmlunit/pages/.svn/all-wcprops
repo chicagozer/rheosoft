@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-web/src/test/java/org/apache/camel/web/htmlunit/pages
+END
+EndpointsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-web/src/test/java/org/apache/camel/web/htmlunit/pages/EndpointsPage.java
+END
+SendMessagePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-web/src/test/java/org/apache/camel/web/htmlunit/pages/SendMessagePage.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-ftp/src/main/data
+END
+foo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-ftp/src/main/data/foo.xml
+END
+bar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-ftp/src/main/data/bar.xml
+END

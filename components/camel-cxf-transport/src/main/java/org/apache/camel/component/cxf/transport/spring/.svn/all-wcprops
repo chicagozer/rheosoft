@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1130537/camel/trunk/components/camel-cxf-transport/src/main/java/org/apache/camel/component/cxf/transport/spring
+END
+AbstractCamelContextBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/1130537/camel/trunk/components/camel-cxf-transport/src/main/java/org/apache/camel/component/cxf/transport/spring/AbstractCamelContextBeanDefinitionParser.java
+END
+CamelDestinationDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1130160/camel/trunk/components/camel-cxf-transport/src/main/java/org/apache/camel/component/cxf/transport/spring/CamelDestinationDefinitionParser.java
+END
+NamespaceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1130160/camel/trunk/components/camel-cxf-transport/src/main/java/org/apache/camel/component/cxf/transport/spring/NamespaceHandler.java
+END
+CamelConduitDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1130160/camel/trunk/components/camel-cxf-transport/src/main/java/org/apache/camel/component/cxf/transport/spring/CamelConduitDefinitionParser.java
+END

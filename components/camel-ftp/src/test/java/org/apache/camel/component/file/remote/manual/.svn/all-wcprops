@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/manual
+END
+FtpConsumerCamelRecursiveToAbsoluteManualTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/1032067/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/manual/FtpConsumerCamelRecursiveToAbsoluteManualTest.java
+END
+FtpConsumerScottManualTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1032067/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/manual/FtpConsumerScottManualTest.java
+END
+FtpConsumerNotStepwiseCamelRecursiveManualTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/manual/FtpConsumerNotStepwiseCamelRecursiveManualTest.java
+END
+FtpConsumerNotStepwiseCamelRecursiveToAbsoluteManualTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/manual/FtpConsumerNotStepwiseCamelRecursiveToAbsoluteManualTest.java
+END
+FtpConsumerCamelManualTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1032067/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/manual/FtpConsumerCamelManualTest.java
+END
+FtpConsumerScottRecursiveManualTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1032067/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/manual/FtpConsumerScottRecursiveManualTest.java
+END
+FtpConsumerNotStepwiseCamelManualTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/manual/FtpConsumerNotStepwiseCamelManualTest.java
+END
+FtpConsumerCamelRecursiveManualTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1032067/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/manual/FtpConsumerCamelRecursiveManualTest.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/produce
+END
+ProduceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/produce/ProduceTest.java
+END
+MyCoolBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/produce/MyCoolBean.java
+END
+MyCoolBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/982480/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/produce/MyCoolBeanTest.java
+END
+MyListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/produce/MyListener.java
+END
+MyListenerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/produce/MyListenerService.java
+END
+ProduceTemplateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/959163/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/produce/ProduceTemplateTest.java
+END

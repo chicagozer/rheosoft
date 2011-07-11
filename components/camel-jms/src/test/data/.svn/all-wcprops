@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/760833/camel/trunk/components/camel-jms/src/test/data
+END
+message1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/760833/camel/trunk/components/camel-jms/src/test/data/message1.xml
+END
+message2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/760833/camel/trunk/components/camel-jms/src/test/data/message2.xml
+END

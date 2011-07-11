@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1128688/camel/trunk/camel-core/src/test/resources
+END
+jndi-example.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/735816/camel/trunk/camel-core/src/test/resources/jndi-example.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1100508/camel/trunk/camel-core/src/test/resources/log4j.properties
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-jetty/src/main/resources/META-INF/services/org/apache/camel/component
+END
+jetty
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-jetty/src/main/resources/META-INF/services/org/apache/camel/component/jetty
+END

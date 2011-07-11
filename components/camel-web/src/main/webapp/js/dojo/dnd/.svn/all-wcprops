@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/755623/camel/trunk/components/camel-web/src/main/webapp/js/dojo/dnd
+END
+move.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/755623/camel/trunk/components/camel-web/src/main/webapp/js/dojo/dnd/move.js
+END
+autoscroll.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/755623/camel/trunk/components/camel-web/src/main/webapp/js/dojo/dnd/autoscroll.js
+END
+Mover.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/755623/camel/trunk/components/camel-web/src/main/webapp/js/dojo/dnd/Mover.js
+END
+common.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/755623/camel/trunk/components/camel-web/src/main/webapp/js/dojo/dnd/common.js
+END
+Manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/755623/camel/trunk/components/camel-web/src/main/webapp/js/dojo/dnd/Manager.js
+END
+Moveable.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/755623/camel/trunk/components/camel-web/src/main/webapp/js/dojo/dnd/Moveable.js
+END
+TimedMoveable.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/755623/camel/trunk/components/camel-web/src/main/webapp/js/dojo/dnd/TimedMoveable.js
+END
+Avatar.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/755623/camel/trunk/components/camel-web/src/main/webapp/js/dojo/dnd/Avatar.js
+END
+Selector.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/755623/camel/trunk/components/camel-web/src/main/webapp/js/dojo/dnd/Selector.js
+END
+Source.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/755623/camel/trunk/components/camel-web/src/main/webapp/js/dojo/dnd/Source.js
+END
+Container.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/755623/camel/trunk/components/camel-web/src/main/webapp/js/dojo/dnd/Container.js
+END

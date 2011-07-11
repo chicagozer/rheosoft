@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1125714/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/http
+END
+HttpEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1125714/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/http/HttpEndpointTest.java
+END
+Http4EndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/932707/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/http/Http4EndpointTest.java
+END
+HttpTestServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1070802/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/http/HttpTestServer.java
+END
+HttpMaxConnectionPerHostTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1125714/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/http/HttpMaxConnectionPerHostTest.java
+END
+Http4MaxConnectionPerHostTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/932707/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/http/Http4MaxConnectionPerHostTest.java
+END
+InterceptEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/787970/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/http/InterceptEndpointTest.java
+END

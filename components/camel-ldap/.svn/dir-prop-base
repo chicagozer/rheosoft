@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 88
+target
+.pmd
+.checkstyle
+.classpath
+.project
+eclipse-classes
+.settings
+*.i??
+server-work
+
+END

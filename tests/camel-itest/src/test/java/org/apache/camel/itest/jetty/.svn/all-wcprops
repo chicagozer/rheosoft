@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jetty
+END
+JettyMulticastJmsFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1057156/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jetty/JettyMulticastJmsFileTest.java
+END
+JettyValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/790560/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jetty/JettyValidatorTest.java
+END
+JettyJmsShutdownTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/936213/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jetty/JettyJmsShutdownTest.java
+END
+JettyJmsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1057156/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jetty/JettyJmsTest.java
+END
+SetResponseProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/767403/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jetty/SetResponseProcessor.java
+END
+JettySpringFailoverRoundRobinTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jetty/JettySpringFailoverRoundRobinTest.java
+END
+JettyValidatorStreamWithStreamCachingEnabledTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jetty/JettyValidatorStreamWithStreamCachingEnabledTest.java
+END
+JettyValidatorStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jetty/JettyValidatorStreamTest.java
+END
+JettyJmsShutdownInProgressTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/936213/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jetty/JettyJmsShutdownInProgressTest.java
+END
+JettyJmsTwowayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1057156/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jetty/JettyJmsTwowayTest.java
+END
+JettyFileMulticastTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1057156/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jetty/JettyFileMulticastTest.java
+END
+JettyFailoverRoundRobinTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jetty/JettyFailoverRoundRobinTest.java
+END
+JettyGroovySetHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jetty/JettyGroovySetHeaderTest.java
+END
+SetExchangePatternProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/744124/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jetty/SetExchangePatternProcessor.java
+END
+JettySimulateFailoverRoundRobinTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jetty/JettySimulateFailoverRoundRobinTest.java
+END
+JettySimpleSetHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jetty/JettySimpleSetHeaderTest.java
+END
+JettyConstantSetHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jetty/JettyConstantSetHeaderTest.java
+END

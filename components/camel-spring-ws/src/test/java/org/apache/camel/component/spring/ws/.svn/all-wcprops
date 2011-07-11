@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1137057/camel/trunk/components/camel-spring-ws/src/test/java/org/apache/camel/component/spring/ws
+END
+StockQuoteResponseProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1128971/camel/trunk/components/camel-spring-ws/src/test/java/org/apache/camel/component/spring/ws/StockQuoteResponseProcessor.java
+END
+ConsumerEndpointMappingRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1125242/camel/trunk/components/camel-spring-ws/src/test/java/org/apache/camel/component/spring/ws/ConsumerEndpointMappingRouteTest.java
+END
+ConsumerEndpointMappingByBeanNameRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1134154/camel/trunk/components/camel-spring-ws/src/test/java/org/apache/camel/component/spring/ws/ConsumerEndpointMappingByBeanNameRouteTest.java
+END
+ConsumerEndpointMappingResponseHandlingRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/1134154/camel/trunk/components/camel-spring-ws/src/test/java/org/apache/camel/component/spring/ws/ConsumerEndpointMappingResponseHandlingRouteTest.java
+END
+ConsumerMarshallingRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1031442/camel/trunk/components/camel-spring-ws/src/test/java/org/apache/camel/component/spring/ws/ConsumerMarshallingRouteTest.java
+END
+ConsumerExceptionPropagationRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1137057/camel/trunk/components/camel-spring-ws/src/test/java/org/apache/camel/component/spring/ws/ConsumerExceptionPropagationRouteTest.java
+END
+ProducerLocalRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1128970/camel/trunk/components/camel-spring-ws/src/test/java/org/apache/camel/component/spring/ws/ProducerLocalRouteTest.java
+END
+ProducerRemoteRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1031442/camel/trunk/components/camel-spring-ws/src/test/java/org/apache/camel/component/spring/ws/ProducerRemoteRouteTest.java
+END

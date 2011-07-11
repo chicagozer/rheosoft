@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1140636/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/enricher
+END
+EnricherDefaultAggregationStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/enricher/EnricherDefaultAggregationStrategyTest.java
+END
+EnricherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1140636/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/enricher/EnricherTest.java
+END
+PollEnricherRefTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/enricher/PollEnricherRefTest.java
+END
+EnricherNoResourceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1140636/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/enricher/EnricherNoResourceTest.java
+END
+SampleAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/789294/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/enricher/SampleAggregator.java
+END
+PollEnricherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1140636/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/enricher/PollEnricherTest.java
+END
+FailureProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/799728/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/enricher/FailureProcessor.java
+END
+PollEnricherNoResourceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1140636/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/enricher/PollEnricherNoResourceTest.java
+END
+EnricherRefTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/enricher/EnricherRefTest.java
+END

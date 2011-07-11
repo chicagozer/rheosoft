@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1137899/camel/trunk/components/camel-web/src/main/java/org/apache/camel/web/resources
+END
+ConvertersResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-web/src/main/java/org/apache/camel/web/resources/ConvertersResource.java
+END
+RouteResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1137899/camel/trunk/components/camel-web/src/main/java/org/apache/camel/web/resources/RouteResource.java
+END
+RouteStatusResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1100711/camel/trunk/components/camel-web/src/main/java/org/apache/camel/web/resources/RouteStatusResource.java
+END
+ComponentResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-web/src/main/java/org/apache/camel/web/resources/ComponentResource.java
+END
+EndpointsResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-web/src/main/java/org/apache/camel/web/resources/EndpointsResource.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-web/src/main/java/org/apache/camel/web/resources/Constants.java
+END
+LanguagesResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-web/src/main/java/org/apache/camel/web/resources/LanguagesResource.java
+END
+ConvertersFromResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-web/src/main/java/org/apache/camel/web/resources/ConvertersFromResource.java
+END
+EndpointResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-web/src/main/java/org/apache/camel/web/resources/EndpointResource.java
+END
+RoutesResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-web/src/main/java/org/apache/camel/web/resources/RoutesResource.java
+END
+ExchangeResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-web/src/main/java/org/apache/camel/web/resources/ExchangeResource.java
+END
+CamelChildResourceSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-web/src/main/java/org/apache/camel/web/resources/CamelChildResourceSupport.java
+END
+LanguageResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-web/src/main/java/org/apache/camel/web/resources/LanguageResource.java
+END
+ComponentsResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-web/src/main/java/org/apache/camel/web/resources/ComponentsResource.java
+END
+CamelContextResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-web/src/main/java/org/apache/camel/web/resources/CamelContextResource.java
+END

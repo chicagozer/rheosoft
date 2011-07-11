@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1098091/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/test
+END
+Envelope.scala
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/test/Envelope.scala
+END
+Animal.scala
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1098091/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/test/Animal.scala
+END
+CartoonService.scala
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/test/CartoonService.scala
+END
+Person.scala
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/test/Person.scala
+END

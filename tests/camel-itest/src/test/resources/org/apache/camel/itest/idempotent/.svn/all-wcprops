@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/998014/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/idempotent
+END
+IdempotentConsumerTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/998014/camel/trunk/tests/camel-itest/src/test/resources/org/apache/camel/itest/idempotent/IdempotentConsumerTest.xml
+END

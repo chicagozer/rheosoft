@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1005785/camel/trunk/components/camel-cxf/src/test/resources/org/apache/camel/component/cxf/jaxrs/testbean
+END
+jaxb.index
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1005785/camel/trunk/components/camel-cxf/src/test/resources/org/apache/camel/component/cxf/jaxrs/testbean/jaxb.index
+END

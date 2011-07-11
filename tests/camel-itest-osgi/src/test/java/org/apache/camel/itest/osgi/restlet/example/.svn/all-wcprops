@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1133394/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/restlet/example
+END
+CheckDomainAvailabilityResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1005723/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/restlet/example/CheckDomainAvailabilityResult.java
+END
+Product.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1005723/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/restlet/example/Product.java
+END
+DomainService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1005723/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/restlet/example/DomainService.java
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1005723/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/restlet/example/Order.java
+END
+RestletDomainServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1133394/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/restlet/example/RestletDomainServiceTest.java
+END
+CheckDomainAvailabilityRestResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1005723/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/restlet/example/CheckDomainAvailabilityRestResponse.java
+END
+CheckDomainRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1005723/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/restlet/example/CheckDomainRequest.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/795807/camel/trunk/tests/test-bundles/mock-javamail_1.7/src/main/resources/META-INF/services
+END
+pop3
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/795807/camel/trunk/tests/test-bundles/mock-javamail_1.7/src/main/resources/META-INF/services/pop3
+END
+smtp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/795807/camel/trunk/tests/test-bundles/mock-javamail_1.7/src/main/resources/META-INF/services/smtp
+END
+imap
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/795807/camel/trunk/tests/test-bundles/mock-javamail_1.7/src/main/resources/META-INF/services/imap
+END
+org.jvnet.mock_javamail.MockStore
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/795807/camel/trunk/tests/test-bundles/mock-javamail_1.7/src/main/resources/META-INF/services/org.jvnet.mock_javamail.MockStore
+END
+org.jvnet.mock_javamail.MockTransport
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/795807/camel/trunk/tests/test-bundles/mock-javamail_1.7/src/main/resources/META-INF/services/org.jvnet.mock_javamail.MockTransport
+END

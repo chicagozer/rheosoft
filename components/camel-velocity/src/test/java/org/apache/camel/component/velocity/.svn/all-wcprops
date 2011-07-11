@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1131070/camel/trunk/components/camel-velocity/src/test/java/org/apache/camel/component/velocity
+END
+VelocityEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-velocity/src/test/java/org/apache/camel/component/velocity/VelocityEndpointTest.java
+END
+VelocityDynamicTemplateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/931444/camel/trunk/components/camel-velocity/src/test/java/org/apache/camel/component/velocity/VelocityDynamicTemplateTest.java
+END
+FruitFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-velocity/src/test/java/org/apache/camel/component/velocity/FruitFilter.java
+END
+VelocityConcurrentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1131070/camel/trunk/components/camel-velocity/src/test/java/org/apache/camel/component/velocity/VelocityConcurrentTest.java
+END
+VelocityLetterWithPaserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/829724/camel/trunk/components/camel-velocity/src/test/java/org/apache/camel/component/velocity/VelocityLetterWithPaserTest.java
+END
+VelocityEncodingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/768271/camel/trunk/components/camel-velocity/src/test/java/org/apache/camel/component/velocity/VelocityEncodingTest.java
+END
+VelocityLetterWithoutHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/828288/camel/trunk/components/camel-velocity/src/test/java/org/apache/camel/component/velocity/VelocityLetterWithoutHeaderTest.java
+END
+VelocitySomeValuesNotInExchangeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/938760/camel/trunk/components/camel-velocity/src/test/java/org/apache/camel/component/velocity/VelocitySomeValuesNotInExchangeTest.java
+END
+VelocityContentCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/785905/camel/trunk/components/camel-velocity/src/test/java/org/apache/camel/component/velocity/VelocityContentCacheTest.java
+END
+VelocityLetterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/785905/camel/trunk/components/camel-velocity/src/test/java/org/apache/camel/component/velocity/VelocityLetterTest.java
+END
+VelocitySetTemplateViaHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/814110/camel/trunk/components/camel-velocity/src/test/java/org/apache/camel/component/velocity/VelocitySetTemplateViaHeaderTest.java
+END
+VelocityBodyAsDomainObjectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-velocity/src/test/java/org/apache/camel/component/velocity/VelocityBodyAsDomainObjectTest.java
+END
+VelocitySetHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-velocity/src/test/java/org/apache/camel/component/velocity/VelocitySetHeaderTest.java
+END
+VelocityTemplateInHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-velocity/src/test/java/org/apache/camel/component/velocity/VelocityTemplateInHeaderTest.java
+END
+VelocityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-velocity/src/test/java/org/apache/camel/component/velocity/VelocityTest.java
+END

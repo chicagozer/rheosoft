@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/932699/camel/trunk/components/camel-gae/src/main/java/org/apache/camel/component/gae/mail
+END
+GMailBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/932699/camel/trunk/components/camel-gae/src/main/java/org/apache/camel/component/gae/mail/GMailBinding.java
+END
+GMailEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/931232/camel/trunk/components/camel-gae/src/main/java/org/apache/camel/component/gae/mail/GMailEndpoint.java
+END
+GMailComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/931232/camel/trunk/components/camel-gae/src/main/java/org/apache/camel/component/gae/mail/GMailComponent.java
+END
+GMailProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/880672/camel/trunk/components/camel-gae/src/main/java/org/apache/camel/component/gae/mail/GMailProducer.java
+END

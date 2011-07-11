@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1131070/camel/trunk/components/camel-xmpp/src/test/java/org/apache/camel/component/xmpp
+END
+XmppRouteChatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-xmpp/src/test/java/org/apache/camel/component/xmpp/XmppRouteChatTest.java
+END
+XmppRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-xmpp/src/test/java/org/apache/camel/component/xmpp/XmppRouteTest.java
+END
+XmppRouteMultipleProducersSingleConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-xmpp/src/test/java/org/apache/camel/component/xmpp/XmppRouteMultipleProducersSingleConsumerTest.java
+END
+UriConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-xmpp/src/test/java/org/apache/camel/component/xmpp/UriConfigurationTest.java
+END
+GoogleTalkTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/817619/camel/trunk/components/camel-xmpp/src/test/java/org/apache/camel/component/xmpp/GoogleTalkTest.java
+END
+GoogleTalkEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/908377/camel/trunk/components/camel-xmpp/src/test/java/org/apache/camel/component/xmpp/GoogleTalkEndpointTest.java
+END
+XmppProducerConcurrentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1131070/camel/trunk/components/camel-xmpp/src/test/java/org/apache/camel/component/xmpp/XmppProducerConcurrentTest.java
+END
+XmppMultiUserChatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-xmpp/src/test/java/org/apache/camel/component/xmpp/XmppMultiUserChatTest.java
+END

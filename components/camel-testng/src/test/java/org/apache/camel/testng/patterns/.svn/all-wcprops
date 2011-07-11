@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1102199/camel/trunk/components/camel-testng/src/test/java/org/apache/camel/testng/patterns
+END
+FilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1100508/camel/trunk/components/camel-testng/src/test/java/org/apache/camel/testng/patterns/FilterTest.java
+END
+DebugTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1100508/camel/trunk/components/camel-testng/src/test/java/org/apache/camel/testng/patterns/DebugTest.java
+END
+FilterTestNGTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1088001/camel/trunk/components/camel-testng/src/test/java/org/apache/camel/testng/patterns/FilterTestNGTest.java
+END
+DebugTestNGTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1088001/camel/trunk/components/camel-testng/src/test/java/org/apache/camel/testng/patterns/DebugTestNGTest.java
+END
+DebugNoLazyTypeConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1100508/camel/trunk/components/camel-testng/src/test/java/org/apache/camel/testng/patterns/DebugNoLazyTypeConverterTest.java
+END
+FilterCreateCamelContextPerClassTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1102199/camel/trunk/components/camel-testng/src/test/java/org/apache/camel/testng/patterns/FilterCreateCamelContextPerClassTest.java
+END

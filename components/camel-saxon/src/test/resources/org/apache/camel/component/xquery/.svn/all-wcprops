@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-saxon/src/test/resources/org/apache/camel/component/xquery
+END
+xqueryWithExplicitTypeContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-saxon/src/test/resources/org/apache/camel/component/xquery/xqueryWithExplicitTypeContext.xml
+END
+camelContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-saxon/src/test/resources/org/apache/camel/component/xquery/camelContext.xml
+END
+transform.xquery
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/768296/camel/trunk/components/camel-saxon/src/test/resources/org/apache/camel/component/xquery/transform.xquery
+END
+xqueryExampleTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-saxon/src/test/resources/org/apache/camel/component/xquery/xqueryExampleTest.xml
+END
+myTransform.xquery
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-saxon/src/test/resources/org/apache/camel/component/xquery/myTransform.xquery
+END
+transform_with_headers.xquery
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/768302/camel/trunk/components/camel-saxon/src/test/resources/org/apache/camel/component/xquery/transform_with_headers.xquery
+END

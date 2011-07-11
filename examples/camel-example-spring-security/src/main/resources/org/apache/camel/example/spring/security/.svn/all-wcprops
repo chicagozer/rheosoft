@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/962783/camel/trunk/examples/camel-example-spring-security/src/main/resources/org/apache/camel/example/spring/security
+END
+camel-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/962783/camel/trunk/examples/camel-example-spring-security/src/main/resources/org/apache/camel/example/spring/security/camel-context.xml
+END
+common-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/962783/camel/trunk/examples/camel-example-spring-security/src/main/resources/org/apache/camel/example/spring/security/common-security.xml
+END

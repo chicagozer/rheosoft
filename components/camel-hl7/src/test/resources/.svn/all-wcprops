@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/906862/camel/trunk/components/camel-hl7/src/test/resources
+END
+mdm_t02.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/824648/camel/trunk/components/camel-hl7/src/test/resources/mdm_t02.txt
+END
+mdm_t02-1022.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/906862/camel/trunk/components/camel-hl7/src/test/resources/mdm_t02-1022.txt
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-hl7/src/test/resources/log4j.properties
+END

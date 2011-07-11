@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : queue.xml
+    Created on : July 10, 2011, 1:31 PM
+    Author     : jim
+    Description:
+        Purpose of the document follows.
+-->
+
+<queue-entries>
+  <queue>
+    <name>pull-queue</name>
+    <mode>pull</mode>
+    <acl>
+      <user-email>chicagozer@gmail.com</user-email>
+    </acl>
+  </queue>
+</queue-entries>

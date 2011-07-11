@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/941182/camel/trunk/camel-core/src/main/java/org/apache/camel/language/header
+END
+HeaderLanguage.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/752893/camel/trunk/camel-core/src/main/java/org/apache/camel/language/header/HeaderLanguage.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/941182/camel/trunk/camel-core/src/main/java/org/apache/camel/language/header/package.html
+END

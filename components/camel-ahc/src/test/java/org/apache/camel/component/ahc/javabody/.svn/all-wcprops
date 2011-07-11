@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1134914/camel/trunk/components/camel-ahc/src/test/java/org/apache/camel/component/ahc/javabody
+END
+MyCoolBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1131016/camel/trunk/components/camel-ahc/src/test/java/org/apache/camel/component/ahc/javabody/MyCoolBean.java
+END
+AhcProduceJavaBodyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1134914/camel/trunk/components/camel-ahc/src/test/java/org/apache/camel/component/ahc/javabody/AhcProduceJavaBodyTest.java
+END

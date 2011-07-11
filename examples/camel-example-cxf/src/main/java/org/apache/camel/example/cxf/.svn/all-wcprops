@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1137250/camel/trunk/examples/camel-example-cxf/src/main/java/org/apache/camel/example/cxf
+END
+GreeterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/998070/camel/trunk/examples/camel-example-cxf/src/main/java/org/apache/camel/example/cxf/GreeterImpl.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/998070/camel/trunk/examples/camel-example-cxf/src/main/java/org/apache/camel/example/cxf/Server.java
+END
+CamelCxfExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/998070/camel/trunk/examples/camel-example-cxf/src/main/java/org/apache/camel/example/cxf/CamelCxfExample.java
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/998070/camel/trunk/examples/camel-example-cxf/src/main/java/org/apache/camel/example/cxf/Client.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1142721/camel/trunk/components/camel-smpp/src/main/java/org/apache/camel/component/smpp
+END
+SmppEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1102181/camel/trunk/components/camel-smpp/src/main/java/org/apache/camel/component/smpp/SmppEndpoint.java
+END
+MessageReceiverListenerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1139815/camel/trunk/components/camel-smpp/src/main/java/org/apache/camel/component/smpp/MessageReceiverListenerImpl.java
+END
+SmppComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1102181/camel/trunk/components/camel-smpp/src/main/java/org/apache/camel/component/smpp/SmppComponent.java
+END
+SmppProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1142721/camel/trunk/components/camel-smpp/src/main/java/org/apache/camel/component/smpp/SmppProducer.java
+END
+SmppMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1102181/camel/trunk/components/camel-smpp/src/main/java/org/apache/camel/component/smpp/SmppMessage.java
+END
+SmppMessageType.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1054271/camel/trunk/components/camel-smpp/src/main/java/org/apache/camel/component/smpp/SmppMessageType.java
+END
+SmppConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1137250/camel/trunk/components/camel-smpp/src/main/java/org/apache/camel/component/smpp/SmppConfiguration.java
+END
+SmppSSLConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-smpp/src/main/java/org/apache/camel/component/smpp/SmppSSLConnectionFactory.java
+END
+SmppBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1142500/camel/trunk/components/camel-smpp/src/main/java/org/apache/camel/component/smpp/SmppBinding.java
+END
+SmppConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1139809/camel/trunk/components/camel-smpp/src/main/java/org/apache/camel/component/smpp/SmppConsumer.java
+END

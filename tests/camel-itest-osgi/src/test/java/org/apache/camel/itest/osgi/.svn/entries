@@ -1,0 +1,207 @@
+10
+
+dir
+1144481
+http://svn.apache.org/repos/asf/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi
+http://svn.apache.org/repos/asf
+
+
+
+2011-07-08T08:47:11.123490Z
+1144193
+davsclaus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+http
+dir
+
+cxf
+dir
+
+syslog
+dir
+
+restlet
+dir
+
+freemarker
+dir
+
+mina
+dir
+
+servlet
+dir
+
+core
+dir
+
+ftp
+dir
+
+hl7
+dir
+
+stream
+dir
+
+velocity
+dir
+
+jetty
+dir
+
+protobuf
+dir
+
+cache
+dir
+
+netty
+dir
+
+mybatis
+dir
+
+hawtdb
+dir
+
+mail
+dir
+
+OSGiIntegrationTestSupport.java
+file
+
+
+
+
+2011-07-08T20:16:27.000000Z
+32e303e3009dc9c67b667f6c95bd8e37
+2011-06-08T13:31:03.199652Z
+1133394
+ningjiang
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5008
+
+dozer
+dir
+
+jaxb
+dir
+
+exec
+dir
+
+shiro
+dir
+
+groovy
+dir
+
+quartz
+dir
+
+jms
+dir
+
+aws
+dir
+
+ahc
+dir
+
+spring
+dir
+
+http4
+dir
+
+script
+dir
+
+blueprint
+dir
+
+bean
+dir
+
+OSGiIntegrationSpringTestSupport.java
+file
+
+
+
+
+2011-07-08T20:16:27.000000Z
+4ceb9f2772586c71d85a953351f32f9a
+2011-04-25T02:55:51.398146Z
+1096400
+ningjiang
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2078
+
+rss
+dir
+
+jpa
+dir
+
+jasypt
+dir
+
+util
+dir
+

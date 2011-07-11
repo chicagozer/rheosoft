@@ -1,0 +1,497 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1143324/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf
+END
+CamelJxpathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelJxpathTest.java
+END
+CamelSqlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelSqlTest.java
+END
+CamelJdbcTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelJdbcTest.java
+END
+CamelStringTemplateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/819961/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelStringTemplateTest.java
+END
+CamelMsvTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1131340/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelMsvTest.java
+END
+CamelBindyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelBindyTest.java
+END
+CamelSpringIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelSpringIntegrationTest.java
+END
+CamelRssTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelRssTest.java
+END
+CamelCometdTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelCometdTest.java
+END
+AbstractFeatureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1143324/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/AbstractFeatureTest.java
+END
+CamelCryptoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/950446/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelCryptoTest.java
+END
+CamelSpringWebServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1058159/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelSpringWebServiceTest.java
+END
+CamelHdfsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1129678/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelHdfsTest.java
+END
+CamelFlatpackTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/950446/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelFlatpackTest.java
+END
+CamelQuartzTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelQuartzTest.java
+END
+CamelJosqlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelJosqlTest.java
+END
+CamelXmlsecurityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelXmlsecurityTest.java
+END
+CamelStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelStreamTest.java
+END
+CamelJibxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1058159/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelJibxTest.java
+END
+CamelJmxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1031466/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelJmxTest.java
+END
+CamelBamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelBamTest.java
+END
+CamelAtomTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelAtomTest.java
+END
+CamelApnsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1132727/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelApnsTest.java
+END
+CamelSoapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/950446/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelSoapTest.java
+END
+CamelScriptTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/950446/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelScriptTest.java
+END
+CamelMyBatisTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1070819/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelMyBatisTest.java
+END
+CamelJasyptTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1058159/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelJasyptTest.java
+END
+CamelLuceneTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/950446/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelLuceneTest.java
+END
+CamelBeanValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/950446/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelBeanValidatorTest.java
+END
+CamelIbatisTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelIbatisTest.java
+END
+CamelHazelcastTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1075264/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelHazelcastTest.java
+END
+CamelSmppTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/950446/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelSmppTest.java
+END
+CamelSyslogTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1058149/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelSyslogTest.java
+END
+CamelScalaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelScalaTest.java
+END
+CamelMinaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelMinaTest.java
+END
+CamelServletTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelServletTest.java
+END
+CamelXmppTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelXmppTest.java
+END
+CamelRmiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelRmiTest.java
+END
+CamelJacksonTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/950446/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelJacksonTest.java
+END
+CamelHl7Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/824721/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelHl7Test.java
+END
+CamelCsvTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelCsvTest.java
+END
+CamelAhcTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1131119/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelAhcTest.java
+END
+CamelVelocityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelVelocityTest.java
+END
+CamelProtobufTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/950446/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelProtobufTest.java
+END
+CamelMvelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelMvelTest.java
+END
+CamelHttp4Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/950446/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelHttp4Test.java
+END
+CamelJdbcAggregatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1073655/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelJdbcAggregatorTest.java
+END
+CamelXmlbeansTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelXmlbeansTest.java
+END
+CamelIrcTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelIrcTest.java
+END
+CamelSnmpTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelSnmpTest.java
+END
+CamelJcrTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelJcrTest.java
+END
+CamelHttpTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelHttpTest.java
+END
+CamelRubyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1128853/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelRubyTest.java
+END
+CamelMailTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1028202/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelMailTest.java
+END
+CamelTagsoupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelTagsoupTest.java
+END
+CamelQuickFixTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1131340/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelQuickFixTest.java
+END
+CamelFreemarkerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelFreemarkerTest.java
+END
+CamelXstreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelXstreamTest.java
+END
+CamelExecTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1057157/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelExecTest.java
+END
+CamelJaxbTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelJaxbTest.java
+END
+CamelSaxonTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelSaxonTest.java
+END
+CamelFtpTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelFtpTest.java
+END
+CamelSpringJavaconfigTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1058159/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelSpringJavaconfigTest.java
+END
+CamelAmqpTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelAmqpTest.java
+END
+CamelOgnlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelOgnlTest.java
+END
+CamelJuelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelJuelTest.java
+END
+CamelJettyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelJettyTest.java
+END
+CamelNettyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/959583/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelNettyTest.java
+END
+CamelCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelCacheTest.java
+END
+CamelRouteboxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1057157/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelRouteboxTest.java
+END
+CamelJpaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1049102/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelJpaTest.java
+END
+CamelLdapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelLdapTest.java
+END
+CamelCxfTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelCxfTest.java
+END
+CamelRestletTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelRestletTest.java
+END
+CamelPrinterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelPrinterTest.java
+END
+CamelDnsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1129678/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelDnsTest.java
+END
+CamelGroovyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelGroovyTest.java
+END
+CamelJingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelJingTest.java
+END
+CamelJmsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelJmsTest.java
+END
+CamelCastorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelCastorTest.java
+END
+CamelSipTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/989018/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelSipTest.java
+END
+CamelGuiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/824649/camel/trunk/tests/camel-itest-karaf/src/test/java/org/apache/camel/itest/karaf/CamelGuiceTest.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-stream/src/test/java/org/apache/camel/component/stream
+END
+ScanStreamFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1068896/camel/trunk/components/camel-stream/src/test/java/org/apache/camel/component/stream/ScanStreamFileTest.java
+END
+StreamRouteBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/785895/camel/trunk/components/camel-stream/src/test/java/org/apache/camel/component/stream/StreamRouteBuilderTest.java
+END
+ScanStreamFileWithFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1060290/camel/trunk/components/camel-stream/src/test/java/org/apache/camel/component/stream/ScanStreamFileWithFilterTest.java
+END
+StreamEncodingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/785895/camel/trunk/components/camel-stream/src/test/java/org/apache/camel/component/stream/StreamEncodingTest.java
+END
+StreamGroupLinesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-stream/src/test/java/org/apache/camel/component/stream/StreamGroupLinesTest.java
+END
+StreamHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/785895/camel/trunk/components/camel-stream/src/test/java/org/apache/camel/component/stream/StreamHeaderTest.java
+END
+StreamSystemOutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/785895/camel/trunk/components/camel-stream/src/test/java/org/apache/camel/component/stream/StreamSystemOutTest.java
+END
+StreamSystemErrTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/785895/camel/trunk/components/camel-stream/src/test/java/org/apache/camel/component/stream/StreamSystemErrTest.java
+END
+StreamDelayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/785895/camel/trunk/components/camel-stream/src/test/java/org/apache/camel/component/stream/StreamDelayTest.java
+END
+StreamFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1060290/camel/trunk/components/camel-stream/src/test/java/org/apache/camel/component/stream/StreamFileTest.java
+END

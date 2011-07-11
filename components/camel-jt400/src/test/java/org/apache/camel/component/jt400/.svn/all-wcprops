@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1138905/camel/trunk/components/camel-jt400/src/test/java/org/apache/camel/component/jt400
+END
+Jt400RouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/785611/camel/trunk/components/camel-jt400/src/test/java/org/apache/camel/component/jt400/Jt400RouteTest.java
+END
+Jt400DataQueueEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1138905/camel/trunk/components/camel-jt400/src/test/java/org/apache/camel/component/jt400/Jt400DataQueueEndpointTest.java
+END
+Jt400ComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1076099/camel/trunk/components/camel-jt400/src/test/java/org/apache/camel/component/jt400/Jt400ComponentTest.java
+END
+Jt400PgmRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1076099/camel/trunk/components/camel-jt400/src/test/java/org/apache/camel/component/jt400/Jt400PgmRouteTest.java
+END
+Jt400PgmEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1138905/camel/trunk/components/camel-jt400/src/test/java/org/apache/camel/component/jt400/Jt400PgmEndpointTest.java
+END
+Jt400DataQueueConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-jt400/src/test/java/org/apache/camel/component/jt400/Jt400DataQueueConsumerTest.java
+END

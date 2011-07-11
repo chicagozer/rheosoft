@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1139452/camel/trunk/components/camel-apns/src/test/java/org/apache/camel/component/apns/util
+END
+ApnsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1139452/camel/trunk/components/camel-apns/src/test/java/org/apache/camel/component/apns/util/ApnsUtils.java
+END
+AssertUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1132722/camel/trunk/components/camel-apns/src/test/java/org/apache/camel/component/apns/util/AssertUtilsTest.java
+END
+StringUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1132722/camel/trunk/components/camel-apns/src/test/java/org/apache/camel/component/apns/util/StringUtilsTest.java
+END

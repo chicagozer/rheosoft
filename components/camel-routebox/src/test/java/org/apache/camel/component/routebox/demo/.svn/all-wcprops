@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-routebox/src/test/java/org/apache/camel/component/routebox/demo
+END
+SimpleRouteBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1051321/camel/trunk/components/camel-routebox/src/test/java/org/apache/camel/component/routebox/demo/SimpleRouteBuilder.java
+END
+BookCatalog.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-routebox/src/test/java/org/apache/camel/component/routebox/demo/BookCatalog.java
+END
+RouteboxDemoTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1051321/camel/trunk/components/camel-routebox/src/test/java/org/apache/camel/component/routebox/demo/RouteboxDemoTestSupport.java
+END
+Book.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1051321/camel/trunk/components/camel-routebox/src/test/java/org/apache/camel/component/routebox/demo/Book.java
+END

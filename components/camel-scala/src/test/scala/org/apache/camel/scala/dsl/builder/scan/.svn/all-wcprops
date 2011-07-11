@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/983180/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/builder/scan
+END
+DiscoverRouteBuilderTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/983180/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/builder/scan/DiscoverRouteBuilderTest.scala
+END
+DiscoverableRouteBuilder.scala
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/957013/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/builder/scan/DiscoverableRouteBuilder.scala
+END

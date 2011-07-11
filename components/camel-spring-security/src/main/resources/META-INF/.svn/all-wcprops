@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1140949/camel/trunk/components/camel-spring-security/src/main/resources/META-INF
+END
+NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/932339/camel/trunk/components/camel-spring-security/src/main/resources/META-INF/NOTICE.txt
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/932339/camel/trunk/components/camel-spring-security/src/main/resources/META-INF/LICENSE.txt
+END
+spring.handlers
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/932339/camel/trunk/components/camel-spring-security/src/main/resources/META-INF/spring.handlers
+END
+spring.schemas
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1140949/camel/trunk/components/camel-spring-security/src/main/resources/META-INF/spring.schemas
+END

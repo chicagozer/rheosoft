@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1032501/camel/trunk/tests/camel-itest-osgi/src/test/resources/META-INF
+END
+persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/812942/camel/trunk/tests/camel-itest-osgi/src/test/resources/META-INF/persistence.xml
+END
+validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1032501/camel/trunk/tests/camel-itest-osgi/src/test/resources/META-INF/validation.xml
+END

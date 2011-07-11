@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1141040/camel/trunk/camel-core/src/main/java/org/apache/camel/language
+END
+LanguageExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/language/LanguageExpression.java
+END
+SpEL.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1095414/camel/trunk/camel-core/src/main/java/org/apache/camel/language/SpEL.java
+END
+XPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1125863/camel/trunk/camel-core/src/main/java/org/apache/camel/language/XPath.java
+END
+Bean.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/language/Bean.java
+END
+Constant.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/738604/camel/trunk/camel-core/src/main/java/org/apache/camel/language/Constant.java
+END
+Simple.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/language/Simple.java
+END
+NamespacePrefix.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/language/NamespacePrefix.java
+END
+LanguageAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/language/LanguageAnnotation.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/941182/camel/trunk/camel-core/src/main/java/org/apache/camel/language/package.html
+END

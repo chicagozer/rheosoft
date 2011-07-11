@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-ejb/src/main/java/org/apache/camel/component/ejb
+END
+EjbRegistryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-ejb/src/main/java/org/apache/camel/component/ejb/EjbRegistryBean.java
+END
+EjbComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-ejb/src/main/java/org/apache/camel/component/ejb/EjbComponent.java
+END

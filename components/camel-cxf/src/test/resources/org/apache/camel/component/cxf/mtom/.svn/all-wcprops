@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1127894/camel/trunk/components/camel-cxf/src/test/resources/org/apache/camel/component/cxf/mtom
+END
+CxfMtomDisabledConsumerPayloadModeTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/985362/camel/trunk/components/camel-cxf/src/test/resources/org/apache/camel/component/cxf/mtom/CxfMtomDisabledConsumerPayloadModeTest-context.xml
+END
+CxfMtomProducerPayloadModeTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/985362/camel/trunk/components/camel-cxf/src/test/resources/org/apache/camel/component/cxf/mtom/CxfMtomProducerPayloadModeTest-context.xml
+END
+CxfMtomRouterPayloadMode12Test-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-cxf/src/test/resources/org/apache/camel/component/cxf/mtom/CxfMtomRouterPayloadMode12Test-context.xml
+END
+CxfMtomConsumerPayloadModeTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/985362/camel/trunk/components/camel-cxf/src/test/resources/org/apache/camel/component/cxf/mtom/CxfMtomConsumerPayloadModeTest-context.xml
+END
+CxfMtomDisabledProducerPayloadModeTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/985362/camel/trunk/components/camel-cxf/src/test/resources/org/apache/camel/component/cxf/mtom/CxfMtomDisabledProducerPayloadModeTest-context.xml
+END
+CxfMtomPOJOProducerTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1127894/camel/trunk/components/camel-cxf/src/test/resources/org/apache/camel/component/cxf/mtom/CxfMtomPOJOProducerTest-context.xml
+END
+CxfMtomRouterPayloadModeTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-cxf/src/test/resources/org/apache/camel/component/cxf/mtom/CxfMtomRouterPayloadModeTest-context.xml
+END

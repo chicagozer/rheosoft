@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1139452/camel/trunk/components/camel-xmlsecurity/src/test/java/org/apache/camel/dataformat/xmlsecurity
+END
+XMLSecurityConcurrencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1139452/camel/trunk/components/camel-xmlsecurity/src/test/java/org/apache/camel/dataformat/xmlsecurity/XMLSecurityConcurrencyTest.java
+END
+XMLSecurityDataFormatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1139452/camel/trunk/components/camel-xmlsecurity/src/test/java/org/apache/camel/dataformat/xmlsecurity/XMLSecurityDataFormatTest.java
+END

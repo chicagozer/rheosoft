@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/932689/camel/trunk/components/camel-http4/src/main/resources/META-INF/services/org/apache/camel/component
+END
+http4
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/932689/camel/trunk/components/camel-http4/src/main/resources/META-INF/services/org/apache/camel/component/http4
+END
+https4
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/932689/camel/trunk/components/camel-http4/src/main/resources/META-INF/services/org/apache/camel/component/https4
+END

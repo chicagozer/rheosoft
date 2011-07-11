@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1080971/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/async
+END
+HttpAsyncDslTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/async/HttpAsyncDslTest.java
+END
+MyAsyncEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/async/MyAsyncEndpoint.java
+END
+MyAsyncComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/async/MyAsyncComponent.java
+END
+MyAsyncProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/async/MyAsyncProducer.java
+END
+HttpAsyncCallbackTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/async/HttpAsyncCallbackTest.java
+END
+HttpSyncTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/async/HttpSyncTest.java
+END
+HttpAsyncTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/async/HttpAsyncTest.java
+END
+HttpJmsAsyncTimeoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1080971/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/async/HttpJmsAsyncTimeoutTest.java
+END

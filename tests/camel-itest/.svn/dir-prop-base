@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 100
+.project
+.checkstyle
+.pmd
+.classpath
+target
+.settings
+eclipse-classes
+*.i??
+activemq-data
+res
+
+data
+
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/995293/camel/trunk/components/camel-spring/src/test/data
+END
+staff.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/995293/camel/trunk/components/camel-spring/src/test/data/staff.xml
+END
+message1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-spring/src/test/data/message1.xml
+END
+message2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-spring/src/test/data/message2.xml
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1086028/camel/trunk/components/camel-paxlogging/src/main/java/org/apache/camel/component/paxlogging
+END
+PaxLoggingEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1058484/camel/trunk/components/camel-paxlogging/src/main/java/org/apache/camel/component/paxlogging/PaxLoggingEndpoint.java
+END
+PaxLoggingComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1058484/camel/trunk/components/camel-paxlogging/src/main/java/org/apache/camel/component/paxlogging/PaxLoggingComponent.java
+END
+PaxLoggingComponentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1058484/camel/trunk/components/camel-paxlogging/src/main/java/org/apache/camel/component/paxlogging/PaxLoggingComponentResolver.java
+END
+PaxLoggingServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1058484/camel/trunk/components/camel-paxlogging/src/main/java/org/apache/camel/component/paxlogging/PaxLoggingServiceFactory.java
+END
+PaxLoggingConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1086028/camel/trunk/components/camel-paxlogging/src/main/java/org/apache/camel/component/paxlogging/PaxLoggingConsumer.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1058484/camel/trunk/components/camel-paxlogging/src/main/java/org/apache/camel/component/paxlogging/Activator.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1130604/camel/trunk/components/camel-quickfix/src/test/resources/examples
+END
+gateway.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1040021/camel/trunk/components/camel-quickfix/src/test/resources/examples/gateway.cfg
+END
+inprocess.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1130604/camel/trunk/components/camel-quickfix/src/test/resources/examples/inprocess.cfg
+END

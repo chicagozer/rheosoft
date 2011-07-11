@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-sip/src/main/java/org/apache/camel/component/sip
+END
+SipPresenceAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/988419/camel/trunk/components/camel-sip/src/main/java/org/apache/camel/component/sip/SipPresenceAgent.java
+END
+SipSubscriber.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1025870/camel/trunk/components/camel-sip/src/main/java/org/apache/camel/component/sip/SipSubscriber.java
+END
+SipConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1065931/camel/trunk/components/camel-sip/src/main/java/org/apache/camel/component/sip/SipConfiguration.java
+END
+SipPublisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/988419/camel/trunk/components/camel-sip/src/main/java/org/apache/camel/component/sip/SipPublisher.java
+END
+SipEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/988419/camel/trunk/components/camel-sip/src/main/java/org/apache/camel/component/sip/SipEndpoint.java
+END
+SipComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/988419/camel/trunk/components/camel-sip/src/main/java/org/apache/camel/component/sip/SipComponent.java
+END

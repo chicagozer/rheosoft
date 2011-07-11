@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1104674/camel/trunk/components/camel-cxf/src/test/resources/org/apache/camel/component/cxf/cxfbean
+END
+CxfBeanWithWsdlLocationInBeanAndIoCTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/998687/camel/trunk/components/camel-cxf/src/test/resources/org/apache/camel/component/cxf/cxfbean/CxfBeanWithWsdlLocationInBeanAndIoCTest-context.xml
+END
+CxfBeanWithWsdlLocationInBeanTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-cxf/src/test/resources/org/apache/camel/component/cxf/cxfbean/CxfBeanWithWsdlLocationInBeanTest-context.xml
+END
+CxfBeanTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1104674/camel/trunk/components/camel-cxf/src/test/resources/org/apache/camel/component/cxf/cxfbean/CxfBeanTest-context.xml
+END

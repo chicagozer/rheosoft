@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1125242/camel/trunk/components/camel-spring-integration/src/test/java/org/apache/camel/component/spring/integration
+END
+MyProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-spring-integration/src/test/java/org/apache/camel/component/spring/integration/MyProcessor.java
+END
+SpringIntegrationOneWayConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/1069819/camel/trunk/components/camel-spring-integration/src/test/java/org/apache/camel/component/spring/integration/SpringIntegrationOneWayConsumerTest.java
+END
+SpringIntegrationChannelConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/1040056/camel/trunk/components/camel-spring-integration/src/test/java/org/apache/camel/component/spring/integration/SpringIntegrationChannelConverterTest.java
+END
+SpringIntegrationProducerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/785889/camel/trunk/components/camel-spring-integration/src/test/java/org/apache/camel/component/spring/integration/SpringIntegrationProducerTest.java
+END
+HelloWorldService.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1040056/camel/trunk/components/camel-spring-integration/src/test/java/org/apache/camel/component/spring/integration/HelloWorldService.java
+END
+SpringIntegrationTwoWayConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/1069819/camel/trunk/components/camel-spring-integration/src/test/java/org/apache/camel/component/spring/integration/SpringIntegrationTwoWayConsumerTest.java
+END

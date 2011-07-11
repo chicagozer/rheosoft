@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1144324/camel/trunk/platforms/karaf/features/src/main/resources
+END
+config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1099344/camel/trunk/platforms/karaf/features/src/main/resources/config.properties
+END
+bundles.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1057218/camel/trunk/platforms/karaf/features/src/main/resources/bundles.properties
+END
+features.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1144324/camel/trunk/platforms/karaf/features/src/main/resources/features.xml
+END

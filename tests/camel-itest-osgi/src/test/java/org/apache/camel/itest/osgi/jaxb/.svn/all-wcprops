@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1133394/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/jaxb
+END
+JaxbFallbackConverterSpringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1133394/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/jaxb/JaxbFallbackConverterSpringTest.java
+END
+JaxbDataFormatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1133394/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/jaxb/JaxbDataFormatTest.java
+END
+PersonType.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/983928/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/jaxb/PersonType.java
+END
+JaxbFallbackConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1133394/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/jaxb/JaxbFallbackConverterTest.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1055455/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/jaxb/ObjectFactory.java
+END

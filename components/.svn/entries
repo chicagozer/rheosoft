@@ -1,0 +1,374 @@
+10
+
+dir
+1144481
+http://svn.apache.org/repos/asf/camel/trunk/components
+http://svn.apache.org/repos/asf
+
+
+
+2011-07-08T17:22:04.828044Z
+1144392
+davsclaus
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+camel-ejb
+dir
+
+camel-jt400
+dir
+
+camel-apns
+dir
+
+camel-http4
+dir
+
+camel-blueprint
+dir
+
+camel-bindy
+dir
+
+camel-routebox
+dir
+
+camel-rss
+dir
+
+camel-hawtdb
+dir
+
+camel-jpa
+dir
+
+camel-lucene
+dir
+
+camel-ibatis
+dir
+
+pom.xml
+file
+
+
+
+
+2011-07-08T20:16:25.000000Z
+25c36eaba03b668f2b2796378d3939b5
+2011-06-09T02:49:29.639012Z
+1133637
+hadrian
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5110
+
+camel-irc
+dir
+
+camel-hazelcast
+dir
+
+camel-test
+dir
+
+camel-mail
+dir
+
+camel-restlet
+dir
+
+camel-quickfix
+dir
+
+camel-hdfs
+dir
+
+camel-eclipse
+dir
+
+camel-servlet
+dir
+
+camel-groovy
+dir
+
+camel-quartz
+dir
+
+camel-jing
+dir
+
+camel-core-osgi
+dir
+
+camel-jackson
+dir
+
+camel-ftp
+dir
+
+camel-spring-ws
+dir
+
+camel-jibx
+dir
+
+camel-guice
+dir
+
+camel-amqp
+dir
+
+camel-jetty
+dir
+
+camel-bam
+dir
+
+camel-paxlogging
+dir
+
+camel-atom
+dir
+
+camel-spring
+dir
+
+camel-stringtemplate
+dir
+
+camel-cache
+dir
+
+camel-netty
+dir
+
+camel-web-standalone
+dir
+
+camel-mybatis
+dir
+
+camel-xmlbeans
+dir
+
+camel-jasypt
+dir
+
+camel-snmp
+dir
+
+camel-ruby
+dir
+
+camel-freemarker
+dir
+
+camel-mina
+dir
+
+camel-context
+dir
+
+camel-shiro
+dir
+
+camel-xmpp
+dir
+
+camel-rmi
+dir
+
+camel-josql
+dir
+
+camel-jms
+dir
+
+camel-aws
+dir
+
+camel-ahc
+dir
+
+camel-csv
+dir
+
+camel-jmx
+dir
+
+camel-protobuf
+dir
+
+camel-jdbc
+dir
+
+camel-msv
+dir
+
+camel-spring-security
+dir
+
+camel-kestrel
+dir
+
+camel-cxf-transport
+dir
+
+camel-smpp
+dir
+
+camel-crypto
+dir
+
+camel-cxf
+dir
+
+camel-spring-integration
+dir
+
+camel-xstream
+dir
+
+camel-jaxb
+dir
+
+camel-dns
+dir
+
+camel-exec
+dir
+
+camel-hl7
+dir
+
+camel-castor
+dir
+
+camel-gae
+dir
+
+camel-javaspace
+dir
+
+camel-soap
+dir
+
+camel-mvel
+dir
+
+camel-script
+dir
+
+camel-testng
+dir
+
+camel-spring-javaconfig
+dir
+
+camel-cometd
+dir
+
+camel-web
+dir
+
+camel-jcr
+dir
+
+camel-http
+dir
+
+camel-nagios
+dir
+
+camel-ldap
+dir
+
+camel-syslog
+dir
+
+camel-tagsoup
+dir
+
+camel-dozer
+dir
+
+camel-printer
+dir
+
+camel-scala
+dir
+
+camel-flatpack
+dir
+
+camel-core-xml
+dir
+
+camel-bean-validator
+dir
+
+camel-saxon
+dir
+
+camel-xmlsecurity
+dir
+
+camel-eventadmin
+dir
+
+camel-sip
+dir
+
+camel-stream
+dir
+
+camel-jxpath
+dir
+
+camel-velocity
+dir
+
+camel-juel
+dir
+
+camel-ognl
+dir
+
+camel-sql
+dir
+

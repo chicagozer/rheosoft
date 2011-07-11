@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/temp
+END
+TemporaryTopicRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/temp/TemporaryTopicRouteTest.java
+END
+JmsProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/temp/JmsProviderTest.java
+END
+TemporaryQueueRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/temp/TemporaryQueueRouteTest.java
+END
+JmsReconnectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1004549/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/temp/JmsReconnectTest.java
+END

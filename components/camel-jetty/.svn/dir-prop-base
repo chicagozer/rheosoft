@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 76
+.checkstyle
+.pmd
+target
+eclipse-classes
+.classpath
+.project
+.settings
+*.i??
+
+END

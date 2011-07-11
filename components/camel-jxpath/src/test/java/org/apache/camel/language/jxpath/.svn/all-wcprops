@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1102191/camel/trunk/components/camel-jxpath/src/test/java/org/apache/camel/language/jxpath
+END
+BeanWithJXPathInjectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1102191/camel/trunk/components/camel-jxpath/src/test/java/org/apache/camel/language/jxpath/BeanWithJXPathInjectionTest.java
+END
+JXPathFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1100506/camel/trunk/components/camel-jxpath/src/test/java/org/apache/camel/language/jxpath/JXPathFilterTest.java
+END
+SpringJXPathFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1100506/camel/trunk/components/camel-jxpath/src/test/java/org/apache/camel/language/jxpath/SpringJXPathFilterTest.java
+END
+PersonBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-jxpath/src/test/java/org/apache/camel/language/jxpath/PersonBean.java
+END
+JXPathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1100506/camel/trunk/components/camel-jxpath/src/test/java/org/apache/camel/language/jxpath/JXPathTest.java
+END

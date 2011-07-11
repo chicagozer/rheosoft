@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration
+END
+SpringIntegrationBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/SpringIntegrationBinding.java
+END
+SpringIntegrationConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/SpringIntegrationConsumer.java
+END
+SpringIntegrationEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/SpringIntegrationEndpoint.java
+END
+SpringIntegrationComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/SpringIntegrationComponent.java
+END
+SpringIntegrationProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/SpringIntegrationProducer.java
+END
+SpringIntegrationMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-spring-integration/src/main/java/org/apache/camel/component/spring/integration/SpringIntegrationMessage.java
+END

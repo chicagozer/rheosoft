@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1055182/camel/trunk/components/camel-flatpack/src/test/resources
+END
+INVENTORY-Delimited.pzmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-flatpack/src/test/resources/INVENTORY-Delimited.pzmap.xml
+END
+PEOPLE-HeaderAndTrailer.pzmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/736555/camel/trunk/components/camel-flatpack/src/test/resources/PEOPLE-HeaderAndTrailer.pzmap.xml
+END
+PEOPLE-FixedLength.pzmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-flatpack/src/test/resources/PEOPLE-FixedLength.pzmap.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-flatpack/src/test/resources/log4j.properties
+END

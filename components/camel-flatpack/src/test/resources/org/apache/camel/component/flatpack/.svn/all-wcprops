@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1055182/camel/trunk/components/camel-flatpack/src/test/resources/org/apache/camel/component/flatpack
+END
+HeaderAndTrailerTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-flatpack/src/test/resources/org/apache/camel/component/flatpack/HeaderAndTrailerTest-context.xml
+END
+DelimitedTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-flatpack/src/test/resources/org/apache/camel/component/flatpack/DelimitedTest-context.xml
+END
+FixedLengthTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-flatpack/src/test/resources/org/apache/camel/component/flatpack/FixedLengthTest-context.xml
+END
+NoSplitRowsTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-flatpack/src/test/resources/org/apache/camel/component/flatpack/NoSplitRowsTest-context.xml
+END
+DelimitedWithUnmarshalTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-flatpack/src/test/resources/org/apache/camel/component/flatpack/DelimitedWithUnmarshalTest-context.xml
+END
+DelimitedWithNoDescriptorTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-flatpack/src/test/resources/org/apache/camel/component/flatpack/DelimitedWithNoDescriptorTest-context.xml
+END
+FixedLengthWithUnmarshalTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-flatpack/src/test/resources/org/apache/camel/component/flatpack/FixedLengthWithUnmarshalTest-context.xml
+END
+CharsetTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1055182/camel/trunk/components/camel-flatpack/src/test/resources/org/apache/camel/component/flatpack/CharsetTest-context.xml
+END

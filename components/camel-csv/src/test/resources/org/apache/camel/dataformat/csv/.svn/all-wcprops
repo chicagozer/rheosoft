@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-csv/src/test/resources/org/apache/camel/dataformat/csv
+END
+CsvMarshalPipeDelimiterSpringTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-csv/src/test/resources/org/apache/camel/dataformat/csv/CsvMarshalPipeDelimiterSpringTest-context.xml
+END
+CsvUnmarshalPipeDelimiterSpringTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-csv/src/test/resources/org/apache/camel/dataformat/csv/CsvUnmarshalPipeDelimiterSpringTest-context.xml
+END

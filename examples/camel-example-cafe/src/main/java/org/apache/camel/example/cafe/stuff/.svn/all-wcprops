@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/901190/camel/trunk/examples/camel-example-cafe/src/main/java/org/apache/camel/example/cafe/stuff
+END
+OrderSplitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/901190/camel/trunk/examples/camel-example-cafe/src/main/java/org/apache/camel/example/cafe/stuff/OrderSplitter.java
+END
+Barista.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/901190/camel/trunk/examples/camel-example-cafe/src/main/java/org/apache/camel/example/cafe/stuff/Barista.java
+END
+DrinkRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/901190/camel/trunk/examples/camel-example-cafe/src/main/java/org/apache/camel/example/cafe/stuff/DrinkRouter.java
+END
+CafeAggregationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/901190/camel/trunk/examples/camel-example-cafe/src/main/java/org/apache/camel/example/cafe/stuff/CafeAggregationStrategy.java
+END
+Waiter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/901190/camel/trunk/examples/camel-example-cafe/src/main/java/org/apache/camel/example/cafe/stuff/Waiter.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-web/src/main/java/org/apache/camel/web/model
+END
+Camel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-web/src/main/java/org/apache/camel/web/model/Camel.java
+END
+Endpoints.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-web/src/main/java/org/apache/camel/web/model/Endpoints.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/746468/camel/trunk/components/camel-web/src/main/java/org/apache/camel/web/model/package-info.java
+END
+EndpointLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-web/src/main/java/org/apache/camel/web/model/EndpointLink.java
+END
+Route.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1054080/camel/trunk/components/camel-web/src/main/java/org/apache/camel/web/model/Route.java
+END

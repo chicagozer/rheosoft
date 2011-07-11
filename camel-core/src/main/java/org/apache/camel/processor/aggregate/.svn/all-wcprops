@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1136687/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/aggregate
+END
+MemoryAggregationRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/aggregate/MemoryAggregationRepository.java
+END
+TimeoutAwareAggregationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/aggregate/TimeoutAwareAggregationStrategy.java
+END
+ClosedCorrelationKeyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/aggregate/ClosedCorrelationKeyException.java
+END
+GroupedExchangeAggregationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/aggregate/GroupedExchangeAggregationStrategy.java
+END
+UseLatestAggregationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/aggregate/UseLatestAggregationStrategy.java
+END
+AggregateProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1136687/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/aggregate/AggregateProcessor.java
+END
+AggregationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/aggregate/AggregationStrategy.java
+END
+UseOriginalAggregationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/aggregate/UseOriginalAggregationStrategy.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/941182/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/aggregate/package.html
+END

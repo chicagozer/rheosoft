@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1099713/camel/trunk/tests/camel-itest-osgi/src/test/resources/org/apache/camel/itest/osgi/cache
+END
+ehcache_test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1094113/camel/trunk/tests/camel-itest-osgi/src/test/resources/org/apache/camel/itest/osgi/cache/ehcache_test.xml
+END

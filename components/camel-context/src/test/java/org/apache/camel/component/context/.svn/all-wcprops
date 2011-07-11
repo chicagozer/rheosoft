@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1075667/camel/trunk/components/camel-context/src/test/java/org/apache/camel/component/context
+END
+JavaDslBlackBoxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1075667/camel/trunk/components/camel-context/src/test/java/org/apache/camel/component/context/JavaDslBlackBoxTest.java
+END
+JavaDslBlackBoxWithVerboseUriTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1075667/camel/trunk/components/camel-context/src/test/java/org/apache/camel/component/context/JavaDslBlackBoxWithVerboseUriTest.java
+END
+SpringDslContextComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1075667/camel/trunk/components/camel-context/src/test/java/org/apache/camel/component/context/SpringDslContextComponentTest.java
+END

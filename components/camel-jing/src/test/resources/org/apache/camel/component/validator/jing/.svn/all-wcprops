@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-jing/src/test/resources/org/apache/camel/component/validator/jing
+END
+schema.rnc
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-jing/src/test/resources/org/apache/camel/component/validator/jing/schema.rnc
+END
+rnc-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-jing/src/test/resources/org/apache/camel/component/validator/jing/rnc-context.xml
+END
+schema.rng
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-jing/src/test/resources/org/apache/camel/component/validator/jing/schema.rng
+END
+rng-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-jing/src/test/resources/org/apache/camel/component/validator/jing/rng-context.xml
+END

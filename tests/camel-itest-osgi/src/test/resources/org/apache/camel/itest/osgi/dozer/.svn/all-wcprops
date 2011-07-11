@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1058578/camel/trunk/tests/camel-itest-osgi/src/test/resources/org/apache/camel/itest/osgi/dozer
+END
+CamelContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1058578/camel/trunk/tests/camel-itest-osgi/src/test/resources/org/apache/camel/itest/osgi/dozer/CamelContext.xml
+END
+dozer-mapping.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/999836/camel/trunk/tests/camel-itest-osgi/src/test/resources/org/apache/camel/itest/osgi/dozer/dozer-mapping.xml
+END

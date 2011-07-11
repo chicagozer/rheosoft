@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/966094/camel/trunk/tooling/archetypes/camel-archetype-activemq/src/main/resources/archetype-resources/src/main/resources/META-INF/spring
+END
+camel-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/966094/camel/trunk/tooling/archetypes/camel-archetype-activemq/src/main/resources/archetype-resources/src/main/resources/META-INF/spring/camel-context.xml
+END

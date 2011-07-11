@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-cxf/src/test/resources/org/apache/camel/component/cxf/util
+END
+RequestBody.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/931612/camel/trunk/components/camel-cxf/src/test/resources/org/apache/camel/component/cxf/util/RequestBody.xml
+END
+CxfEndpointBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-cxf/src/test/resources/org/apache/camel/component/cxf/util/CxfEndpointBeans.xml
+END

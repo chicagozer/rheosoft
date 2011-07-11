@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/989532/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/produce
+END
+ProduceTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/989532/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/produce/ProduceTest-context.xml
+END
+MyCoolBeanTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/989532/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/produce/MyCoolBeanTest-context.xml
+END
+ProduceTemplateTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/989532/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/produce/ProduceTemplateTest-context.xml
+END

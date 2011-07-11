@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-kestrel/src/main/java/org/apache/camel/component/kestrel
+END
+KestrelConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1057218/camel/trunk/components/camel-kestrel/src/main/java/org/apache/camel/component/kestrel/KestrelConfiguration.java
+END
+KestrelConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-kestrel/src/main/java/org/apache/camel/component/kestrel/KestrelConsumer.java
+END
+KestrelEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1057218/camel/trunk/components/camel-kestrel/src/main/java/org/apache/camel/component/kestrel/KestrelEndpoint.java
+END
+KestrelComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-kestrel/src/main/java/org/apache/camel/component/kestrel/KestrelComponent.java
+END
+KestrelProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-kestrel/src/main/java/org/apache/camel/component/kestrel/KestrelProducer.java
+END

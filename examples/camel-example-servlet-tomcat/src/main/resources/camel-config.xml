@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Licensed to the Apache Software Foundation (ASF) under one or more
+    contributor license agreements.  See the NOTICE file distributed with
+    this work for additional information regarding copyright ownership.
+    The ASF licenses this file to You under the Apache License, Version 2.0
+    (the "License"); you may not use this file except in compliance with
+    the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+<!-- START SNIPPET: e1 -->
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:camel="http://camel.apache.org/schema/spring"
+       xsi:schemaLocation="
+       http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://camel.apache.org/schema/spring http://camel.apache.org/schema/spring/camel-spring.xsd">
+
+    <camelContext xmlns="http://camel.apache.org/schema/spring" streamCache="false">
+        <package>com.rheosoft</package> 
+       <!--
+        <route>
+            <from uri="servlet:///hello"/>
+            <choice>
+                <when>
+                    <header>name</header>
+                    <transform>
+                        <simple>Hello ${header.name} how are you?</simple>
+                    </transform>
+                </when>
+                <otherwise>
+                    <transform>
+                        <constant>Add a name parameter to uri, eg ?name=foo</constant>
+                    </transform>
+                </otherwise>
+            </choice>
+        </route>
+        -->
+    </camelContext>
+
+    <bean id="ReaderBinding" class="com.rheosoft.HttpReaderBinding"/>
+    <bean id="GPullTaskBinding" class="com.rheosoft.GPullTaskBinding"/>
+
+    <bean id="mavenBuildTimestamp" class="java.lang.String">
+        <constructor-arg>
+            <value>${build.timestamp}</value>
+        </constructor-arg>
+    </bean>
+    
+    <bean id="pomVersion" class="java.lang.String">
+        <constructor-arg>
+            <value>${pom.version}</value>
+        </constructor-arg>
+    </bean>
+    
+    <bean id="pomName" class="java.lang.String">
+        <constructor-arg>
+            <value>${pom.name}</value>
+        </constructor-arg>
+    </bean>
+   
+   
+    <bean class="org.springframework.web.context.support.ServletContextAttributeExporter">
+        <property name="attributes">
+            <map>
+         <!-- inject the following beans into the servlet
+context so the servlets can access them. -->
+                <entry key="mavenBuildTimestamp">
+                    <ref bean="mavenBuildTimestamp"/>
+                </entry>
+                <entry key="pomVersion">
+                    <ref bean="pomVersion"/>
+                </entry>
+                <entry key="pomName">
+                    <ref bean="pomName"/>
+                </entry>
+            </map>
+        </property>
+    </bean>
+    
+
+</beans>
+<!-- END SNIPPET: e1 -->

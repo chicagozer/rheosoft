@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1083702/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/core/bean
+END
+MyFooBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/core/bean/MyFooBean.java
+END
+BeanRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1083702/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/core/bean/BeanRouteTest.java
+END
+FooService.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/core/bean/FooService.java
+END

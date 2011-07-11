@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-cache/src/main/java/org/apache/camel/component/cache
+END
+CacheConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-cache/src/main/java/org/apache/camel/component/cache/CacheConsumer.java
+END
+CacheConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1095623/camel/trunk/components/camel-cache/src/main/java/org/apache/camel/component/cache/CacheConstants.java
+END
+CacheLoaderRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1099711/camel/trunk/components/camel-cache/src/main/java/org/apache/camel/component/cache/CacheLoaderRegistry.java
+END
+CacheEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1099711/camel/trunk/components/camel-cache/src/main/java/org/apache/camel/component/cache/CacheEndpoint.java
+END
+CacheEventListenerRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1099711/camel/trunk/components/camel-cache/src/main/java/org/apache/camel/component/cache/CacheEventListenerRegistry.java
+END
+CacheComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1099711/camel/trunk/components/camel-cache/src/main/java/org/apache/camel/component/cache/CacheComponent.java
+END
+CacheManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1099711/camel/trunk/components/camel-cache/src/main/java/org/apache/camel/component/cache/CacheManagerFactory.java
+END
+CacheProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-cache/src/main/java/org/apache/camel/component/cache/CacheProducer.java
+END
+CacheConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1099711/camel/trunk/components/camel-cache/src/main/java/org/apache/camel/component/cache/CacheConfiguration.java
+END
+CacheConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-cache/src/main/java/org/apache/camel/component/cache/CacheConverter.java
+END
+CacheEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-cache/src/main/java/org/apache/camel/component/cache/CacheEventListener.java
+END
+CacheLoaderWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1099711/camel/trunk/components/camel-cache/src/main/java/org/apache/camel/component/cache/CacheLoaderWrapper.java
+END
+DefaultCacheManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1090960/camel/trunk/components/camel-cache/src/main/java/org/apache/camel/component/cache/DefaultCacheManagerFactory.java
+END

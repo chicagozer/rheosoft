@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/933904/camel/trunk/examples/camel-example-spring-security/client
+END
+access-user-no-auth.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/933904/camel/trunk/examples/camel-example-spring-security/client/access-user-no-auth.sh
+END
+access-admin-as-bob.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/933904/camel/trunk/examples/camel-example-spring-security/client/access-admin-as-bob.sh
+END
+access-user-as-jim.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/933904/camel/trunk/examples/camel-example-spring-security/client/access-user-as-jim.sh
+END
+access-admin-as-jim.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/933904/camel/trunk/examples/camel-example-spring-security/client/access-admin-as-jim.sh
+END

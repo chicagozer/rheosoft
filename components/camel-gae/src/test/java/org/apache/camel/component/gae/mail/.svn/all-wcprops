@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/933507/camel/trunk/components/camel-gae/src/test/java/org/apache/camel/component/gae/mail
+END
+GMailOutboundRouteBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/930208/camel/trunk/components/camel-gae/src/test/java/org/apache/camel/component/gae/mail/GMailOutboundRouteBuilder.java
+END
+GMailOutboundRouteBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/930535/camel/trunk/components/camel-gae/src/test/java/org/apache/camel/component/gae/mail/GMailOutboundRouteBuilderTest.java
+END
+GMailBindingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/930675/camel/trunk/components/camel-gae/src/test/java/org/apache/camel/component/gae/mail/GMailBindingTest.java
+END
+GMailEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/933507/camel/trunk/components/camel-gae/src/test/java/org/apache/camel/component/gae/mail/GMailEndpointTest.java
+END
+GMailTestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/930535/camel/trunk/components/camel-gae/src/test/java/org/apache/camel/component/gae/mail/GMailTestUtils.java
+END

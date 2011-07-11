@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/996902/camel/trunk/components/camel-protobuf/src/test/resources
+END
+addressbook.proto
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/892109/camel/trunk/components/camel-protobuf/src/test/resources/addressbook.proto
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/892726/camel/trunk/components/camel-protobuf/src/test/resources/log4j.properties
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/892109/camel/trunk/components/camel-protobuf/src/test/resources/readme.txt
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1129601/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/issues
+END
+JettyHttpTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1129601/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/issues/JettyHttpTest.java
+END
+BaseClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/issues/BaseClass.java
+END
+JettyHttpFileCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/952578/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/issues/JettyHttpFileCacheTest.java
+END
+RssToHttpIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/issues/RssToHttpIssueTest.java
+END
+DerivedClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/issues/DerivedClass.java
+END
+BeanCallDerivedClassTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/issues/BeanCallDerivedClassTest.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1026271/camel/trunk/components/camel-dozer/src/test/java/org/apache/camel/converter/dozer
+END
+SpringDozerTypeConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/999836/camel/trunk/components/camel-dozer/src/test/java/org/apache/camel/converter/dozer/SpringDozerTypeConverterTest.java
+END
+CustomerProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/903252/camel/trunk/components/camel-dozer/src/test/java/org/apache/camel/converter/dozer/CustomerProcessor.java
+END
+DozerTypeConverterDTOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1026271/camel/trunk/components/camel-dozer/src/test/java/org/apache/camel/converter/dozer/DozerTypeConverterDTOTest.java
+END
+DozerTestArtifactsFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1026271/camel/trunk/components/camel-dozer/src/test/java/org/apache/camel/converter/dozer/DozerTestArtifactsFactory.java
+END
+DozerTypeConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/999836/camel/trunk/components/camel-dozer/src/test/java/org/apache/camel/converter/dozer/DozerTypeConverterTest.java
+END

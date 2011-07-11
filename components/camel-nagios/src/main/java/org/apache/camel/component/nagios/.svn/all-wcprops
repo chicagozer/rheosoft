@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1136687/camel/trunk/components/camel-nagios/src/main/java/org/apache/camel/component/nagios
+END
+NagiosEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-nagios/src/main/java/org/apache/camel/component/nagios/NagiosEndpoint.java
+END
+NagiosEventNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1136687/camel/trunk/components/camel-nagios/src/main/java/org/apache/camel/component/nagios/NagiosEventNotifier.java
+END
+NagiosComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-nagios/src/main/java/org/apache/camel/component/nagios/NagiosComponent.java
+END
+NagiosProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-nagios/src/main/java/org/apache/camel/component/nagios/NagiosProducer.java
+END
+NagiosConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-nagios/src/main/java/org/apache/camel/component/nagios/NagiosConfiguration.java
+END
+NagiosConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-nagios/src/main/java/org/apache/camel/component/nagios/NagiosConstants.java
+END

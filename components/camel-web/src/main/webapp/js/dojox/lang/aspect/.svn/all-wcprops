@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/755920/camel/trunk/components/camel-web/src/main/webapp/js/dojox/lang/aspect
+END
+memoizer.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/755920/camel/trunk/components/camel-web/src/main/webapp/js/dojox/lang/aspect/memoizer.js
+END
+cflow.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/755920/camel/trunk/components/camel-web/src/main/webapp/js/dojox/lang/aspect/cflow.js
+END
+memoizerGuard.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/755920/camel/trunk/components/camel-web/src/main/webapp/js/dojox/lang/aspect/memoizerGuard.js
+END
+counter.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/755920/camel/trunk/components/camel-web/src/main/webapp/js/dojox/lang/aspect/counter.js
+END
+timer.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/755920/camel/trunk/components/camel-web/src/main/webapp/js/dojox/lang/aspect/timer.js
+END
+tracer.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/755920/camel/trunk/components/camel-web/src/main/webapp/js/dojox/lang/aspect/tracer.js
+END
+profiler.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/755920/camel/trunk/components/camel-web/src/main/webapp/js/dojox/lang/aspect/profiler.js
+END

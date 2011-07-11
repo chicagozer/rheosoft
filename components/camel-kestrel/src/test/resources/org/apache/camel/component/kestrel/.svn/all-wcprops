@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1057218/camel/trunk/components/camel-kestrel/src/test/resources/org/apache/camel/component/kestrel
+END
+KestrelSpringXmlTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1057218/camel/trunk/components/camel-kestrel/src/test/resources/org/apache/camel/component/kestrel/KestrelSpringXmlTest-context.xml
+END

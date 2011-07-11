@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1124568/camel/trunk/components/camel-aws/src/main/java/org/apache/camel/component/aws/sqs
+END
+SqsConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1124568/camel/trunk/components/camel-aws/src/main/java/org/apache/camel/component/aws/sqs/SqsConsumer.java
+END
+SqsConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1083979/camel/trunk/components/camel-aws/src/main/java/org/apache/camel/component/aws/sqs/SqsConstants.java
+END
+SqsEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1103598/camel/trunk/components/camel-aws/src/main/java/org/apache/camel/component/aws/sqs/SqsEndpoint.java
+END
+SqsComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1083979/camel/trunk/components/camel-aws/src/main/java/org/apache/camel/component/aws/sqs/SqsComponent.java
+END
+SqsProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1124568/camel/trunk/components/camel-aws/src/main/java/org/apache/camel/component/aws/sqs/SqsProducer.java
+END
+SqsConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1103598/camel/trunk/components/camel-aws/src/main/java/org/apache/camel/component/aws/sqs/SqsConfiguration.java
+END

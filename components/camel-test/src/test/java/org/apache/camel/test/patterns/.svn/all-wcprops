@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1101791/camel/trunk/components/camel-test/src/test/java/org/apache/camel/test/patterns
+END
+FilterJUnit4Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1101791/camel/trunk/components/camel-test/src/test/java/org/apache/camel/test/patterns/FilterJUnit4Test.java
+END
+DebugJUnit4Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-test/src/test/java/org/apache/camel/test/patterns/DebugJUnit4Test.java
+END
+FilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-test/src/test/java/org/apache/camel/test/patterns/FilterTest.java
+END
+DebugTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-test/src/test/java/org/apache/camel/test/patterns/DebugTest.java
+END
+IsMockEndpointsJUnit4Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-test/src/test/java/org/apache/camel/test/patterns/IsMockEndpointsJUnit4Test.java
+END
+IsMockEndpointsFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1078291/camel/trunk/components/camel-test/src/test/java/org/apache/camel/test/patterns/IsMockEndpointsFileTest.java
+END
+IsMockEndpointsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-test/src/test/java/org/apache/camel/test/patterns/IsMockEndpointsTest.java
+END
+DebugNoLazyTypeConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1100508/camel/trunk/components/camel-test/src/test/java/org/apache/camel/test/patterns/DebugNoLazyTypeConverterTest.java
+END
+FilterCreateCamelContextPerClassTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1101791/camel/trunk/components/camel-test/src/test/java/org/apache/camel/test/patterns/FilterCreateCamelContextPerClassTest.java
+END

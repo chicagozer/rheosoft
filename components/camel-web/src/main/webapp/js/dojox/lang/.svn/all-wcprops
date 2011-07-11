@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/768179/camel/trunk/components/camel-web/src/main/webapp/js/dojox/lang
+END
+observable.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/755920/camel/trunk/components/camel-web/src/main/webapp/js/dojox/lang/observable.js
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/768179/camel/trunk/components/camel-web/src/main/webapp/js/dojox/lang/LICENSE
+END
+mix.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/755920/camel/trunk/components/camel-web/src/main/webapp/js/dojox/lang/mix.js
+END
+aspect.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/755920/camel/trunk/components/camel-web/src/main/webapp/js/dojox/lang/aspect.js
+END
+utils.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/755920/camel/trunk/components/camel-web/src/main/webapp/js/dojox/lang/utils.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/768179/camel/trunk/components/camel-web/src/main/webapp/js/dojox/lang/README
+END
+functional.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/755920/camel/trunk/components/camel-web/src/main/webapp/js/dojox/lang/functional.js
+END

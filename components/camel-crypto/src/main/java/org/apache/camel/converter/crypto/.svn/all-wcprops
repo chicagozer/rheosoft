@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1067428/camel/trunk/components/camel-crypto/src/main/java/org/apache/camel/converter/crypto
+END
+CryptoDataFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1067428/camel/trunk/components/camel-crypto/src/main/java/org/apache/camel/converter/crypto/CryptoDataFormat.java
+END
+HexUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/933507/camel/trunk/components/camel-crypto/src/main/java/org/apache/camel/converter/crypto/HexUtils.java
+END
+HMACAccumulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/933507/camel/trunk/components/camel-crypto/src/main/java/org/apache/camel/converter/crypto/HMACAccumulator.java
+END

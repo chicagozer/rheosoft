@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1125242/camel/trunk/components/camel-eventadmin/src/main/java/org/apache/camel/component/eventadmin
+END
+EventAdminComponentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1058483/camel/trunk/components/camel-eventadmin/src/main/java/org/apache/camel/component/eventadmin/EventAdminComponentResolver.java
+END
+EventAdminServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1058483/camel/trunk/components/camel-eventadmin/src/main/java/org/apache/camel/component/eventadmin/EventAdminServiceFactory.java
+END
+EventAdminConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1125242/camel/trunk/components/camel-eventadmin/src/main/java/org/apache/camel/component/eventadmin/EventAdminConsumer.java
+END
+EventAdminConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1058483/camel/trunk/components/camel-eventadmin/src/main/java/org/apache/camel/component/eventadmin/EventAdminConstants.java
+END
+EventAdminEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1058483/camel/trunk/components/camel-eventadmin/src/main/java/org/apache/camel/component/eventadmin/EventAdminEndpoint.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1058483/camel/trunk/components/camel-eventadmin/src/main/java/org/apache/camel/component/eventadmin/Activator.java
+END
+EventAdminComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1058483/camel/trunk/components/camel-eventadmin/src/main/java/org/apache/camel/component/eventadmin/EventAdminComponent.java
+END
+EventAdminProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1069596/camel/trunk/components/camel-eventadmin/src/main/java/org/apache/camel/component/eventadmin/EventAdminProducer.java
+END

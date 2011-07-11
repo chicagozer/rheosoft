@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1103434/camel/trunk/components/camel-aws/src/test/java/org/apache/camel/component/aws/sqs/integration
+END
+SqsComponentIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1103434/camel/trunk/components/camel-aws/src/test/java/org/apache/camel/component/aws/sqs/integration/SqsComponentIntegrationTest.java
+END

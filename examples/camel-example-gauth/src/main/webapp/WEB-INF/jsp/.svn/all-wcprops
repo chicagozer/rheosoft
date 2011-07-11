@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/932436/camel/trunk/examples/camel-example-gauth/src/main/webapp/WEB-INF/jsp
+END
+bottom.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/932436/camel/trunk/examples/camel-example-gauth/src/main/webapp/WEB-INF/jsp/bottom.jsp
+END
+calendar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/932255/camel/trunk/examples/camel-example-gauth/src/main/webapp/WEB-INF/jsp/calendar.jsp
+END
+authorize.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/932255/camel/trunk/examples/camel-example-gauth/src/main/webapp/WEB-INF/jsp/authorize.jsp
+END
+top.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/932298/camel/trunk/examples/camel-example-gauth/src/main/webapp/WEB-INF/jsp/top.jsp
+END

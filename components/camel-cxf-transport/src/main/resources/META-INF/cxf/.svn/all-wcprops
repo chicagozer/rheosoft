@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1130436/camel/trunk/components/camel-cxf-transport/src/main/resources/META-INF/cxf
+END
+bus-extensions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1130160/camel/trunk/components/camel-cxf-transport/src/main/resources/META-INF/cxf/bus-extensions.txt
+END
+cxf-extension-camel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1130160/camel/trunk/components/camel-cxf-transport/src/main/resources/META-INF/cxf/cxf-extension-camel.xml
+END

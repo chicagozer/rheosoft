@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1066041/camel/trunk/components/camel-shiro/src/test/java/org/apache/camel/component/shiro/security
+END
+ShiroAuthenticationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1066041/camel/trunk/components/camel-shiro/src/test/java/org/apache/camel/component/shiro/security/ShiroAuthenticationTest.java
+END
+ShiroAuthorizationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/980172/camel/trunk/components/camel-shiro/src/test/java/org/apache/camel/component/shiro/security/ShiroAuthorizationTest.java
+END

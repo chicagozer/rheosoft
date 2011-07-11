@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1100508/camel/trunk/components/camel-ognl/src/test/java/org/apache/camel/language/ognl
+END
+OgnlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1100508/camel/trunk/components/camel-ognl/src/test/java/org/apache/camel/language/ognl/OgnlTest.java
+END
+Animal.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1091807/camel/trunk/components/camel-ognl/src/test/java/org/apache/camel/language/ognl/Animal.java
+END
+OgnlInvokeMethodTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1100508/camel/trunk/components/camel-ognl/src/test/java/org/apache/camel/language/ognl/OgnlInvokeMethodTest.java
+END

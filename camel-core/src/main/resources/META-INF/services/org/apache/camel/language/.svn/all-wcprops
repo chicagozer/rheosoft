@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1125717/camel/trunk/camel-core/src/main/resources/META-INF/services/org/apache/camel/language
+END
+file
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/888284/camel/trunk/camel-core/src/main/resources/META-INF/services/org/apache/camel/language/file
+END
+property
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/739340/camel/trunk/camel-core/src/main/resources/META-INF/services/org/apache/camel/language/property
+END
+xpath
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/735816/camel/trunk/camel-core/src/main/resources/META-INF/services/org/apache/camel/language/xpath
+END
+bean
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/735816/camel/trunk/camel-core/src/main/resources/META-INF/services/org/apache/camel/language/bean
+END
+header
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/735816/camel/trunk/camel-core/src/main/resources/META-INF/services/org/apache/camel/language/header
+END
+tokenize
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/749296/camel/trunk/camel-core/src/main/resources/META-INF/services/org/apache/camel/language/tokenize
+END
+constant
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/735816/camel/trunk/camel-core/src/main/resources/META-INF/services/org/apache/camel/language/constant
+END
+simple
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/735816/camel/trunk/camel-core/src/main/resources/META-INF/services/org/apache/camel/language/simple
+END
+ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1125717/camel/trunk/camel-core/src/main/resources/META-INF/services/org/apache/camel/language/ref
+END

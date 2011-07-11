@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1131070/camel/trunk/components/camel-saxon/src/test/java/org/apache/camel/component/xquery
+END
+XQueryFromFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1090175/camel/trunk/components/camel-saxon/src/test/java/org/apache/camel/component/xquery/XQueryFromFileTest.java
+END
+SoapPayloadBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-saxon/src/test/java/org/apache/camel/component/xquery/SoapPayloadBean.java
+END
+SoapPayloadBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-saxon/src/test/java/org/apache/camel/component/xquery/SoapPayloadBeanTest.java
+END
+TestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-saxon/src/test/java/org/apache/camel/component/xquery/TestBean.java
+END
+XQueryLanguageFromFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1100483/camel/trunk/components/camel-saxon/src/test/java/org/apache/camel/component/xquery/XQueryLanguageFromFileTest.java
+END
+XQueryConcurrencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1131070/camel/trunk/components/camel-saxon/src/test/java/org/apache/camel/component/xquery/XQueryConcurrencyTest.java
+END
+XQueryExampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-saxon/src/test/java/org/apache/camel/component/xquery/XQueryExampleTest.java
+END
+XQueryPropogateHeadersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/785888/camel/trunk/components/camel-saxon/src/test/java/org/apache/camel/component/xquery/XQueryPropogateHeadersTest.java
+END
+XQueryURLBasedConcurrencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1131070/camel/trunk/components/camel-saxon/src/test/java/org/apache/camel/component/xquery/XQueryURLBasedConcurrencyTest.java
+END
+XQueryStripWhitespaceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-saxon/src/test/java/org/apache/camel/component/xquery/XQueryStripWhitespaceTest.java
+END
+XQueryWithExplicitTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-saxon/src/test/java/org/apache/camel/component/xquery/XQueryWithExplicitTypeTest.java
+END
+XQueryEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-saxon/src/test/java/org/apache/camel/component/xquery/XQueryEndpointTest.java
+END

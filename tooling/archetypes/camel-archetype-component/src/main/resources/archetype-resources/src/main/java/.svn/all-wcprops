@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1076644/camel/trunk/tooling/archetypes/camel-archetype-component/src/main/resources/archetype-resources/src/main/java
+END
+HelloWorldProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1076644/camel/trunk/tooling/archetypes/camel-archetype-component/src/main/resources/archetype-resources/src/main/java/HelloWorldProducer.java
+END
+HelloWorldConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1076644/camel/trunk/tooling/archetypes/camel-archetype-component/src/main/resources/archetype-resources/src/main/java/HelloWorldConsumer.java
+END
+HelloWorldEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1076644/camel/trunk/tooling/archetypes/camel-archetype-component/src/main/resources/archetype-resources/src/main/java/HelloWorldEndpoint.java
+END
+HelloWorldComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1076644/camel/trunk/tooling/archetypes/camel-archetype-component/src/main/resources/archetype-resources/src/main/java/HelloWorldComponent.java
+END

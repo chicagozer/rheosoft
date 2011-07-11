@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1101791/camel/trunk/components/camel-jaxb/src/test/java/org/apache/camel/converter/jaxb
+END
+NonXmlFilterReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/900649/camel/trunk/components/camel-jaxb/src/test/java/org/apache/camel/converter/jaxb/NonXmlFilterReaderTest.java
+END
+MessageTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-jaxb/src/test/java/org/apache/camel/converter/jaxb/MessageTypeTest.java
+END
+NonXmlCharFiltererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/900649/camel/trunk/components/camel-jaxb/src/test/java/org/apache/camel/converter/jaxb/NonXmlCharFiltererTest.java
+END
+JaxbDataFormatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/900649/camel/trunk/components/camel-jaxb/src/test/java/org/apache/camel/converter/jaxb/JaxbDataFormatTest.java
+END
+JaxbConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1101791/camel/trunk/components/camel-jaxb/src/test/java/org/apache/camel/converter/jaxb/JaxbConverterTest.java
+END
+FilteringXmlStreamWriterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/900649/camel/trunk/components/camel-jaxb/src/test/java/org/apache/camel/converter/jaxb/FilteringXmlStreamWriterTest.java
+END

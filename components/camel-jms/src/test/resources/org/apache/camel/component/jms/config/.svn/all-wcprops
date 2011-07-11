@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1059928/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/config
+END
+JmsEndpointWithCustomDestinationTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1059928/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/config/JmsEndpointWithCustomDestinationTest-context.xml
+END

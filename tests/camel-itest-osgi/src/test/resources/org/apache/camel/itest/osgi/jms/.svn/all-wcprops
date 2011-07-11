@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/998888/camel/trunk/tests/camel-itest-osgi/src/test/resources/org/apache/camel/itest/osgi/jms
+END
+CamelContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/998888/camel/trunk/tests/camel-itest-osgi/src/test/resources/org/apache/camel/itest/osgi/jms/CamelContext.xml
+END

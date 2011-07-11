@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1057218/camel/trunk/components/camel-kestrel/src/test/java/org/apache/camel/component/kestrel
+END
+KestrelProduceAndConsumeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1057218/camel/trunk/components/camel-kestrel/src/test/java/org/apache/camel/component/kestrel/KestrelProduceAndConsumeTest.java
+END
+KestrelSingleThreadedConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1057218/camel/trunk/components/camel-kestrel/src/test/java/org/apache/camel/component/kestrel/KestrelSingleThreadedConsumerTest.java
+END
+KestrelEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1057218/camel/trunk/components/camel-kestrel/src/test/java/org/apache/camel/component/kestrel/KestrelEndpointTest.java
+END
+KestrelProducerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1057218/camel/trunk/components/camel-kestrel/src/test/java/org/apache/camel/component/kestrel/KestrelProducerTest.java
+END
+KestrelSpringXmlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1057218/camel/trunk/components/camel-kestrel/src/test/java/org/apache/camel/component/kestrel/KestrelSpringXmlTest.java
+END

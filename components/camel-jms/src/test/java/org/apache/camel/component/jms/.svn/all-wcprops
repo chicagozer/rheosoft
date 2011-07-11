@@ -1,0 +1,647 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1144248/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms
+END
+JmsDeadLetterChannelInOutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsDeadLetterChannelInOutTest.java
+END
+JmsRouteUsingSpringAndJmsNameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRouteUsingSpringAndJmsNameTest.java
+END
+JmsProducerDisableReplyToTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsProducerDisableReplyToTest.java
+END
+JmsRequestReplyManualWithJMSReplyToTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRequestReplyManualWithJMSReplyToTest.java
+END
+PurchaseOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/PurchaseOrder.java
+END
+JmsRouteUsingSpringJMSTemplateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRouteUsingSpringJMSTemplateTest.java
+END
+JmsXPathHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsXPathHeaderTest.java
+END
+JmsBatchResequencerJMSPriorityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsBatchResequencerJMSPriorityTest.java
+END
+MyDestinationResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/824867/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/MyDestinationResolver.java
+END
+JmsSimpleRequestReply2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1092745/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsSimpleRequestReply2Test.java
+END
+DefaultJmsHeaderKeyFormatStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/DefaultJmsHeaderKeyFormatStrategyTest.java
+END
+JmsRouteUsingSpringWithAutoWireTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRouteUsingSpringWithAutoWireTest.java
+END
+JmsTransferExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsTransferExceptionTest.java
+END
+JmsOnCompletionAndInterceptAndOnExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsOnCompletionAndInterceptAndOnExceptionTest.java
+END
+JmsRemoveHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRemoveHeaderTest.java
+END
+JmsOnCompletionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1059976/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsOnCompletionTest.java
+END
+JmsEndpointConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1090254/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsEndpointConfigurationTest.java
+END
+JmsHeaderFilteringWithSpringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsHeaderFilteringWithSpringTest.java
+END
+PassThroughJmsKeyFormatStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/PassThroughJmsKeyFormatStrategyTest.java
+END
+TwoConsumerOnSameTopicTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1144248/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/TwoConsumerOnSameTopicTest.java
+END
+JmsSimpleRequestReplyFixedReplyQueueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1092745/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsSimpleRequestReplyFixedReplyQueueTest.java
+END
+JmsPollingConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsPollingConsumerTest.java
+END
+JmsSelectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsSelectorTest.java
+END
+JmsRouteRequestReplyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRouteRequestReplyTest.java
+END
+JmsInOutDisableTimeToLiveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1128869/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsInOutDisableTimeToLiveTest.java
+END
+JmsRouteWithInOnlyAndMultipleAcksTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1061381/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRouteWithInOnlyAndMultipleAcksTest.java
+END
+JmsRouteWithObjectMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRouteWithObjectMessageTest.java
+END
+JmsTransferExchangeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsTransferExchangeTest.java
+END
+JmsRouteUsingSpringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRouteUsingSpringTest.java
+END
+ConsumerTemplateJmsSelectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/ConsumerTemplateJmsSelectorTest.java
+END
+JmsRequestReplyFixedReplyToInEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRequestReplyFixedReplyToInEndpointTest.java
+END
+ConsumeMessageConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/ConsumeMessageConverterTest.java
+END
+JmsInOnlyWithReplyToHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsInOnlyWithReplyToHeaderTest.java
+END
+JmsSimpleInOnlyNoMutateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1067658/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsSimpleInOnlyNoMutateTest.java
+END
+JmsDeadLetterQueueUsingTransferExchangeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsDeadLetterQueueUsingTransferExchangeTest.java
+END
+JmsProducerWithJMSHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1135203/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsProducerWithJMSHeaderTest.java
+END
+JmsSimpleHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsSimpleHeaderTest.java
+END
+JmsDestinationResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsDestinationResolverTest.java
+END
+SpringJmsSelectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/SpringJmsSelectorTest.java
+END
+JmsRouteWithDefaultKeyFormatStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRouteWithDefaultKeyFormatStrategyTest.java
+END
+JmsConsumeTemplateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsConsumeTemplateTest.java
+END
+JmsRequestReplyCorrelationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1059976/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRequestReplyCorrelationTest.java
+END
+JmsTransactedRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsTransactedRouteTest.java
+END
+JmsRequestReplyProcessRepliesConcurrentUsingThreadsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRequestReplyProcessRepliesConcurrentUsingThreadsTest.java
+END
+JmsRequestReplyManualReplyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRequestReplyManualReplyTest.java
+END
+JmsRoutingSlipTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1059976/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRoutingSlipTest.java
+END
+SpringJmsXPathHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/SpringJmsXPathHeaderTest.java
+END
+JmsQosRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsQosRouteTest.java
+END
+JmsRouteUsingJMSXGroupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1131070/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRouteUsingJMSXGroupTest.java
+END
+JmsProduerConcurrentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1131070/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsProduerConcurrentTest.java
+END
+JmsInOnlyWithReplyToTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsInOnlyWithReplyToTest.java
+END
+JmsSimpleRequestLateReplyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1066041/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsSimpleRequestLateReplyTest.java
+END
+JmsMessageTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsMessageTypeTest.java
+END
+JmsRouteUsingDifferentHeadersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1100567/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRouteUsingDifferentHeadersTest.java
+END
+JmsAutoStartupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsAutoStartupTest.java
+END
+JmsConsumerRestartPickupConfigurationChangesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsConsumerRestartPickupConfigurationChangesTest.java
+END
+JmsEagerLoadingPropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsEagerLoadingPropertiesTest.java
+END
+FileRouteToJmsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1059976/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/FileRouteToJmsTest.java
+END
+JmsRouteToFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1059976/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRouteToFileTest.java
+END
+JmsTransferExchangeFromSplitterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1130060/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsTransferExchangeFromSplitterTest.java
+END
+JmsComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsComponentTest.java
+END
+JmsRouteDeliveryModePreserveQoSTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1137696/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRouteDeliveryModePreserveQoSTest.java
+END
+JmsInOutSynchronousTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsInOutSynchronousTest.java
+END
+JmsMessageBodySetNullTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1085549/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsMessageBodySetNullTest.java
+END
+JmsBindingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsBindingTest.java
+END
+BrowsableQueueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1103757/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/BrowsableQueueTest.java
+END
+JmsInOnlyWithReplyToDisabledTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsInOnlyWithReplyToDisabledTest.java
+END
+ConsumeJmsMapMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/ConsumeJmsMapMessageTest.java
+END
+PayloadByteArrayJmsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1059976/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/PayloadByteArrayJmsTest.java
+END
+JmsLoadBalanceFailoverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1059976/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsLoadBalanceFailoverTest.java
+END
+JmsTestConnectionOnStartupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1132659/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsTestConnectionOnStartupTest.java
+END
+JmsDeadLetterQueueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsDeadLetterQueueTest.java
+END
+JmsThrottlingInflightRoutePolicyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsThrottlingInflightRoutePolicyTest.java
+END
+MapJmsMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/MapJmsMessageTest.java
+END
+JmsRouteWithInOnlyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRouteWithInOnlyTest.java
+END
+JmsInOutSynchronousFalseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsInOutSynchronousFalseTest.java
+END
+ProduceMessageConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/ProduceMessageConverterTest.java
+END
+ConsumeJmsBytesMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/ConsumeJmsBytesMessageTest.java
+END
+JmsFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsFilterTest.java
+END
+SetFaultBodyAfterJmsRequestReplyIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1096736/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/SetFaultBodyAfterJmsRequestReplyIssueTest.java
+END
+JmsRouteWithPassThroughKeyFormatStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRouteWithPassThroughKeyFormatStrategyTest.java
+END
+JmsMultipleConsumersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsMultipleConsumersTest.java
+END
+JmsRouteWithCustomKeyFormatStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRouteWithCustomKeyFormatStrategyTest.java
+END
+JmsProduerConcurrentWithReplyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1131070/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsProduerConcurrentWithReplyTest.java
+END
+AggregratedJmsRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1066041/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/AggregratedJmsRouteTest.java
+END
+JmsNoRequestTimeoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1059976/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsNoRequestTimeoutTest.java
+END
+JmsHeaderFilteringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsHeaderFilteringTest.java
+END
+JmsRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRouteTest.java
+END
+JmsInOnlyDisableTimeToLiveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1128869/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsInOnlyDisableTimeToLiveTest.java
+END
+JmsRoutingSlipInOutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1099342/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRoutingSlipInOutTest.java
+END
+JmsUseOriginalBodyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1104401/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsUseOriginalBodyTest.java
+END
+JmsSpringLoadBalanceFailoverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/897907/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsSpringLoadBalanceFailoverTest.java
+END
+JmsSuspendResumeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1090653/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsSuspendResumeTest.java
+END
+FileRouteToJmsToFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1059976/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/FileRouteToJmsToFileTest.java
+END
+JmsRouteTimeoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1059976/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsRouteTimeoutTest.java
+END
+ConsumeJmsObjectMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/ConsumeJmsObjectMessageTest.java
+END
+JmsLoadBalanceFailoverWithForceSendOriginalJmsMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1080900/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsLoadBalanceFailoverWithForceSendOriginalJmsMessageTest.java
+END
+JmsSelectorOptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1134556/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsSelectorOptionTest.java
+END
+JmsCustomHeaderFilterStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsCustomHeaderFilterStrategyTest.java
+END
+JmsSimpleRequestCustomReplyToTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1066041/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsSimpleRequestCustomReplyToTest.java
+END
+JmsDurableTopicTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsDurableTopicTest.java
+END
+JmsSimpleRequestReplyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1059976/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsSimpleRequestReplyTest.java
+END
+JmsXMLRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsXMLRouteTest.java
+END
+JmsInOnlyWithReplyToAsHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsInOnlyWithReplyToAsHeaderTest.java
+END
+CamelJmsTestHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1096319/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/CamelJmsTestHelper.java
+END
+SpringJmsRoutingSlipInOutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1099488/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/SpringJmsRoutingSlipInOutTest.java
+END
+JmsInOnlyWithReplyToNotPreservedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/JmsInOnlyWithReplyToNotPreservedTest.java
+END

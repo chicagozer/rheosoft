@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1066005/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/fix
+END
+BindySimpleKeyValuePairTabUnmarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/900301/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/fix/BindySimpleKeyValuePairTabUnmarshallTest.java
+END
+BindyComplexOneToManyKeyValuePairUnMarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/900301/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/fix/BindyComplexOneToManyKeyValuePairUnMarshallTest.java
+END
+BindySimpleKeyValuePairNullMarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/893726/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/fix/BindySimpleKeyValuePairNullMarshallTest.java
+END
+BindySimpleKeyValuePairWithoutSectionMarshallDslTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1066005/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/fix/BindySimpleKeyValuePairWithoutSectionMarshallDslTest.java
+END
+BindySimpleKeyValuePairMarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/893726/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/fix/BindySimpleKeyValuePairMarshallTest.java
+END
+BindySimpleKeyValuePairSortedMarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1066005/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/fix/BindySimpleKeyValuePairSortedMarshallTest.java
+END
+BindyComplexKeyValuePairStandaloneTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1066005/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/fix/BindyComplexKeyValuePairStandaloneTest.java
+END
+BindySimpleKeyValuePairMarshallDslTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/953712/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/fix/BindySimpleKeyValuePairMarshallDslTest.java
+END
+BindySimpleKeyValuePairUnmarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/900301/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/fix/BindySimpleKeyValuePairUnmarshallTest.java
+END
+BindySimpleKeyValuePairSortedUnmarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/900301/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/fix/BindySimpleKeyValuePairSortedUnmarshallTest.java
+END
+BindySimpleKeyValuePairUnmarshallDslTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/900301/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/fix/BindySimpleKeyValuePairUnmarshallDslTest.java
+END
+BindySimpleKeyValuePairTabMarshallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/893726/camel/trunk/components/camel-bindy/src/test/java/org/apache/camel/dataformat/bindy/fix/BindySimpleKeyValuePairTabMarshallTest.java
+END

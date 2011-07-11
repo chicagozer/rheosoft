@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1076263/camel/trunk/examples/camel-example-servlet-tomcat/src/main/webapp/WEB-INF
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1076263/camel/trunk/examples/camel-example-servlet-tomcat/src/main/webapp/WEB-INF/web.xml
+END

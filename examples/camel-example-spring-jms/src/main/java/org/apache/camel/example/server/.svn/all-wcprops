@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/807141/camel/trunk/examples/camel-example-spring-jms/src/main/java/org/apache/camel/example/server
+END
+AuditTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/735816/camel/trunk/examples/camel-example-spring-jms/src/main/java/org/apache/camel/example/server/AuditTracker.java
+END
+Multiplier.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/735816/camel/trunk/examples/camel-example-spring-jms/src/main/java/org/apache/camel/example/server/Multiplier.java
+END
+ServerRoutes.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/807141/camel/trunk/examples/camel-example-spring-jms/src/main/java/org/apache/camel/example/server/ServerRoutes.java
+END
+Treble.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/735816/camel/trunk/examples/camel-example-spring-jms/src/main/java/org/apache/camel/example/server/Treble.java
+END

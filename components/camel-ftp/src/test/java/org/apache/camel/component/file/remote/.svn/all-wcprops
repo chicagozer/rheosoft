@@ -1,0 +1,1001 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1141471/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote
+END
+FromFtpClientConfigRefTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpClientConfigRefTest.java
+END
+FromFtpDoNotDeleteFileIfProcessFailsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1104401/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpDoNotDeleteFileIfProcessFailsTest.java
+END
+FtpProducerTempPrefixTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerTempPrefixTest.java
+END
+FtpProducerDisconnectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/902014/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerDisconnectTest.java
+END
+FromFtpClientSoTimeout2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpClientSoTimeout2Test.java
+END
+FtpConsumerLocalWorkDirectoryAsAbsolutePathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConsumerLocalWorkDirectoryAsAbsolutePathTest.java
+END
+FtpConsumerDirectoriesNotMatchedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1100508/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConsumerDirectoriesNotMatchedTest.java
+END
+FromFtpRemoteFileSortByIgnoreCaseExpressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpRemoteFileSortByIgnoreCaseExpressionTest.java
+END
+FromFtpRemoteFileSortByNestedExpressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpRemoteFileSortByNestedExpressionTest.java
+END
+FileToFtpsExplicitSSLWithClientAuthTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FileToFtpsExplicitSSLWithClientAuthTest.java
+END
+FtpProducerRecipientListParallelTimeoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/983366/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerRecipientListParallelTimeoutTest.java
+END
+FtpConsumerDualDoneFileNameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConsumerDualDoneFileNameTest.java
+END
+FtpsServerImplicitSSLWithoutClientAuthTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpsServerImplicitSSLWithoutClientAuthTestSupport.java
+END
+FromFileToFtpNotStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1125242/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFileToFtpNotStepwiseTest.java
+END
+FromFtpThirdPoolOkTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1104401/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpThirdPoolOkTest.java
+END
+FromFtpSimpleNoEndpointPathRelativeMoveToAbsoluteNotStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpSimpleNoEndpointPathRelativeMoveToAbsoluteNotStepwiseTest.java
+END
+FromFtpServerLanguageCodeAndTimeoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpServerLanguageCodeAndTimeoutTest.java
+END
+FromFtpDirectoryToBinaryFilesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/897833/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpDirectoryToBinaryFilesTest.java
+END
+FtpProducerFileWithPathPathSeparatorWindowsNoStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/1039088/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerFileWithPathPathSeparatorWindowsNoStepwiseTest.java
+END
+FtpsServerTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpsServerTestSupport.java
+END
+FileToFtpsWithDefaultSettingsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FileToFtpsWithDefaultSettingsTest.java
+END
+FtpsServerExplicitSSLWithClientAuthTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpsServerExplicitSSLWithClientAuthTestSupport.java
+END
+FtpConsumerThrowExceptionOnLoginFailedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1058525/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConsumerThrowExceptionOnLoginFailedTest.java
+END
+FtpProducerDoneFileNameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerDoneFileNameTest.java
+END
+FtpChangedReadLockTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1141471/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpChangedReadLockTest.java
+END
+FromFtpMoveFileNotStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpMoveFileNotStepwiseTest.java
+END
+FtpProducerFileExistOverrideTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerFileExistOverrideTest.java
+END
+FtpServerTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1003830/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpServerTestSupport.java
+END
+FtpProducerFileExistIgnoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerFileExistIgnoreTest.java
+END
+FtpChangedReadLockTimeoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1141471/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpChangedReadLockTimeoutTest.java
+END
+FromFileToFtpTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1125242/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFileToFtpTest.java
+END
+FtpConsumerLocalWorkDirectoryWorkOnPayloadTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConsumerLocalWorkDirectoryWorkOnPayloadTest.java
+END
+FromFtpMoveFilePrefixTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpMoveFilePrefixTest.java
+END
+FromFtpSimpleNoEndpointPathRelativeMoveToRelativeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpSimpleNoEndpointPathRelativeMoveToRelativeTest.java
+END
+FromFtpToBinarySampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1002131/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpToBinarySampleTest.java
+END
+FtpProducerFileWithPathNoStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1039026/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerFileWithPathNoStepwiseTest.java
+END
+FtpProducerFileExistOverrideNoFileBeforeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerFileExistOverrideNoFileBeforeTest.java
+END
+FromFtpMoveFileAbsoluteFolderRecursiveNotStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpMoveFileAbsoluteFolderRecursiveNotStepwiseTest.java
+END
+FromFtpPreMoveFilePostfixNotStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpPreMoveFilePostfixNotStepwiseTest.java
+END
+FileToFtpsWithCustomKeyAndTrustStorePropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FileToFtpsWithCustomKeyAndTrustStorePropertiesTest.java
+END
+FromFtpPreMoveFilePrefixNotStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpPreMoveFilePrefixNotStepwiseTest.java
+END
+FromFtpRecursiveNoopTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpRecursiveNoopTest.java
+END
+FileToFtpsImplicitTLSWithoutClientAuthTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FileToFtpsImplicitTLSWithoutClientAuthTest.java
+END
+FtpsServerExplicitTLSWithClientAuthTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpsServerExplicitTLSWithClientAuthTestSupport.java
+END
+FromFtpDeleteFileNotStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpDeleteFileNotStepwiseTest.java
+END
+FromQueueThenConsumeFtpToMockTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromQueueThenConsumeFtpToMockTest.java
+END
+FtpConsumerUsingFTPClientConfigTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConsumerUsingFTPClientConfigTest.java
+END
+FromFtpKeepLastModifiedNotStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpKeepLastModifiedNotStepwiseTest.java
+END
+FromFtpPreMoveNoopNotStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpPreMoveNoopNotStepwiseTest.java
+END
+FtpProducerExpressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1067159/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerExpressionTest.java
+END
+FtpProducerFileWithPathPathSeparatorAutoNoStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/1039088/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerFileWithPathPathSeparatorAutoNoStepwiseTest.java
+END
+FtpThrowExceptionOnConnectionFailedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/979012/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpThrowExceptionOnConnectionFailedTest.java
+END
+FromFtpSimpleRelativeMoveToAbsoluteNotStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpSimpleRelativeMoveToAbsoluteNotStepwiseTest.java
+END
+FileToFtpsExplicitTLSWithClientAuthTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FileToFtpsExplicitTLSWithClientAuthTest.java
+END
+FtpConsumerWithNoFileOptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConsumerWithNoFileOptionTest.java
+END
+FromFtpRemoteFileSorterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpRemoteFileSorterTest.java
+END
+FromFtpPreMoveFilePostfixTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpPreMoveFilePostfixTest.java
+END
+FtpsServerExplicitSSLWithoutClientAuthTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpsServerExplicitSSLWithoutClientAuthTestSupport.java
+END
+FromFtpToMockTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpToMockTest.java
+END
+FtpConsumerIdempotentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConsumerIdempotentTest.java
+END
+FtpProducerConcurrentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1131070/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerConcurrentTest.java
+END
+FromFtpDeleteFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1002131/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpDeleteFileTest.java
+END
+FromFtpMoveFileRecursiveNotStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpMoveFileRecursiveNotStepwiseTest.java
+END
+FtpConsumerRelativeFileNameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/943370/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConsumerRelativeFileNameTest.java
+END
+FtpLoginNoRetryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/979012/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpLoginNoRetryTest.java
+END
+FromFtpRegexPatternTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpRegexPatternTest.java
+END
+FtpReconnectAttemptUnknownHostTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpReconnectAttemptUnknownHostTest.java
+END
+FtpConsumerLocalWorkDirectoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConsumerLocalWorkDirectoryTest.java
+END
+FromFtpToBinaryFilesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpToBinaryFilesTest.java
+END
+FromFtpDeleteFileScottTigerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1002290/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpDeleteFileScottTigerTest.java
+END
+FileToFtpsExplicitTLSWithoutClientAuthTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FileToFtpsExplicitTLSWithoutClientAuthTest.java
+END
+FromFtpMoveFileToHiddenFolderRecursiveNotStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpMoveFileToHiddenFolderRecursiveNotStepwiseTest.java
+END
+FromFtpPassiveModeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpPassiveModeTest.java
+END
+FtpProducerBuildPartOfDirectoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerBuildPartOfDirectoryTest.java
+END
+FromFtpNoEndpointPathRelativeMoveToAbsoluteNotStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpNoEndpointPathRelativeMoveToAbsoluteNotStepwiseTest.java
+END
+FtpConsumerSkipDotFilesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConsumerSkipDotFilesTest.java
+END
+FtpPollingConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1140537/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpPollingConsumerTest.java
+END
+FtpsServerImplicitSSLWithClientAuthTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpsServerImplicitSSLWithClientAuthTestSupport.java
+END
+FromFtpPreMoveFileExpressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpPreMoveFileExpressionTest.java
+END
+FtpIllegalOptionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpIllegalOptionsTest.java
+END
+FtpProducerBuildDirectoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerBuildDirectoryTest.java
+END
+FileToFtpsWithCustomTrustStorePropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FileToFtpsWithCustomTrustStorePropertiesTest.java
+END
+FromFtpRecursiveNoopNotStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpRecursiveNoopNotStepwiseTest.java
+END
+FtpProducerFileWithPathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1039026/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerFileWithPathTest.java
+END
+FromFtpSimpleRelativeMoveToRelativeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpSimpleRelativeMoveToRelativeTest.java
+END
+FileToFtpsImplicitSSLWithClientAuthTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FileToFtpsImplicitSSLWithClientAuthTest.java
+END
+FromFtpSetNamesWithMultiDirectoriesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpSetNamesWithMultiDirectoriesTest.java
+END
+FtpLoginTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpLoginTest.java
+END
+FtpsServerImplicitTLSWithoutClientAuthTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpsServerImplicitTLSWithoutClientAuthTestSupport.java
+END
+FtpEndpointURISanitizedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1124568/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpEndpointURISanitizedTest.java
+END
+FromFtpSimpleNoEndpointPathRelativeMoveToAbsoluteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpSimpleNoEndpointPathRelativeMoveToAbsoluteTest.java
+END
+FromFtpSimpleNoEndpointPathRelativeMoveToRelativeNotStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpSimpleNoEndpointPathRelativeMoveToRelativeNotStepwiseTest.java
+END
+FromFtpSimulateNetworkIssueRecoverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpSimulateNetworkIssueRecoverTest.java
+END
+FtpsServerImplicitTLSWithClientAuthTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpsServerImplicitTLSWithClientAuthTestSupport.java
+END
+BaseServerTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1003830/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/BaseServerTestSupport.java
+END
+FileToFtpsImplicitSSLWithoutClientAuthTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FileToFtpsImplicitSSLWithoutClientAuthTest.java
+END
+FromFileToFtpDefaultRootRenameStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFileToFtpDefaultRootRenameStrategyTest.java
+END
+FromFtpPollFileOnlyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpPollFileOnlyTest.java
+END
+FtpShutdownCompleteCurrentTaskOnlyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/900295/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpShutdownCompleteCurrentTaskOnlyTest.java
+END
+RecipientListErrorHandlingIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/RecipientListErrorHandlingIssueTest.java
+END
+FtpConnectTimeoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConnectTimeoutTest.java
+END
+FtpConsumerMoveExpressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConsumerMoveExpressionTest.java
+END
+FromFtpClientDataTimeoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpClientDataTimeoutTest.java
+END
+FromFtpNoEndpointPathRelativeMoveToAbsoluteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpNoEndpointPathRelativeMoveToAbsoluteTest.java
+END
+FromFtpMoveFilePostfixTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpMoveFilePostfixTest.java
+END
+FromFtpMoveFileAbsoluteFolderRecursiveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpMoveFileAbsoluteFolderRecursiveTest.java
+END
+FromFtpToAsciiFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpToAsciiFileTest.java
+END
+FtpProducerRecipientListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1054071/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerRecipientListTest.java
+END
+FromFtpNoFilesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpNoFilesTest.java
+END
+FtpProducerMultipleSiteCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/984720/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerMultipleSiteCommandTest.java
+END
+FromFtpPreMoveDeleteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpPreMoveDeleteTest.java
+END
+FromFtpRemoteFileFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/898216/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpRemoteFileFilterTest.java
+END
+FtpConsumerMaxMessagesPerPollTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConsumerMaxMessagesPerPollTest.java
+END
+FromFtpMoveFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpMoveFileTest.java
+END
+FtpProducerFileExistFailTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerFileExistFailTest.java
+END
+FtpConsumerAsyncStressTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConsumerAsyncStressTest.java
+END
+FromFtpKeepLastModifiedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpKeepLastModifiedTest.java
+END
+FromFtpPreMoveNoopTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpPreMoveNoopTest.java
+END
+FileToFtpsExplicitSSLWithoutClientAuthTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FileToFtpsExplicitSSLWithoutClientAuthTest.java
+END
+FtpConsumerDeleteNoWritePermissionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConsumerDeleteNoWritePermissionTest.java
+END
+FromFtpToAsciiFileNoBodyConversionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpToAsciiFileNoBodyConversionTest.java
+END
+FileToFtpsImplicitTLSWithClientAuthTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FileToFtpsImplicitTLSWithClientAuthTest.java
+END
+FtpProducerRootFileExistFailTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerRootFileExistFailTest.java
+END
+FromFtpRemoteFileSortByExpressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpRemoteFileSortByExpressionTest.java
+END
+FromFtpSimpleRelativeMoveToRelativeNotStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpSimpleRelativeMoveToRelativeNotStepwiseTest.java
+END
+FtpConsumerDisconnectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/902014/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConsumerDisconnectTest.java
+END
+FtpProdcerTempFileExistIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProdcerTempFileExistIssueTest.java
+END
+FromFtpToBinaryFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpToBinaryFileTest.java
+END
+FromFtpClientSoTimeoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpClientSoTimeoutTest.java
+END
+FromFtpToFileNoFileNameHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpToFileNoFileNameHeaderTest.java
+END
+FromFtpMoveFilePrefixNotStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpMoveFilePrefixNotStepwiseTest.java
+END
+FtpProducerFileExistOverrideNotEagerDeleteTargetFileTwoUploadTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerFileExistOverrideNotEagerDeleteTargetFileTwoUploadTest.java
+END
+FtpProducerFileWithPathPathSeparatorUnixNoStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/1039088/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerFileWithPathPathSeparatorUnixNoStepwiseTest.java
+END
+FtpsServerExplicitTLSWithoutClientAuthTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpsServerExplicitTLSWithoutClientAuthTestSupport.java
+END
+FtpConsumerIdempotentRefTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1048970/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConsumerIdempotentRefTest.java
+END
+FtpAnonymousTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/998815/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpAnonymousTest.java
+END
+FromFtpDirectoryToBinaryFilesNotStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1125242/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpDirectoryToBinaryFilesNotStepwiseTest.java
+END
+FtpProducerFileExistAppendTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerFileExistAppendTest.java
+END
+FromFtpServerLanguageCodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpServerLanguageCodeTest.java
+END
+FromFtpPreMoveDeleteNotStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpPreMoveDeleteNotStepwiseTest.java
+END
+FtpNoReconnectAttemptUnknownHostTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpNoReconnectAttemptUnknownHostTest.java
+END
+FromFtpExclusiveReadNoneStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1066041/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpExclusiveReadNoneStrategyTest.java
+END
+ToFtpTempFileTargetFileExistTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/ToFtpTempFileTargetFileExistTest.java
+END
+FileToFtpsWithFtpClientConfigRefTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FileToFtpsWithFtpClientConfigRefTest.java
+END
+FromFtpMoveFileToHiddenFolderRecursiveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpMoveFileToHiddenFolderRecursiveTest.java
+END
+FromFtpNoopTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpNoopTest.java
+END
+FtpProducerFileExistOverrideTwoUploadTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerFileExistOverrideTwoUploadTest.java
+END
+FtpConsumerIncludeNameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConsumerIncludeNameTest.java
+END
+FtpConsumerDoneFileNameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConsumerDoneFileNameTest.java
+END
+FromFtpSimpleRelativeMoveToAbsoluteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpSimpleRelativeMoveToAbsoluteTest.java
+END
+FtpShutdownCompleteAllTasksTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/900295/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpShutdownCompleteAllTasksTest.java
+END
+FtpConsumerMultipleDirectoriesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConsumerMultipleDirectoriesTest.java
+END
+FtpReconnectAttemptServerStoppedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpReconnectAttemptServerStoppedTest.java
+END
+FtpConsumerExcludeNameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/889125/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConsumerExcludeNameTest.java
+END
+PaddyRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/786026/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/PaddyRouteTest.java
+END
+FtpConsumerAbsolutePathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConsumerAbsolutePathTest.java
+END
+FtpProducerSiteCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/984720/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerSiteCommandTest.java
+END
+FtpProducerFileExistAppendNoFileBeforeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpProducerFileExistAppendNoFileBeforeTest.java
+END
+FromFtpFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpFilterTest.java
+END
+FromFtpMoveFilePostfixNotStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpMoveFilePostfixNotStepwiseTest.java
+END
+UriConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/UriConfigurationTest.java
+END
+FromFtpFilterNotStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpFilterNotStepwiseTest.java
+END
+FromFtpPreMoveFilePrefixTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpPreMoveFilePrefixTest.java
+END
+FromFtpMoveFileRecursiveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1032261/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FromFtpMoveFileRecursiveTest.java
+END
+FtpSimpleConsumeAbsoluteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpSimpleConsumeAbsoluteTest.java
+END
+FtpConsumerBodyAsStringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/test/java/org/apache/camel/component/file/remote/FtpConsumerBodyAsStringTest.java
+END

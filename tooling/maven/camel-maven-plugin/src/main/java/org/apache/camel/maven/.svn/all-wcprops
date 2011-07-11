@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1134548/camel/trunk/tooling/maven/camel-maven-plugin/src/main/java/org/apache/camel/maven
+END
+RunMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/918055/camel/trunk/tooling/maven/camel-maven-plugin/src/main/java/org/apache/camel/maven/RunMojo.java
+END
+DotMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1071742/camel/trunk/tooling/maven/camel-maven-plugin/src/main/java/org/apache/camel/maven/DotMojo.java
+END
+EmbeddedMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/735816/camel/trunk/tooling/maven/camel-maven-plugin/src/main/java/org/apache/camel/maven/EmbeddedMojo.java
+END

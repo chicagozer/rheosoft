@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1090254/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx
+END
+JMXTXUseOriginalBodyWithDLCErrorHandlerTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1090254/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx/JMXTXUseOriginalBodyWithDLCErrorHandlerTest.xml
+END
+JMSTransactionalClientWithRollbackTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1090254/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx/JMSTransactionalClientWithRollbackTest.xml
+END
+TransactionInterceptSendToEndpointTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1090254/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx/TransactionInterceptSendToEndpointTest.xml
+END
+XMLQueueToQueueTransactionTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1059928/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx/XMLQueueToQueueTransactionTest.xml
+END
+RouteIdTransactedTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1090254/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx/RouteIdTransactedTest.xml
+END
+JmsTransacted-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1090254/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx/JmsTransacted-context.xml
+END
+TransactionMinimalConfigurationTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1090254/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx/TransactionMinimalConfigurationTest.xml
+END
+JavaDSLTransactionTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1059928/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx/JavaDSLTransactionTest.xml
+END
+JMXTXUseOriginalBodyTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1090254/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx/JMXTXUseOriginalBodyTest.xml
+END
+ActiveMQWithoutTransactionManager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1090254/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx/ActiveMQWithoutTransactionManager.xml
+END
+TransactionErrorHandlerBuilderAsSpringBeanTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1090254/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx/TransactionErrorHandlerBuilderAsSpringBeanTest.xml
+END
+TransactedAsyncUsingThreadsTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1090254/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx/TransactedAsyncUsingThreadsTest.xml
+END
+JmsToJmsTransactedSecurityTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1090254/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx/JmsToJmsTransactedSecurityTest.xml
+END
+JMSTransactionErrorHandlerTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1090254/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx/JMSTransactionErrorHandlerTest.xml
+END
+AbstractTransactionTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1090254/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx/AbstractTransactionTest.xml
+END
+activemq.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx/activemq.xml
+END
+JMXTXUseOriginalBodyWithTXErrorHandlerTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1090254/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx/JMXTXUseOriginalBodyWithTXErrorHandlerTest.xml
+END
+JMSTransactionalClientTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1090254/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx/JMSTransactionalClientTest.xml
+END
+JMSTransactionThrottlingRoutePolicyTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1090254/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx/JMSTransactionThrottlingRoutePolicyTest.xml
+END
+XMLQueueToProcessorTransactionTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1059928/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx/XMLQueueToProcessorTransactionTest.xml
+END
+activemq-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1059527/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx/activemq-security.xml
+END
+JmsToJmsTransactedTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1090254/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx/JmsToJmsTransactedTest.xml
+END
+TransactionErrorHandlerCustomerSpringParserTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1090254/camel/trunk/components/camel-jms/src/test/resources/org/apache/camel/component/jms/tx/TransactionErrorHandlerCustomerSpringParserTest.xml
+END

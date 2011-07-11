@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1097805/camel/trunk/components/camel-jaxb/src/test/java/org/apache/camel/jaxb
+END
+JaxbDataFormatIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1075707/camel/trunk/components/camel-jaxb/src/test/java/org/apache/camel/jaxb/JaxbDataFormatIssueTest.java
+END
+JaxbDataFormatIssueUsingSpringJavaConfigTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1075707/camel/trunk/components/camel-jaxb/src/test/java/org/apache/camel/jaxb/JaxbDataFormatIssueUsingSpringJavaConfigTest.java
+END
+CamelJaxbTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/897750/camel/trunk/components/camel-jaxb/src/test/java/org/apache/camel/jaxb/CamelJaxbTest.java
+END
+NotificationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1097805/camel/trunk/components/camel-jaxb/src/test/java/org/apache/camel/jaxb/NotificationType.java
+END
+TimerBeanToBeanNotificationTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1097805/camel/trunk/components/camel-jaxb/src/test/java/org/apache/camel/jaxb/TimerBeanToBeanNotificationTypeTest.java
+END
+TimerBeanToBeanPersonTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1097805/camel/trunk/components/camel-jaxb/src/test/java/org/apache/camel/jaxb/TimerBeanToBeanPersonTypeTest.java
+END
+CamelJaxbSpringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/896302/camel/trunk/components/camel-jaxb/src/test/java/org/apache/camel/jaxb/CamelJaxbSpringTest.java
+END
+DumpToXmlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-jaxb/src/test/java/org/apache/camel/jaxb/DumpToXmlTest.java
+END
+MyNotificationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1097805/camel/trunk/components/camel-jaxb/src/test/java/org/apache/camel/jaxb/MyNotificationService.java
+END
+MyPersonService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1097805/camel/trunk/components/camel-jaxb/src/test/java/org/apache/camel/jaxb/MyPersonService.java
+END
+CamelJaxbFallbackConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1092615/camel/trunk/components/camel-jaxb/src/test/java/org/apache/camel/jaxb/CamelJaxbFallbackConverterTest.java
+END

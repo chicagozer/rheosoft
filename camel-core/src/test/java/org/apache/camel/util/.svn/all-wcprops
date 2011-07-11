@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1143368/camel/trunk/camel-core/src/test/java/org/apache/camel/util
+END
+AnotherExampleBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/util/AnotherExampleBean.java
+END
+InetAddressUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/util/InetAddressUtilTest.java
+END
+ObjectHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/util/ObjectHelperTest.java
+END
+StringHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/985206/camel/trunk/camel-core/src/test/java/org/apache/camel/util/StringHelperTest.java
+END
+IOHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1095572/camel/trunk/camel-core/src/test/java/org/apache/camel/util/IOHelperTest.java
+END
+GZIPHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1131372/camel/trunk/camel-core/src/test/java/org/apache/camel/util/GZIPHelperTest.java
+END
+StopWatchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/util/StopWatchTest.java
+END
+CollectionStringBufferTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/util/CollectionStringBufferTest.java
+END
+OrderedComparatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/util/OrderedComparatorTest.java
+END
+FileUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/util/FileUtilTest.java
+END
+EndpointHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/util/EndpointHelperTest.java
+END
+DumpModelAsXmlAggregateRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1124146/camel/trunk/camel-core/src/test/java/org/apache/camel/util/DumpModelAsXmlAggregateRouteTest.java
+END
+UnsafeCharactersEncoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/924119/camel/trunk/camel-core/src/test/java/org/apache/camel/util/UnsafeCharactersEncoderTest.java
+END
+ExchangeHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/util/ExchangeHelperTest.java
+END
+PredicateAssertHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/util/PredicateAssertHelperTest.java
+END
+LRUSoftCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1143368/camel/trunk/camel-core/src/test/java/org/apache/camel/util/LRUSoftCacheTest.java
+END
+ExpressionListComparatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/util/ExpressionListComparatorTest.java
+END
+KeyValueHolderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/util/KeyValueHolderTest.java
+END
+OtherExampleBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/util/OtherExampleBean.java
+END
+MessageHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1095572/camel/trunk/camel-core/src/test/java/org/apache/camel/util/MessageHelperTest.java
+END
+CamelContextHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/util/CamelContextHelperTest.java
+END
+LRUCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1098601/camel/trunk/camel-core/src/test/java/org/apache/camel/util/LRUCacheTest.java
+END
+DefaultTimeoutMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/util/DefaultTimeoutMapTest.java
+END
+CaseInsensitiveMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1131070/camel/trunk/camel-core/src/test/java/org/apache/camel/util/CaseInsensitiveMapTest.java
+END
+PackageHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/util/PackageHelperTest.java
+END
+DumpModelAsXmlChoiceFilterRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1124146/camel/trunk/camel-core/src/test/java/org/apache/camel/util/DumpModelAsXmlChoiceFilterRouteTest.java
+END
+CollectionHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/util/CollectionHelperTest.java
+END
+URISupportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1095572/camel/trunk/camel-core/src/test/java/org/apache/camel/util/URISupportTest.java
+END
+IntrospectionSupportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1042541/camel/trunk/camel-core/src/test/java/org/apache/camel/util/IntrospectionSupportTest.java
+END
+TimeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/util/TimeTest.java
+END

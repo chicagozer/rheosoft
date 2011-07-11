@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1142500/camel/trunk/components/camel-smpp/src/test/java/org/apache/camel/component/smpp/integration
+END
+SmppConsumerReconnectIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1102181/camel/trunk/components/camel-smpp/src/test/java/org/apache/camel/component/smpp/integration/SmppConsumerReconnectIntegrationTest.java
+END
+SmppComponentIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1142500/camel/trunk/components/camel-smpp/src/test/java/org/apache/camel/component/smpp/integration/SmppComponentIntegrationTest.java
+END
+SmppProducerReconnectIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1102181/camel/trunk/components/camel-smpp/src/test/java/org/apache/camel/component/smpp/integration/SmppProducerReconnectIntegrationTest.java
+END
+SmppComponentSpringIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1142500/camel/trunk/components/camel-smpp/src/test/java/org/apache/camel/component/smpp/integration/SmppComponentSpringIntegrationTest.java
+END

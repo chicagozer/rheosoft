@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1098685/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/processor/aggregator
+END
+SpringAggregateExpressionTimeoutFallbackTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/processor/aggregator/SpringAggregateExpressionTimeoutFallbackTest.java
+END
+SpringAggregateExpressionTimeoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/processor/aggregator/SpringAggregateExpressionTimeoutTest.java
+END
+SpringAggregateExpressionSizeFallbackTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/processor/aggregator/SpringAggregateExpressionSizeFallbackTest.java
+END
+SpringAggregateExpressionSizeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/processor/aggregator/SpringAggregateExpressionSizeTest.java
+END
+SpringAggregateExpressionTimeoutPerGroupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/processor/aggregator/SpringAggregateExpressionTimeoutPerGroupTest.java
+END
+SpringAggregateSimplePredicateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/processor/aggregator/SpringAggregateSimplePredicateTest.java
+END
+SpringAggregatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/processor/aggregator/SpringAggregatorTest.java
+END
+SpringAggregateDiscardOnTimeoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/processor/aggregator/SpringAggregateDiscardOnTimeoutTest.java
+END
+SpringAggregateGroupedExchangeCompletionExpressionSizeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/asf/!svn/ver/1098685/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/processor/aggregator/SpringAggregateGroupedExchangeCompletionExpressionSizeTest.java
+END
+SpringAggregateCompletionIntervalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/processor/aggregator/SpringAggregateCompletionIntervalTest.java
+END
+SpringAggregateSimplePredicateEagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/processor/aggregator/SpringAggregateSimplePredicateEagerTest.java
+END
+SpringAggregateSimpleTimeoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/processor/aggregator/SpringAggregateSimpleTimeoutTest.java
+END
+SpringAggregateThreadPoolProfileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/processor/aggregator/SpringAggregateThreadPoolProfileTest.java
+END
+SpringAggregateSimpleSizeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/processor/aggregator/SpringAggregateSimpleSizeTest.java
+END

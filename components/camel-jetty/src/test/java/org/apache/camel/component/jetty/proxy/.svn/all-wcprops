@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1071766/camel/trunk/components/camel-jetty/src/test/java/org/apache/camel/component/jetty/proxy
+END
+HttpClientProxyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1071766/camel/trunk/components/camel-jetty/src/test/java/org/apache/camel/component/jetty/proxy/HttpClientProxyTest.java
+END
+MyCoolService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1071766/camel/trunk/components/camel-jetty/src/test/java/org/apache/camel/component/jetty/proxy/MyCoolService.java
+END
+HttpClientProxyTransferExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1071766/camel/trunk/components/camel-jetty/src/test/java/org/apache/camel/component/jetty/proxy/HttpClientProxyTransferExceptionTest.java
+END
+MyAppException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1071766/camel/trunk/components/camel-jetty/src/test/java/org/apache/camel/component/jetty/proxy/MyAppException.java
+END
+MyCoolServiceBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1071766/camel/trunk/components/camel-jetty/src/test/java/org/apache/camel/component/jetty/proxy/MyCoolServiceBean.java
+END

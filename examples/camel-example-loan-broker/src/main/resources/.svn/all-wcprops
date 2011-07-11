@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1141526/camel/trunk/examples/camel-example-loan-broker/src/main/resources
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/735816/camel/trunk/examples/camel-example-loan-broker/src/main/resources/logging.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1065963/camel/trunk/examples/camel-example-loan-broker/src/main/resources/log4j.properties
+END
+features.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/926113/camel/trunk/examples/camel-example-loan-broker/src/main/resources/features.xml
+END

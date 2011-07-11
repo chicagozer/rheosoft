@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1137592/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl
+END
+InterceptTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/895588/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/InterceptTest.scala
+END
+STransformProcessorTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/895588/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/STransformProcessorTest.scala
+END
+LoopNoCopyTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1129757/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/LoopNoCopyTest.scala
+END
+LoopCopyTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1129757/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/LoopCopyTest.scala
+END
+SLogProcessorTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1065694/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/SLogProcessorTest.scala
+END
+PipelineTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1096434/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/PipelineTest.scala
+END
+SThrowExceptionTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/895588/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/SThrowExceptionTest.scala
+END
+BasicRouteBuilderTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/957013/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/BasicRouteBuilderTest.scala
+END
+LoopTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/957013/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/LoopTest.scala
+END
+SPollEnricherTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1100686/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/SPollEnricherTest.scala
+END
+ContentBasedRouterTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/957013/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/ContentBasedRouterTest.scala
+END
+RouteIdTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1096434/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/RouteIdTest.scala
+END
+SOnCompletionWhenTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1098293/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/SOnCompletionWhenTest.scala
+END
+WiretapTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1098293/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/WiretapTest.scala
+END
+SValidateTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1096434/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/SValidateTest.scala
+END
+PipelineAndMulticastTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/957013/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/PipelineAndMulticastTest.scala
+END
+SimpleBeanTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/957013/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/SimpleBeanTest.scala
+END
+ExchangePatternTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1137592/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/ExchangePatternTest.scala
+END
+ResequencerTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/957013/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/ResequencerTest.scala
+END
+SOnCompletionOnCompleteOnlyTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/957013/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/SOnCompletionOnCompleteOnlyTest.scala
+END
+DataFormatTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1098293/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/DataFormatTest.scala
+END
+HeaderContentBasedRouterTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1096423/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/HeaderContentBasedRouterTest.scala
+END
+IdempotentConsumerTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1098250/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/IdempotentConsumerTest.scala
+END
+FilterTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/895588/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/FilterTest.scala
+END
+ThrottlerTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1098233/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/ThrottlerTest.scala
+END
+RollbackTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1098293/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/RollbackTest.scala
+END
+ContentEnricherTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/957013/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/ContentEnricherTest.scala
+END
+PipelineRouteBuilderTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/957013/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/PipelineRouteBuilderTest.scala
+END
+ExceptionHandlerTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1096424/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/ExceptionHandlerTest.scala
+END
+IdTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1096434/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/IdTest.scala
+END
+SetExchangePatternTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/957013/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/SetExchangePatternTest.scala
+END
+RecipientListRouteTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/957013/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/RecipientListRouteTest.scala
+END
+EnricherTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/957013/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/EnricherTest.scala
+END
+SOnCompletionOnFailureOnlyTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/957013/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/SOnCompletionOnFailureOnlyTest.scala
+END
+TryCatchFinallyTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1098293/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/TryCatchFinallyTest.scala
+END
+SRoutingSlipTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/949696/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/SRoutingSlipTest.scala
+END
+SetHeaderTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1098250/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/SetHeaderTest.scala
+END
+RichTestUri.scala
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/957013/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/RichTestUri.scala
+END
+MulticastTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1098250/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/MulticastTest.scala
+END
+LoadBalancerTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/957013/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/LoadBalancerTest.scala
+END
+SetBodyTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1098250/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/SetBodyTest.scala
+END
+InterceptSendToTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1098250/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/InterceptSendToTest.scala
+END
+SOnCompletionGlobalTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/781747/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/SOnCompletionGlobalTest.scala
+END
+SSortTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1021306/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/SSortTest.scala
+END
+FilterRouteBuilderTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/957013/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/FilterRouteBuilderTest.scala
+END
+XPathContentBasedRouterTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1096346/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/XPathContentBasedRouterTest.scala
+END
+BlockBeanTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/957013/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/BlockBeanTest.scala
+END
+ScalaTestSupport.scala
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1098293/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/ScalaTestSupport.scala
+END
+InterceptFromTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/895588/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/InterceptFromTest.scala
+END
+AggregatorTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/957013/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/AggregatorTest.scala
+END
+DelayerTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/957013/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/DelayerTest.scala
+END
+OnExceptionTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1098293/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/OnExceptionTest.scala
+END
+SplitterRouteBuilderTest.scala
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1098250/camel/trunk/components/camel-scala/src/test/scala/org/apache/camel/scala/dsl/SplitterRouteBuilderTest.scala
+END

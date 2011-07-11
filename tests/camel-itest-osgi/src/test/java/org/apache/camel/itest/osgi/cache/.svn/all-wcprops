@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1133394/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/cache
+END
+CacheRoutesManagementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1133394/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/cache/CacheRoutesManagementTest.java
+END
+CacheManagerFactoryRefTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1133394/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/cache/CacheManagerFactoryRefTest.java
+END
+CacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1133394/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/cache/CacheTest.java
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1134081/camel/trunk/components/camel-hdfs/src/main/java/org/apache/camel/component/hdfs
+END
+HdfsConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1128592/camel/trunk/components/camel-hdfs/src/main/java/org/apache/camel/component/hdfs/HdfsConsumer.java
+END
+HdfsInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1128592/camel/trunk/components/camel-hdfs/src/main/java/org/apache/camel/component/hdfs/HdfsInfo.java
+END
+HdfsInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1128592/camel/trunk/components/camel-hdfs/src/main/java/org/apache/camel/component/hdfs/HdfsInputStream.java
+END
+HdfsConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1128592/camel/trunk/components/camel-hdfs/src/main/java/org/apache/camel/component/hdfs/HdfsConstants.java
+END
+HdfsOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1128592/camel/trunk/components/camel-hdfs/src/main/java/org/apache/camel/component/hdfs/HdfsOutputStream.java
+END
+HdfsCompressionCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1128592/camel/trunk/components/camel-hdfs/src/main/java/org/apache/camel/component/hdfs/HdfsCompressionCodec.java
+END
+HdfsEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1128592/camel/trunk/components/camel-hdfs/src/main/java/org/apache/camel/component/hdfs/HdfsEndpoint.java
+END
+HdfsFileType.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1134081/camel/trunk/components/camel-hdfs/src/main/java/org/apache/camel/component/hdfs/HdfsFileType.java
+END
+HdfsComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1128592/camel/trunk/components/camel-hdfs/src/main/java/org/apache/camel/component/hdfs/HdfsComponent.java
+END
+HdfsProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1128592/camel/trunk/components/camel-hdfs/src/main/java/org/apache/camel/component/hdfs/HdfsProducer.java
+END
+HdfsFileSystemType.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1128592/camel/trunk/components/camel-hdfs/src/main/java/org/apache/camel/component/hdfs/HdfsFileSystemType.java
+END
+HdfsConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1128592/camel/trunk/components/camel-hdfs/src/main/java/org/apache/camel/component/hdfs/HdfsConfiguration.java
+END
+HdfsHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1128592/camel/trunk/components/camel-hdfs/src/main/java/org/apache/camel/component/hdfs/HdfsHeader.java
+END
+HdfsWritableFactories.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1134081/camel/trunk/components/camel-hdfs/src/main/java/org/apache/camel/component/hdfs/HdfsWritableFactories.java
+END

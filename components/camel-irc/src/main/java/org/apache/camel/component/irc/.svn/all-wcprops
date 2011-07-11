@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-irc/src/main/java/org/apache/camel/component/irc
+END
+IrcComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-irc/src/main/java/org/apache/camel/component/irc/IrcComponent.java
+END
+IrcProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-irc/src/main/java/org/apache/camel/component/irc/IrcProducer.java
+END
+IrcMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/809097/camel/trunk/components/camel-irc/src/main/java/org/apache/camel/component/irc/IrcMessage.java
+END
+IrcConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1043319/camel/trunk/components/camel-irc/src/main/java/org/apache/camel/component/irc/IrcConfiguration.java
+END
+IrcBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/787840/camel/trunk/components/camel-irc/src/main/java/org/apache/camel/component/irc/IrcBinding.java
+END
+IrcConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-irc/src/main/java/org/apache/camel/component/irc/IrcConsumer.java
+END
+IrcConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/809097/camel/trunk/components/camel-irc/src/main/java/org/apache/camel/component/irc/IrcConstants.java
+END
+IrcLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-irc/src/main/java/org/apache/camel/component/irc/IrcLogger.java
+END
+IrcEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-irc/src/main/java/org/apache/camel/component/irc/IrcEndpoint.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-irc/src/main/java/org/apache/camel/component/irc/package.html
+END

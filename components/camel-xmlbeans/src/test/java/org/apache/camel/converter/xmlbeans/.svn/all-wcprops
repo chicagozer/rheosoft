@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1131070/camel/trunk/components/camel-xmlbeans/src/test/java/org/apache/camel/converter/xmlbeans
+END
+UnmarshalThenMarshalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-xmlbeans/src/test/java/org/apache/camel/converter/xmlbeans/UnmarshalThenMarshalTest.java
+END
+XmlBeansConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-xmlbeans/src/test/java/org/apache/camel/converter/xmlbeans/XmlBeansConverterTest.java
+END
+XmlBeansConcurrencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1131070/camel/trunk/components/camel-xmlbeans/src/test/java/org/apache/camel/converter/xmlbeans/XmlBeansConcurrencyTest.java
+END
+UnmarshalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-xmlbeans/src/test/java/org/apache/camel/converter/xmlbeans/UnmarshalTest.java
+END

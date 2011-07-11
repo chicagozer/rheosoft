@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1130537/camel/trunk/components/camel-cxf/src/test/java/org/apache/camel/component/cxf/cxfbean
+END
+CxfBeanWithWsdlLocationInBeanAndIoCTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1130537/camel/trunk/components/camel-cxf/src/test/java/org/apache/camel/component/cxf/cxfbean/CxfBeanWithWsdlLocationInBeanAndIoCTest.java
+END
+CxfBeanWithWsdlLocationInBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1130537/camel/trunk/components/camel-cxf/src/test/java/org/apache/camel/component/cxf/cxfbean/CxfBeanWithWsdlLocationInBeanTest.java
+END
+CxfBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1130537/camel/trunk/components/camel-cxf/src/test/java/org/apache/camel/component/cxf/cxfbean/CxfBeanTest.java
+END
+CamelEndpointSpringConfigureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1130499/camel/trunk/components/camel-cxf/src/test/java/org/apache/camel/component/cxf/cxfbean/CamelEndpointSpringConfigureTest.java
+END

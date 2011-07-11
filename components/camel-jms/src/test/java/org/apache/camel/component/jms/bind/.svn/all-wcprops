@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/bind
+END
+JmsMessageBindTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/bind/JmsMessageBindTest.java
+END
+MyBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1071756/camel/trunk/components/camel-jms/src/test/java/org/apache/camel/component/jms/bind/MyBean.java
+END

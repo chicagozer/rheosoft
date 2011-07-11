@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1069675/camel/trunk/examples/camel-example-cxf/src/main/java/org/apache/camel/example/cxf/jaxrs/resources
+END
+BookNotFoundFault.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/834787/camel/trunk/examples/camel-example-cxf/src/main/java/org/apache/camel/example/cxf/jaxrs/resources/BookNotFoundFault.java
+END
+BookStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/781899/camel/trunk/examples/camel-example-cxf/src/main/java/org/apache/camel/example/cxf/jaxrs/resources/BookStore.java
+END
+BookStoreImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1069675/camel/trunk/examples/camel-example-cxf/src/main/java/org/apache/camel/example/cxf/jaxrs/resources/BookStoreImpl.java
+END
+Book.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/816069/camel/trunk/examples/camel-example-cxf/src/main/java/org/apache/camel/example/cxf/jaxrs/resources/Book.java
+END
+BookNotFoundDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/781899/camel/trunk/examples/camel-example-cxf/src/main/java/org/apache/camel/example/cxf/jaxrs/resources/BookNotFoundDetails.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1069819/camel/trunk/components/camel-spring-integration/src/test/resources/org/apache/camel/component/spring/integration
+END
+producer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1069819/camel/trunk/components/camel-spring-integration/src/test/resources/org/apache/camel/component/spring/integration/producer.xml
+END
+springChannelConverter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1069819/camel/trunk/components/camel-spring-integration/src/test/resources/org/apache/camel/component/spring/integration/springChannelConverter.xml
+END
+twoWayConsumer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1069819/camel/trunk/components/camel-spring-integration/src/test/resources/org/apache/camel/component/spring/integration/twoWayConsumer.xml
+END
+oneWayConsumer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1069819/camel/trunk/components/camel-spring-integration/src/test/resources/org/apache/camel/component/spring/integration/oneWayConsumer.xml
+END

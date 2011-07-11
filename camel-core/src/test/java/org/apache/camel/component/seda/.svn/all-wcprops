@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1139531/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda
+END
+FileSedaShutdownCompleteAllTasksTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/FileSedaShutdownCompleteAllTasksTest.java
+END
+SedaInOutWithErrorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaInOutWithErrorTest.java
+END
+TracingWithDelayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/TracingWithDelayTest.java
+END
+SedaUnitOfWorkTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaUnitOfWorkTest.java
+END
+SedaInOnlyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaInOnlyTest.java
+END
+SedaInOutChainedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaInOutChainedTest.java
+END
+SedaWaitForTaskIfReplyExpectedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaWaitForTaskIfReplyExpectedTest.java
+END
+DirectRequestReplyAndSedaInOnlyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/DirectRequestReplyAndSedaInOnlyTest.java
+END
+SedaConcurrentConsumersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaConcurrentConsumersTest.java
+END
+SedaConfigureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaConfigureTest.java
+END
+SedaConcurrentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1131070/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaConcurrentTest.java
+END
+SedaQueueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaQueueTest.java
+END
+SedaTimeoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaTimeoutTest.java
+END
+SedaComplexInOutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaComplexInOutTest.java
+END
+SedaWaitForTaskCompleteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaWaitForTaskCompleteTest.java
+END
+SedaWaitForTaskAsPropertyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaWaitForTaskAsPropertyTest.java
+END
+SedaNoConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaNoConsumerTest.java
+END
+SedaShouldNotUseSameThreadTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/956045/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaShouldNotUseSameThreadTest.java
+END
+SedaInOutWithErrorDeadLetterChannelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1128172/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaInOutWithErrorDeadLetterChannelTest.java
+END
+SedaInOutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaInOutTest.java
+END
+SedaWaitForTaskNewerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaWaitForTaskNewerTest.java
+END
+CollectionProducerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/CollectionProducerTest.java
+END
+SedaTimeoutDisabledTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaTimeoutDisabledTest.java
+END
+SedaConsumerSuspendResumeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1139531/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaConsumerSuspendResumeTest.java
+END
+SedaEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaEndpointTest.java
+END
+SedaInOutChainedTimeoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaInOutChainedTimeoutTest.java
+END
+SedaAsyncProducerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaAsyncProducerTest.java
+END
+SedaInOnlyChainedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaInOnlyChainedTest.java
+END
+SedaDefaultUnboundedQueueSizeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaDefaultUnboundedQueueSizeTest.java
+END
+SedaMultipleConsumersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaMultipleConsumersTest.java
+END
+SedaAsyncRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/735816/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaAsyncRouteTest.java
+END
+SedaInOutBigChainedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaInOutBigChainedTest.java
+END
+SedaInOutChainedWithOnCompletionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaInOutChainedWithOnCompletionTest.java
+END
+SedaRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/seda/SedaRouteTest.java
+END

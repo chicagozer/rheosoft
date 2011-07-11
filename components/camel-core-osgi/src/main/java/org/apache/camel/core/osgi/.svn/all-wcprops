@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1142667/camel/trunk/components/camel-core-osgi/src/main/java/org/apache/camel/core/osgi
+END
+OsgiFactoryFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/954355/camel/trunk/components/camel-core-osgi/src/main/java/org/apache/camel/core/osgi/OsgiFactoryFinder.java
+END
+OsgiFactoryFinderResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-core-osgi/src/main/java/org/apache/camel/core/osgi/OsgiFactoryFinderResolver.java
+END
+OsgiCamelContextPublisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-core-osgi/src/main/java/org/apache/camel/core/osgi/OsgiCamelContextPublisher.java
+END
+OsgiComponentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-core-osgi/src/main/java/org/apache/camel/core/osgi/OsgiComponentResolver.java
+END
+OsgiDataFormatResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-core-osgi/src/main/java/org/apache/camel/core/osgi/OsgiDataFormatResolver.java
+END
+OsgiLanguageResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-core-osgi/src/main/java/org/apache/camel/core/osgi/OsgiLanguageResolver.java
+END
+OsgiCamelContextHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1066041/camel/trunk/components/camel-core-osgi/src/main/java/org/apache/camel/core/osgi/OsgiCamelContextHelper.java
+END
+OsgiClassResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1066041/camel/trunk/components/camel-core-osgi/src/main/java/org/apache/camel/core/osgi/OsgiClassResolver.java
+END
+OsgiPackageScanClassResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1142667/camel/trunk/components/camel-core-osgi/src/main/java/org/apache/camel/core/osgi/OsgiPackageScanClassResolver.java
+END
+OsgiServiceRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1050603/camel/trunk/components/camel-core-osgi/src/main/java/org/apache/camel/core/osgi/OsgiServiceRegistry.java
+END
+OsgiTypeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1100508/camel/trunk/components/camel-core-osgi/src/main/java/org/apache/camel/core/osgi/OsgiTypeConverter.java
+END
+OsgiCamelContextNameStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1033962/camel/trunk/components/camel-core-osgi/src/main/java/org/apache/camel/core/osgi/OsgiCamelContextNameStrategy.java
+END
+OsgiEventAdminNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1044234/camel/trunk/components/camel-core-osgi/src/main/java/org/apache/camel/core/osgi/OsgiEventAdminNotifier.java
+END
+OsgiDefaultCamelContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1100508/camel/trunk/components/camel-core-osgi/src/main/java/org/apache/camel/core/osgi/OsgiDefaultCamelContext.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-cache/src/test/java/org/apache/camel/processor/cache
+END
+CacheBasedXPathElementReplacerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-cache/src/test/java/org/apache/camel/processor/cache/CacheBasedXPathElementReplacerTest.java
+END
+CacheBasedTokenReplacerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-cache/src/test/java/org/apache/camel/processor/cache/CacheBasedTokenReplacerTest.java
+END
+CacheBasedBodyReplacerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-cache/src/test/java/org/apache/camel/processor/cache/CacheBasedBodyReplacerTest.java
+END

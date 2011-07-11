@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-castor/src/main/java/org/apache/camel/dataformat/castor
+END
+AbstractCastorDataFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-castor/src/main/java/org/apache/camel/dataformat/castor/AbstractCastorDataFormat.java
+END
+CastorDataFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-castor/src/main/java/org/apache/camel/dataformat/castor/CastorDataFormat.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1095673/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/exceptionpolicy
+END
+DefaultExceptionPolicyStrategyUsingOnlyWhenTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/930692/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/exceptionpolicy/DefaultExceptionPolicyStrategyUsingOnlyWhenTest.java
+END
+DefaultExceptionPolicyStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1095673/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/exceptionpolicy/DefaultExceptionPolicyStrategyTest.java
+END
+CustomExceptionPolicyStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1095572/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/exceptionpolicy/CustomExceptionPolicyStrategyTest.java
+END
+DefaultExceptionPolicyStrategyUsingWhenTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1074046/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/exceptionpolicy/DefaultExceptionPolicyStrategyUsingWhenTest.java
+END

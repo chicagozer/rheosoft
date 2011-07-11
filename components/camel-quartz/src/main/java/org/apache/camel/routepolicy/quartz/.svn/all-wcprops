@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1144320/camel/trunk/components/camel-quartz/src/main/java/org/apache/camel/routepolicy/quartz
+END
+ScheduledRoutePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1144320/camel/trunk/components/camel-quartz/src/main/java/org/apache/camel/routepolicy/quartz/ScheduledRoutePolicy.java
+END
+CronScheduledRoutePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1144320/camel/trunk/components/camel-quartz/src/main/java/org/apache/camel/routepolicy/quartz/CronScheduledRoutePolicy.java
+END
+ScheduledRouteDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1001028/camel/trunk/components/camel-quartz/src/main/java/org/apache/camel/routepolicy/quartz/ScheduledRouteDetails.java
+END
+SimpleScheduledRoutePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1144320/camel/trunk/components/camel-quartz/src/main/java/org/apache/camel/routepolicy/quartz/SimpleScheduledRoutePolicy.java
+END
+ScheduledJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1144301/camel/trunk/components/camel-quartz/src/main/java/org/apache/camel/routepolicy/quartz/ScheduledJob.java
+END
+ScheduledJobState.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1064154/camel/trunk/components/camel-quartz/src/main/java/org/apache/camel/routepolicy/quartz/ScheduledJobState.java
+END
+ScheduledRoutePolicyConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1001028/camel/trunk/components/camel-quartz/src/main/java/org/apache/camel/routepolicy/quartz/ScheduledRoutePolicyConstants.java
+END

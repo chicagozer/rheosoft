@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1102648/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/management
+END
+SpringJmxRecipientListTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1069446/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/management/SpringJmxRecipientListTest.xml
+END
+SpringDualLoggingEventNotifierTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/management/SpringDualLoggingEventNotifierTest.xml
+END
+dualCamelContextManagedAutoAssignedNameTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/management/dualCamelContextManagedAutoAssignedNameTest.xml
+END
+ManagedStatisticsLevelRoutesOnlyTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/management/ManagedStatisticsLevelRoutesOnlyTest.xml
+END
+SpringJmxRecipientListTestRegisterAlways.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1069446/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/management/SpringJmxRecipientListTestRegisterAlways.xml
+END
+SpringManagedErrorHandlerTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/management/SpringManagedErrorHandlerTest.xml
+END
+dualCamelContextManagedTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/management/dualCamelContextManagedTest.xml
+END
+jmxInstrumentationWithConnector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/management/jmxInstrumentationWithConnector.xml
+END
+SpringJmxDumpRouteAsXmlTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1102648/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/management/SpringJmxDumpRouteAsXmlTest.xml
+END
+SpringLoggingEventNotifierTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/management/SpringLoggingEventNotifierTest.xml
+END
+SpringPublishEventNotifierTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/management/SpringPublishEventNotifierTest.xml
+END
+SpringCamelContextStartingFailedEventTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/management/SpringCamelContextStartingFailedEventTest.xml
+END
+SpringManagedStatisticsLevelOffTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/management/SpringManagedStatisticsLevelOffTest.xml
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1097908/camel/trunk/components/camel-ejb/src/test/java/org/apache/camel/component/ejb
+END
+SpringGreaterCamelEjbTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-ejb/src/test/java/org/apache/camel/component/ejb/SpringGreaterCamelEjbTest.java
+END
+GreaterCamelBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-ejb/src/test/java/org/apache/camel/component/ejb/GreaterCamelBeanTest.java
+END
+GreaterLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1097908/camel/trunk/components/camel-ejb/src/test/java/org/apache/camel/component/ejb/GreaterLocal.java
+END
+GreaterCamelEjbPropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-ejb/src/test/java/org/apache/camel/component/ejb/GreaterCamelEjbPropertiesTest.java
+END
+GreaterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-ejb/src/test/java/org/apache/camel/component/ejb/GreaterTest.java
+END
+GreaterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1097908/camel/trunk/components/camel-ejb/src/test/java/org/apache/camel/component/ejb/GreaterImpl.java
+END
+GreaterCamelEjbTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-ejb/src/test/java/org/apache/camel/component/ejb/GreaterCamelEjbTest.java
+END

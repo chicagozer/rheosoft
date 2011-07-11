@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/config/scan
+END
+RouteExclusionFromWithinSpringTestSupportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/938746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/config/scan/RouteExclusionFromWithinSpringTestSupportTest.java
+END
+SpringComponentScanWithDeprecatedPackagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/931444/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/config/scan/SpringComponentScanWithDeprecatedPackagesTest.java
+END
+SpringComponentScanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/config/scan/SpringComponentScanTest.java
+END

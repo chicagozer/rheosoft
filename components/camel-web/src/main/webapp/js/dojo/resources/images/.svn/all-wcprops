@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/755623/camel/trunk/components/camel-web/src/main/webapp/js/dojo/resources/images
+END
+dndMove.png
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/755623/camel/trunk/components/camel-web/src/main/webapp/js/dojo/resources/images/dndMove.png
+END
+dndNoCopy.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/755623/camel/trunk/components/camel-web/src/main/webapp/js/dojo/resources/images/dndNoCopy.png
+END
+dndCopy.png
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/755623/camel/trunk/components/camel-web/src/main/webapp/js/dojo/resources/images/dndCopy.png
+END
+dndNoMove.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/755623/camel/trunk/components/camel-web/src/main/webapp/js/dojo/resources/images/dndNoMove.png
+END

@@ -1,0 +1,18 @@
+K 10
+svn:ignore
+V 84
+.project
+.checkstyle
+.pmd
+.classpath
+target
+.settings
+eclipse-classes
+*.i??
+classes
+
+K 13
+svn:mergeinfo
+V 41
+/camel/trunk/components/camel-http:917526
+END

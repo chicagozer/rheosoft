@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1130160/camel/trunk/components/camel-cxf-transport/src/test/resources
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1130160/camel/trunk/components/camel-cxf-transport/src/test/resources/logging.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1130160/camel/trunk/components/camel-cxf-transport/src/test/resources/log4j.properties
+END
+person.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1130160/camel/trunk/components/camel-cxf-transport/src/test/resources/person.wsdl
+END

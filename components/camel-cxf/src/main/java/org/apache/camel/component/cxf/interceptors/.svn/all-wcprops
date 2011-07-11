@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/979273/camel/trunk/components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors
+END
+ConfigureDocLitWrapperInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/941623/camel/trunk/components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors/ConfigureDocLitWrapperInterceptor.java
+END
+RemoveClassTypeInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/979188/camel/trunk/components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors/RemoveClassTypeInterceptor.java
+END
+RawMessageContentRedirectInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/979273/camel/trunk/components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors/RawMessageContentRedirectInterceptor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-cxf/src/main/java/org/apache/camel/component/cxf/interceptors/package.html
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1140996/camel/trunk/components/camel-hl7/src/test/java/org/apache/camel/component/hl7
+END
+HL7MLLPCodecBoundaryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/906862/camel/trunk/components/camel-hl7/src/test/java/org/apache/camel/component/hl7/HL7MLLPCodecBoundaryTest.java
+END
+HL7ValidateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-hl7/src/test/java/org/apache/camel/component/hl7/HL7ValidateTest.java
+END
+HL7MLLPCodecPlainStringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/785111/camel/trunk/components/camel-hl7/src/test/java/org/apache/camel/component/hl7/HL7MLLPCodecPlainStringTest.java
+END
+HL7MLLPCodecStandAndEndBytesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/933507/camel/trunk/components/camel-hl7/src/test/java/org/apache/camel/component/hl7/HL7MLLPCodecStandAndEndBytesTest.java
+END
+HL7RouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/933507/camel/trunk/components/camel-hl7/src/test/java/org/apache/camel/component/hl7/HL7RouteTest.java
+END
+HL7DataFormatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1140996/camel/trunk/components/camel-hl7/src/test/java/org/apache/camel/component/hl7/HL7DataFormatTest.java
+END
+HL7MLLPCodecLongTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/824648/camel/trunk/components/camel-hl7/src/test/java/org/apache/camel/component/hl7/HL7MLLPCodecLongTest.java
+END
+HL7MLLPCodecTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/933507/camel/trunk/components/camel-hl7/src/test/java/org/apache/camel/component/hl7/HL7MLLPCodecTest.java
+END

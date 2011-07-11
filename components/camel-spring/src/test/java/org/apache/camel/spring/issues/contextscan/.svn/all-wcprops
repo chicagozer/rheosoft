@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/contextscan
+END
+MyRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/contextscan/MyRoute.java
+END
+SpringRouteIsComponentAnnotatedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/issues/contextscan/SpringRouteIsComponentAnnotatedTest.java
+END

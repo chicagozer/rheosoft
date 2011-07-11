@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1005335/camel/trunk/examples/camel-example-reportincident-ws-security-osgi/src/main/java/org/apache/camel/example/reportincident
+END
+FilenameGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/964005/camel/trunk/examples/camel-example-reportincident-ws-security-osgi/src/main/java/org/apache/camel/example/reportincident/FilenameGenerator.java
+END
+UTPasswordCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/966975/camel/trunk/examples/camel-example-reportincident-ws-security-osgi/src/main/java/org/apache/camel/example/reportincident/UTPasswordCallback.java
+END
+MyBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1005335/camel/trunk/examples/camel-example-reportincident-ws-security-osgi/src/main/java/org/apache/camel/example/reportincident/MyBean.java
+END
+ReportIncidentRoutes.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1005335/camel/trunk/examples/camel-example-reportincident-ws-security-osgi/src/main/java/org/apache/camel/example/reportincident/ReportIncidentRoutes.java
+END

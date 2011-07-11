@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1064736/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/mock
+END
+spring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/mock/spring.xml
+END
+InterceptSendToMockEndpointStrategyTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1064736/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/mock/InterceptSendToMockEndpointStrategyTest.xml
+END
+camel-route.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1064736/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/mock/camel-route.xml
+END

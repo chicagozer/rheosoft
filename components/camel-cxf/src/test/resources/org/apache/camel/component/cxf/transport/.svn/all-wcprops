@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1030322/camel/trunk/components/camel-cxf/src/test/resources/org/apache/camel/component/cxf/transport
+END
+CamelDestination.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-cxf/src/test/resources/org/apache/camel/component/cxf/transport/CamelDestination.xml
+END
+CamelConduit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-cxf/src/test/resources/org/apache/camel/component/cxf/transport/CamelConduit.xml
+END
+CamelEndpointSpringConfigure.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-cxf/src/test/resources/org/apache/camel/component/cxf/transport/CamelEndpointSpringConfigure.xml
+END
+CamelJBIClientProxy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1030322/camel/trunk/components/camel-cxf/src/test/resources/org/apache/camel/component/cxf/transport/CamelJBIClientProxy.xml
+END

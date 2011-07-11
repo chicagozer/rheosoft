@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1069819/camel/trunk/components/camel-spring-integration/src/test/resources/org/apache/camel/component/spring/integration/adapter
+END
+CamelSource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1069819/camel/trunk/components/camel-spring-integration/src/test/resources/org/apache/camel/component/spring/integration/adapter/CamelSource.xml
+END
+CamelTarget.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1069819/camel/trunk/components/camel-spring-integration/src/test/resources/org/apache/camel/component/spring/integration/adapter/CamelTarget.xml
+END

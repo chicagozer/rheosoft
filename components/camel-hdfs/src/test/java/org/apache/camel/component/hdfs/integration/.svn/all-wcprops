@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1128592/camel/trunk/components/camel-hdfs/src/test/java/org/apache/camel/component/hdfs/integration
+END
+HdfsProducerConsumerIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1128592/camel/trunk/components/camel-hdfs/src/test/java/org/apache/camel/component/hdfs/integration/HdfsProducerConsumerIntegrationTest.java
+END
+HdfsAppendTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1128592/camel/trunk/components/camel-hdfs/src/test/java/org/apache/camel/component/hdfs/integration/HdfsAppendTest.java
+END

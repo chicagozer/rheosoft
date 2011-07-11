@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1142723/camel/trunk/components/camel-blueprint/src/main/java/org/apache/camel/blueprint
+END
+CamelProducerTemplateFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-blueprint/src/main/java/org/apache/camel/blueprint/CamelProducerTemplateFactoryBean.java
+END
+CamelEndpointFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-blueprint/src/main/java/org/apache/camel/blueprint/CamelEndpointFactoryBean.java
+END
+BlueprintContainerRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1044234/camel/trunk/components/camel-blueprint/src/main/java/org/apache/camel/blueprint/BlueprintContainerRegistry.java
+END
+CamelProxyFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1044234/camel/trunk/components/camel-blueprint/src/main/java/org/apache/camel/blueprint/CamelProxyFactoryBean.java
+END
+BlueprintPropertiesResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1074807/camel/trunk/components/camel-blueprint/src/main/java/org/apache/camel/blueprint/BlueprintPropertiesResolver.java
+END
+CamelContextFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1086641/camel/trunk/components/camel-blueprint/src/main/java/org/apache/camel/blueprint/CamelContextFactoryBean.java
+END
+CamelErrorHandlerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1090316/camel/trunk/components/camel-blueprint/src/main/java/org/apache/camel/blueprint/CamelErrorHandlerFactoryBean.java
+END
+CamelConsumerTemplateFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-blueprint/src/main/java/org/apache/camel/blueprint/CamelConsumerTemplateFactoryBean.java
+END
+ContextScanRouteBuilderFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-blueprint/src/main/java/org/apache/camel/blueprint/ContextScanRouteBuilderFinder.java
+END
+BlueprintComponentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-blueprint/src/main/java/org/apache/camel/blueprint/BlueprintComponentResolver.java
+END
+CamelRedeliveryPolicyFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-blueprint/src/main/java/org/apache/camel/blueprint/CamelRedeliveryPolicyFactoryBean.java
+END
+BlueprintCamelContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1100508/camel/trunk/components/camel-blueprint/src/main/java/org/apache/camel/blueprint/BlueprintCamelContext.java
+END
+PackageScanRouteBuilderFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-blueprint/src/main/java/org/apache/camel/blueprint/PackageScanRouteBuilderFinder.java
+END
+CamelThreadPoolFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-blueprint/src/main/java/org/apache/camel/blueprint/CamelThreadPoolFactoryBean.java
+END
+CamelRouteContextFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1044234/camel/trunk/components/camel-blueprint/src/main/java/org/apache/camel/blueprint/CamelRouteContextFactoryBean.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/824638/camel/trunk/components/camel-blueprint/src/main/java/org/apache/camel/blueprint/package-info.java
+END
+BlueprintDataFormatResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-blueprint/src/main/java/org/apache/camel/blueprint/BlueprintDataFormatResolver.java
+END
+ErrorHandlerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-blueprint/src/main/java/org/apache/camel/blueprint/ErrorHandlerType.java
+END
+BlueprintLanguageResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-blueprint/src/main/java/org/apache/camel/blueprint/BlueprintLanguageResolver.java
+END
+BlueprintPropertiesParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1074807/camel/trunk/components/camel-blueprint/src/main/java/org/apache/camel/blueprint/BlueprintPropertiesParser.java
+END

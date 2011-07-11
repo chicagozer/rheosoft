@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1141939/camel/trunk/examples/camel-example-loan-broker
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1141939/camel/trunk/examples/camel-example-loan-broker/pom.xml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1092726/camel/trunk/examples/camel-example-loan-broker/README.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/735816/camel/trunk/examples/camel-example-loan-broker/build.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1128688/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/util/spring
+END
+KeyStoreParametersFactoryBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1128688/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/util/spring/KeyStoreParametersFactoryBeanTest.java
+END
+SSLContextParametersFactoryBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1128688/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/util/spring/SSLContextParametersFactoryBeanTest.java
+END
+SecureRandomParametersFactoryBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1096398/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/util/spring/SecureRandomParametersFactoryBeanTest.java
+END

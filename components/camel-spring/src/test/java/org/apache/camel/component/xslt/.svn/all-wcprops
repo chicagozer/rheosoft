@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1097908/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/xslt
+END
+XsltXmlFragmentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1095572/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/xslt/XsltXmlFragmentTest.java
+END
+XsltIncludeClasspathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/xslt/XsltIncludeClasspathTest.java
+END
+InvalidXsltFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1031444/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/xslt/InvalidXsltFileTest.java
+END
+XsltOutputStringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/xslt/XsltOutputStringTest.java
+END
+XsltTransformingExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1065540/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/xslt/XsltTransformingExceptionTest.java
+END
+TestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/xslt/TestBean.java
+END
+XsltFileNotFoundTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1032099/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/xslt/XsltFileNotFoundTest.java
+END
+XsltContentCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1032099/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/xslt/XsltContentCacheTest.java
+END
+XsltRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/xslt/XsltRouteTest.java
+END
+XsltReferenceParameterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/890042/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/xslt/XsltReferenceParameterTest.java
+END
+XsltOutputFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/xslt/XsltOutputFileTest.java
+END
+XsltOutputDOMTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/xslt/XsltOutputDOMTest.java
+END
+XsltOutputBytesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/xslt/XsltOutputBytesTest.java
+END
+MyEcho.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1065540/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/xslt/MyEcho.java
+END
+XsltIncludeRelativeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/xslt/XsltIncludeRelativeTest.java
+END
+MyXPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1097908/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/xslt/MyXPath.java
+END
+XsltIncludeRelativeOtherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/xslt/XsltIncludeRelativeOtherTest.java
+END
+XsltOutputFileDeleteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/xslt/XsltOutputFileDeleteTest.java
+END
+XsltIncludeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/component/xslt/XsltIncludeTest.java
+END

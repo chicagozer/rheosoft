@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/tx
+END
+JmsToHttpTXWithOnExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/tx/JmsToHttpTXWithOnExceptionTest.java
+END
+JmsToHttpWithRollbackRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/tx/JmsToHttpWithRollbackRoute.java
+END
+JmsToHttpWithOnExceptionRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/tx/JmsToHttpWithOnExceptionRoute.java
+END
+JmsToHttpTXWithOnExceptionAndNoTransactionErrorHandlerConfiguredTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/tx/JmsToHttpTXWithOnExceptionAndNoTransactionErrorHandlerConfiguredTest.java
+END
+JmsToHttpWithOnExceptionAndNoTransactionErrorHandlerConfiguredRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/tx/JmsToHttpWithOnExceptionAndNoTransactionErrorHandlerConfiguredRoute.java
+END
+JmsToHttpTXTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/tx/JmsToHttpTXTest.java
+END
+JmsToHttpRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/tx/JmsToHttpRoute.java
+END
+JmsToHttpTXWithRollbackTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/tx/JmsToHttpTXWithRollbackTest.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1138700/camel/trunk/components/camel-cxf/src/test/java/org/apache/camel/component/cxf/multipart
+END
+MultiPartInvokeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1138700/camel/trunk/components/camel-cxf/src/test/java/org/apache/camel/component/cxf/multipart/MultiPartInvokeImpl.java
+END
+CXFMultiPartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1130499/camel/trunk/components/camel-cxf/src/test/java/org/apache/camel/component/cxf/multipart/CXFMultiPartTest.java
+END

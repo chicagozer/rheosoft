@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1065931/camel/trunk/components/camel-rss/src/main/java/org/apache/camel/dataformat/rss
+END
+RssConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-rss/src/main/java/org/apache/camel/dataformat/rss/RssConverter.java
+END
+RssDataFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1065931/camel/trunk/components/camel-rss/src/main/java/org/apache/camel/dataformat/rss/RssDataFormat.java
+END

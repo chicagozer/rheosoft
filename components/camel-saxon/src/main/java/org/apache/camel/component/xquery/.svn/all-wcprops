@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-saxon/src/main/java/org/apache/camel/component/xquery
+END
+XQueryAnnotationExpressionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-saxon/src/main/java/org/apache/camel/component/xquery/XQueryAnnotationExpressionFactory.java
+END
+XQueryComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-saxon/src/main/java/org/apache/camel/component/xquery/XQueryComponent.java
+END
+XQueryLanguage.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-saxon/src/main/java/org/apache/camel/component/xquery/XQueryLanguage.java
+END
+XQueryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-saxon/src/main/java/org/apache/camel/component/xquery/XQueryBuilder.java
+END
+ResultFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-saxon/src/main/java/org/apache/camel/component/xquery/ResultFormat.java
+END
+XQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-saxon/src/main/java/org/apache/camel/component/xquery/XQuery.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-saxon/src/main/java/org/apache/camel/component/xquery/package.html
+END

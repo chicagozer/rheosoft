@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1104036/camel/trunk/platforms/karaf/commands/src/main/java/org/apache/camel/karaf/commands/completers
+END
+CamelContextCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1104036/camel/trunk/platforms/karaf/commands/src/main/java/org/apache/camel/karaf/commands/completers/CamelContextCompleter.java
+END
+RouteCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1104036/camel/trunk/platforms/karaf/commands/src/main/java/org/apache/camel/karaf/commands/completers/RouteCompleter.java
+END

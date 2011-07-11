@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1087367/camel/trunk/components/camel-aws/src/main/resources/META-INF/services/org/apache/camel/component
+END
+aws-sns
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1084013/camel/trunk/components/camel-aws/src/main/resources/META-INF/services/org/apache/camel/component/aws-sns
+END
+aws-s3
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1087367/camel/trunk/components/camel-aws/src/main/resources/META-INF/services/org/apache/camel/component/aws-s3
+END
+aws-sqs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1058409/camel/trunk/components/camel-aws/src/main/resources/META-INF/services/org/apache/camel/component/aws-sqs
+END

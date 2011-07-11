@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1140962/camel/trunk/components/camel-jaxb/src/test/resources/org/apache/camel/example
+END
+springDataFormatPartial.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1140962/camel/trunk/components/camel-jaxb/src/test/resources/org/apache/camel/example/springDataFormatPartial.xml
+END
+springDataFormat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-jaxb/src/test/resources/org/apache/camel/example/springDataFormat.xml
+END
+springDataFormatWithEncoding.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-jaxb/src/test/resources/org/apache/camel/example/springDataFormatWithEncoding.xml
+END
+marshalAndUnmarshalWithSpringBean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-jaxb/src/test/resources/org/apache/camel/example/marshalAndUnmarshalWithSpringBean.xml
+END
+jaxb.index
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1092615/camel/trunk/components/camel-jaxb/src/test/resources/org/apache/camel/example/jaxb.index
+END
+marshalAndUnmarshalWithRef.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-jaxb/src/test/resources/org/apache/camel/example/marshalAndUnmarshalWithRef.xml
+END

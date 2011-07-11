@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/postprocessor
+END
+MagicAnnotationPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1065694/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/postprocessor/MagicAnnotationPostProcessor.java
+END
+MyRouteBuilderWithAutowiredPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/postprocessor/MyRouteBuilderWithAutowiredPojo.java
+END
+CamelCustomPostProcessorOnRouteBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/postprocessor/CamelCustomPostProcessorOnRouteBuilderTest.java
+END
+TestPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/postprocessor/TestPojo.java
+END
+PlainSpringCustomPostProcessorOnRouteBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/postprocessor/PlainSpringCustomPostProcessorOnRouteBuilderTest.java
+END
+MagicAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/test/java/org/apache/camel/spring/postprocessor/MagicAnnotation.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-tagsoup/src/test/java/org/apache/camel/dataformat/tagsoup
+END
+TidyMarkupDataFormatWithUnmarshalTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-tagsoup/src/test/java/org/apache/camel/dataformat/tagsoup/TidyMarkupDataFormatWithUnmarshalTypeTest.java
+END
+TidyMarkupDataFormatAsDomNodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-tagsoup/src/test/java/org/apache/camel/dataformat/tagsoup/TidyMarkupDataFormatAsDomNodeTest.java
+END
+TidyMarkupTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-tagsoup/src/test/java/org/apache/camel/dataformat/tagsoup/TidyMarkupTestSupport.java
+END
+TidyMarkupDataFormatAsStringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-tagsoup/src/test/java/org/apache/camel/dataformat/tagsoup/TidyMarkupDataFormatAsStringTest.java
+END

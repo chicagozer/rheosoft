@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1005335/camel/trunk/examples/camel-example-reportincident-ws-security-osgi/src/main/resources/etc
+END
+report_incident.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/964005/camel/trunk/examples/camel-example-reportincident-ws-security-osgi/src/main/resources/etc/report_incident.wsdl
+END
+MailBody.vm
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/964005/camel/trunk/examples/camel-example-reportincident-ws-security-osgi/src/main/resources/etc/MailBody.vm
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/966094/camel/trunk/tests/camel-itest-osgi/src/test/resources/org/apache/camel/itest/osgi/jpa
+END
+springJpaRouteContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/966094/camel/trunk/tests/camel-itest-osgi/src/test/resources/org/apache/camel/itest/osgi/jpa/springJpaRouteContext.xml
+END

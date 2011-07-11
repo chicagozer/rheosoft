@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1075028/camel/trunk/camel-core/src/test/java/org/apache/camel/component/properties
+END
+PropertiesComponentEIPConvertBodyToTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/properties/PropertiesComponentEIPConvertBodyToTest.java
+END
+OptionalPropertiesDslTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1073359/camel/trunk/camel-core/src/test/java/org/apache/camel/component/properties/OptionalPropertiesDslTest.java
+END
+PropertiesComponentRegistryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1075001/camel/trunk/camel-core/src/test/java/org/apache/camel/component/properties/PropertiesComponentRegistryTest.java
+END
+PropertiesComponentEIPChoiceConvertBodyToTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/properties/PropertiesComponentEIPChoiceConvertBodyToTest.java
+END
+PropertiesComponentInterceptSendToEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/properties/PropertiesComponentInterceptSendToEndpointTest.java
+END
+PropertiesComponentRefTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/properties/PropertiesComponentRefTest.java
+END
+PropertiesComponentEIPRoutingSlipTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/properties/PropertiesComponentEIPRoutingSlipTest.java
+END
+PropertiesResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/properties/PropertiesResolverTest.java
+END
+PropertiesComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1075028/camel/trunk/camel-core/src/test/java/org/apache/camel/component/properties/PropertiesComponentTest.java
+END
+PropertiesComponentLocationWithTwoJvmPropertyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1075028/camel/trunk/camel-core/src/test/java/org/apache/camel/component/properties/PropertiesComponentLocationWithTwoJvmPropertyTest.java
+END
+PropertiesComponentLoadPropertiesFromFileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/properties/PropertiesComponentLoadPropertiesFromFileTest.java
+END
+PropertiesComponentEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/properties/PropertiesComponentEndpointTest.java
+END
+PropertiesComponentAdviceWithInterceptSendToEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/properties/PropertiesComponentAdviceWithInterceptSendToEndpointTest.java
+END
+OptionalPropertiesDslInvalidSyntaxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1075001/camel/trunk/camel-core/src/test/java/org/apache/camel/component/properties/OptionalPropertiesDslInvalidSyntaxTest.java
+END
+PropertiesComponentDefaultTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/properties/PropertiesComponentDefaultTest.java
+END
+PropertiesComponentLocationWithJvmPropertyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1075028/camel/trunk/camel-core/src/test/java/org/apache/camel/component/properties/PropertiesComponentLocationWithJvmPropertyTest.java
+END
+PropertiesEnvironmentVariableOverrideTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/properties/PropertiesEnvironmentVariableOverrideTest.java
+END
+PropertiesComponentOnExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/properties/PropertiesComponentOnExceptionTest.java
+END
+PropertiesComponentLoadPropertiesFromFileTrimValuesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/properties/PropertiesComponentLoadPropertiesFromFileTrimValuesTest.java
+END
+PropertiesComponentSimpleLanguageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/component/properties/PropertiesComponentSimpleLanguageTest.java
+END

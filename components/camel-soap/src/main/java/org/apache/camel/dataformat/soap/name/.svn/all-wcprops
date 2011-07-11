@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1055415/camel/trunk/components/camel-soap/src/main/java/org/apache/camel/dataformat/soap/name
+END
+QNameStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/915775/camel/trunk/components/camel-soap/src/main/java/org/apache/camel/dataformat/soap/name/QNameStrategy.java
+END
+ServiceInterfaceStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1055415/camel/trunk/components/camel-soap/src/main/java/org/apache/camel/dataformat/soap/name/ServiceInterfaceStrategy.java
+END
+TypeNameStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/915775/camel/trunk/components/camel-soap/src/main/java/org/apache/camel/dataformat/soap/name/TypeNameStrategy.java
+END
+MethodInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1055415/camel/trunk/components/camel-soap/src/main/java/org/apache/camel/dataformat/soap/name/MethodInfo.java
+END
+ElementNameStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/915775/camel/trunk/components/camel-soap/src/main/java/org/apache/camel/dataformat/soap/name/ElementNameStrategy.java
+END
+TypeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/907954/camel/trunk/components/camel-soap/src/main/java/org/apache/camel/dataformat/soap/name/TypeInfo.java
+END

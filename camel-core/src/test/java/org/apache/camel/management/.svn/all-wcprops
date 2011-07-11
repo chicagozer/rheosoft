@@ -1,0 +1,641 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1139800/camel/trunk/camel-core/src/test/java/org/apache/camel/management
+END
+JmxInstrumentationUsingPlatformMBSTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/JmxInstrumentationUsingPlatformMBSTest.java
+END
+ManagedDelayerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedDelayerTest.java
+END
+ManagedBrowseableEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1102705/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedBrowseableEndpointTest.java
+END
+ManagedStatisticsLevelRoutesOnlyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedStatisticsLevelRoutesOnlyTest.java
+END
+ManagedCamelContextTracerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedCamelContextTracerTest.java
+END
+JmxInstrumentationUsingPropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/JmxInstrumentationUsingPropertiesTest.java
+END
+ManagedStatisticsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedStatisticsTest.java
+END
+ManagedRouteShutdownAndStartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRouteShutdownAndStartTest.java
+END
+PublishEventNotifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/PublishEventNotifierTest.java
+END
+TwoManagedCamelContextClashTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/TwoManagedCamelContextClashTest.java
+END
+ManagedTracerOptionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedTracerOptionsTest.java
+END
+ManagedProducerCacheHitsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1129601/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedProducerCacheHitsTest.java
+END
+ManagedCustomBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1095572/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedCustomBeanTest.java
+END
+ManagedServiceUrlPathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedServiceUrlPathTest.java
+END
+ManagedRegisterExchangeStatisticsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRegisterExchangeStatisticsTest.java
+END
+ManagedErrorHandlerOptionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedErrorHandlerOptionsTest.java
+END
+JmxInstrumentationCustomMBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1099417/camel/trunk/camel-core/src/test/java/org/apache/camel/management/JmxInstrumentationCustomMBeanTest.java
+END
+ManagedUnregisterConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedUnregisterConsumerTest.java
+END
+ManagedRouteContextTracerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRouteContextTracerTest.java
+END
+ManagedRouteStopTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRouteStopTest.java
+END
+MultipleEventNotifierEventsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/MultipleEventNotifierEventsTest.java
+END
+ManagedRouteWithOnExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRouteWithOnExceptionTest.java
+END
+ManagedCamelContextSuspendResumeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1102661/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedCamelContextSuspendResumeTest.java
+END
+ManagedCustomProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedCustomProcessorTest.java
+END
+ExceptionWithManagementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ExceptionWithManagementTest.java
+END
+ManagedThreadPoolWithIdTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1078442/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedThreadPoolWithIdTest.java
+END
+ManagedSuspendedServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedSuspendedServiceTest.java
+END
+ManagedRoutePerformanceCounterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRoutePerformanceCounterTest.java
+END
+JmxInstrumentationOnlyRegisterProcessorWithCustomIdTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/JmxInstrumentationOnlyRegisterProcessorWithCustomIdTest.java
+END
+EventNotifierFailureHandledEventsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1134194/camel/trunk/camel-core/src/test/java/org/apache/camel/management/EventNotifierFailureHandledEventsTest.java
+END
+ManagedErrorHandlerRedeliveryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedErrorHandlerRedeliveryTest.java
+END
+ManagedStatisticsDisabledTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedStatisticsDisabledTest.java
+END
+ManagedRouteAddSecondRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRouteAddSecondRouteTest.java
+END
+ManagedRouteAddSecondRouteNotRegisterNewRoutesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRouteAddSecondRouteNotRegisterNewRoutesTest.java
+END
+ManagedFileIdempotentConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedFileIdempotentConsumerTest.java
+END
+ManagedRegisterEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRegisterEndpointTest.java
+END
+ManagedErrorHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedErrorHandlerTest.java
+END
+ManagedThrottlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedThrottlerTest.java
+END
+ManagementTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagementTestSupport.java
+END
+CustomEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1095572/camel/trunk/camel-core/src/test/java/org/apache/camel/management/CustomEndpoint.java
+END
+ManagedShutdownStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedShutdownStrategyTest.java
+END
+ManagedCamelContextUpdateRoutesFromXmlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1102648/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedCamelContextUpdateRoutesFromXmlTest.java
+END
+EventNotifierExchangeSentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/EventNotifierExchangeSentTest.java
+END
+ManagedScheduledPollConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1136290/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedScheduledPollConsumerTest.java
+END
+ManagedRouteStopAndStartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRouteStopAndStartTest.java
+END
+ManagedProducerCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1129601/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedProducerCacheTest.java
+END
+CamelChoiceWithManagementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/CamelChoiceWithManagementTest.java
+END
+ManagedUnregisterComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedUnregisterComponentTest.java
+END
+LoggingEventNotifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/LoggingEventNotifierTest.java
+END
+ManagedMemoryIdempotentConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedMemoryIdempotentConsumerTest.java
+END
+AddEventNotifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1139733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/AddEventNotifierTest.java
+END
+PublishEventNotifierToRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/PublishEventNotifierToRouteTest.java
+END
+ManagedRoutePolicyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1085897/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRoutePolicyTest.java
+END
+JmxRecipientListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/JmxRecipientListTest.java
+END
+ManagedTimerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedTimerTest.java
+END
+ManagedRedeliverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1089901/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRedeliverTest.java
+END
+ManagedThreadPoolProfileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1078442/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedThreadPoolProfileTest.java
+END
+RemoveEventNotifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1139733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/RemoveEventNotifierTest.java
+END
+ManagedCamelContextDumpRoutesAsXmlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1124146/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedCamelContextDumpRoutesAsXmlTest.java
+END
+EventNotifierRedeliveryEventsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/EventNotifierRedeliveryEventsTest.java
+END
+ManagedCamelContextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1139800/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedCamelContextTest.java
+END
+ManagedUnregisterEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedUnregisterEndpointTest.java
+END
+EventNotifierEventsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/EventNotifierEventsTest.java
+END
+ManagedRegisterCamelContextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRegisterCamelContextTest.java
+END
+ManagedBrowseableEndpointAsXmlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1102705/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedBrowseableEndpointAsXmlTest.java
+END
+ManagedUnregisterProducerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedUnregisterProducerTest.java
+END
+MultiInstanceProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/MultiInstanceProcessorTest.java
+END
+ManagedRegisterRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRegisterRouteTest.java
+END
+TwoManagedCamelContextAutoAssignedNameClashTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/TwoManagedCamelContextAutoAssignedNameClashTest.java
+END
+ManagedBrowseableEndpointEmptyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedBrowseableEndpointEmptyTest.java
+END
+ManagedCBRTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1134501/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedCBRTest.java
+END
+ManagedCamelContextSuspendStartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1102661/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedCamelContextSuspendStartTest.java
+END
+ManagedUnregisterRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedUnregisterRouteTest.java
+END
+ManagedRouteNoAutoStartupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRouteNoAutoStartupTest.java
+END
+ManagedConsumerCacheHitsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1129601/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedConsumerCacheHitsTest.java
+END
+ManagedRouteDumpRouteAsXmlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1102648/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRouteDumpRouteAsXmlTest.java
+END
+ManagedEndpointRegistryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1129601/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedEndpointRegistryTest.java
+END
+ManagedRouteAutoStartupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1102661/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRouteAutoStartupTest.java
+END
+JmxInstrumentationWithConnectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/JmxInstrumentationWithConnectorTest.java
+END
+ManagedRouteStopAndStartCleanupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRouteStopAndStartCleanupTest.java
+END
+ManagedRegisterTwoRoutesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRegisterTwoRoutesTest.java
+END
+EventNotifierServiceStoppingFailedEventTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/EventNotifierServiceStoppingFailedEventTest.java
+END
+TwoManagedCamelContextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/TwoManagedCamelContextTest.java
+END
+ManagedRouteUpdateRouteFromXmlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1102648/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRouteUpdateRouteFromXmlTest.java
+END
+ManagedUnregisterProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedUnregisterProcessorTest.java
+END
+DualManagedThreadPoolProfileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1078442/camel/trunk/camel-core/src/test/java/org/apache/camel/management/DualManagedThreadPoolProfileTest.java
+END
+RecipientListProducerCacheLimitTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1087773/camel/trunk/camel-core/src/test/java/org/apache/camel/management/RecipientListProducerCacheLimitTest.java
+END
+JmxInstrumentationDisableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/JmxInstrumentationDisableTest.java
+END
+ManagedSendProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedSendProcessorTest.java
+END
+JmxNotificationEventNotifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/JmxNotificationEventNotifierTest.java
+END
+ManagedDualCamelContextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedDualCamelContextTest.java
+END
+JmxInstrumentationDisableOnCamelContextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/JmxInstrumentationDisableOnCamelContextTest.java
+END
+ManagedUnregisterCamelContextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedUnregisterCamelContextTest.java
+END
+ManagedThreadPoolTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1078442/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedThreadPoolTest.java
+END
+ManagedRedeliverRouteOnlyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1089901/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRedeliverRouteOnlyTest.java
+END
+ManagedCamelContextAutoStartupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1102661/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedCamelContextAutoStartupTest.java
+END
+JmxInstrumentationUsingDefaultsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1099417/camel/trunk/camel-core/src/test/java/org/apache/camel/management/JmxInstrumentationUsingDefaultsTest.java
+END
+EventNotifierExchangeCompletedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1073795/camel/trunk/camel-core/src/test/java/org/apache/camel/management/EventNotifierExchangeCompletedTest.java
+END
+ManagedRouteSuspendAndResumeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRouteSuspendAndResumeTest.java
+END
+RemoveRouteDefinitionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1095672/camel/trunk/camel-core/src/test/java/org/apache/camel/management/RemoveRouteDefinitionTest.java
+END
+ManagedRouteRemoveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRouteRemoveTest.java
+END
+ManagedStatisticsLevelOffTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedStatisticsLevelOffTest.java
+END
+ManagedStatisticsWithSplitterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedStatisticsWithSplitterTest.java
+END
+ManagedConsumerCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1129601/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedConsumerCacheTest.java
+END
+DualManagedThreadPoolWithIdTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1078442/camel/trunk/camel-core/src/test/java/org/apache/camel/management/DualManagedThreadPoolWithIdTest.java
+END
+ManagedRouteStopWithAbortAfterTimeoutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/management/ManagedRouteStopWithAbortAfterTimeoutTest.java
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1097761/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jms
+END
+JmsValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jms/JmsValidatorTest.java
+END
+InvalidOrderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jms/InvalidOrderException.java
+END
+JmsHttpJmsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jms/JmsHttpJmsTest.java
+END
+PurchaseOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jms/PurchaseOrder.java
+END
+JmsHttpPostIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1097761/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jms/JmsHttpPostIssueTest.java
+END
+JmsPollEnrichTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1087741/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jms/JmsPollEnrichTest.java
+END
+JmsPerformanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1073764/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jms/JmsPerformanceTest.java
+END
+StopWatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jms/StopWatch.java
+END
+JmsHttpPostIssueWithMockTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1097761/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jms/JmsHttpPostIssueWithMockTest.java
+END
+JmsMediumQueuePerformanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1073764/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jms/JmsMediumQueuePerformanceTest.java
+END
+SpringJmsValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jms/SpringJmsValidatorTest.java
+END
+JmsPollingConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jms/JmsPollingConsumerTest.java
+END
+JmsResequencerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1070802/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jms/JmsResequencerTest.java
+END
+FileToJmsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/787970/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jms/FileToJmsTest.java
+END
+JmsIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jms/JmsIntegrationTest.java
+END
+JmsJaxbTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest/jms/JmsJaxbTest.java
+END

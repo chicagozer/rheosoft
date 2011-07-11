@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1128688/camel/trunk/components/camel-core-xml/src/main/java/org/apache/camel/core/xml/util/jsse
+END
+SecureSocketProtocolsParametersDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1096398/camel/trunk/components/camel-core-xml/src/main/java/org/apache/camel/core/xml/util/jsse/SecureSocketProtocolsParametersDefinition.java
+END
+FilterParametersDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1096398/camel/trunk/components/camel-core-xml/src/main/java/org/apache/camel/core/xml/util/jsse/FilterParametersDefinition.java
+END
+AbstractSSLContextServerParametersFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1128688/camel/trunk/components/camel-core-xml/src/main/java/org/apache/camel/core/xml/util/jsse/AbstractSSLContextServerParametersFactoryBean.java
+END
+AbstractJsseUtilFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1128688/camel/trunk/components/camel-core-xml/src/main/java/org/apache/camel/core/xml/util/jsse/AbstractJsseUtilFactoryBean.java
+END
+CipherSuitesParametersDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1096398/camel/trunk/components/camel-core-xml/src/main/java/org/apache/camel/core/xml/util/jsse/CipherSuitesParametersDefinition.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1096398/camel/trunk/components/camel-core-xml/src/main/java/org/apache/camel/core/xml/util/jsse/package-info.java
+END
+AbstractTrustManagersParametersFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1128688/camel/trunk/components/camel-core-xml/src/main/java/org/apache/camel/core/xml/util/jsse/AbstractTrustManagersParametersFactoryBean.java
+END
+AbstractBaseSSLContextParametersFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1128688/camel/trunk/components/camel-core-xml/src/main/java/org/apache/camel/core/xml/util/jsse/AbstractBaseSSLContextParametersFactoryBean.java
+END
+AbstractKeyStoreParametersFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1128688/camel/trunk/components/camel-core-xml/src/main/java/org/apache/camel/core/xml/util/jsse/AbstractKeyStoreParametersFactoryBean.java
+END
+AbstractSSLContextClientParametersFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1128688/camel/trunk/components/camel-core-xml/src/main/java/org/apache/camel/core/xml/util/jsse/AbstractSSLContextClientParametersFactoryBean.java
+END
+AbstractKeyManagersParametersFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1128688/camel/trunk/components/camel-core-xml/src/main/java/org/apache/camel/core/xml/util/jsse/AbstractKeyManagersParametersFactoryBean.java
+END
+AbstractSSLContextParametersFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1128688/camel/trunk/components/camel-core-xml/src/main/java/org/apache/camel/core/xml/util/jsse/AbstractSSLContextParametersFactoryBean.java
+END
+AbstractSecureRandomParametersFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1128688/camel/trunk/components/camel-core-xml/src/main/java/org/apache/camel/core/xml/util/jsse/AbstractSecureRandomParametersFactoryBean.java
+END

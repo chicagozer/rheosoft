@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1143904/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor
+END
+InterceptorStrategyNotOrderedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/InterceptorStrategyNotOrderedTest.java
+END
+TraceInterceptorCustomJpaMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/932351/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/TraceInterceptorCustomJpaMessage.java
+END
+TraceInterceptorCustomJpaMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/932351/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/TraceInterceptorCustomJpaMessageTest.java
+END
+DefaultTraceEventMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1086641/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/DefaultTraceEventMessageTest.java
+END
+TracerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1086641/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/TracerTest.java
+END
+AdviceWithMockEndpointsHavingParameterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1078291/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/AdviceWithMockEndpointsHavingParameterTest.java
+END
+AdviceWithRouteIdTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/AdviceWithRouteIdTest.java
+END
+DebugExceptionBreakpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1099417/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/DebugExceptionBreakpointTest.java
+END
+DebugTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/DebugTest.java
+END
+DebugExceptionEventBreakpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/DebugExceptionEventBreakpointTest.java
+END
+StreamCachingInterceptorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/824285/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/StreamCachingInterceptorTest.java
+END
+DefaultTraceFormatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/DefaultTraceFormatterTest.java
+END
+AdviceWithTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/AdviceWithTest.java
+END
+AuditInterceptorAsyncDelegateIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/AuditInterceptorAsyncDelegateIssueTest.java
+END
+DebugSingleStepConditionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/DebugSingleStepConditionTest.java
+END
+TraceHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/932351/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/TraceHandlerTest.java
+END
+AdviceWithTasksTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1073282/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/AdviceWithTasksTest.java
+END
+AdviceWithTwoRoutesOnExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1143904/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/AdviceWithTwoRoutesOnExceptionTest.java
+END
+AdviceWithTwoRoutesContextScopedOnExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1143904/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/AdviceWithTwoRoutesContextScopedOnExceptionTest.java
+END
+NoStreamCachingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/NoStreamCachingTest.java
+END
+TraceInterceptorSubclassFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1042541/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/TraceInterceptorSubclassFactory.java
+END
+AdviceWithTasksMatchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1073282/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/AdviceWithTasksMatchTest.java
+END
+TraceInterceptorFactoryCreatesHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1042541/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/TraceInterceptorFactoryCreatesHandlerTest.java
+END
+AdviceWithWeaveFirstLastTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1101412/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/AdviceWithWeaveFirstLastTest.java
+END
+TraceInterceptorSubclassTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/932351/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/TraceInterceptorSubclassTest.java
+END
+TraceInterceptorDestinationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1086641/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/TraceInterceptorDestinationTest.java
+END
+TraceFormatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/TraceFormatterTest.java
+END
+TracingTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1101412/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/TracingTestBase.java
+END
+AdviceWithTwoRoutesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1143904/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/AdviceWithTwoRoutesTest.java
+END
+DebugSingleStepTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/DebugSingleStepTest.java
+END
+AdviceWithRecipientListMockEndpointsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/AdviceWithRecipientListMockEndpointsTest.java
+END
+AdviceWithMockEndpointsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/AdviceWithMockEndpointsTest.java
+END
+AdviceWithTasksToStringPatternTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1073282/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/AdviceWithTasksToStringPatternTest.java
+END
+InterceptorStrategyOrderedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/InterceptorStrategyOrderedTest.java
+END
+CustomInterceptorRouteWithChildOutputTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1099417/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/CustomInterceptorRouteWithChildOutputTest.java
+END
+AdviceWithTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1101352/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/AdviceWithTypeTest.java
+END
+AuditInterceptorDelegateIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/AuditInterceptorDelegateIssueTest.java
+END
+TraceHandlerTestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/932351/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/TraceHandlerTestHandler.java
+END
+AdviceWithTasksSelectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1101454/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/AdviceWithTasksSelectTest.java
+END
+TraceTestProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/932351/camel/trunk/camel-core/src/test/java/org/apache/camel/processor/interceptor/TraceTestProcessor.java
+END

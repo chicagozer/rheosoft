@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/882489/camel/trunk/components/camel-rss/src/test/java/org/apache/camel/dataformat/rss
+END
+RssConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/882489/camel/trunk/components/camel-rss/src/test/java/org/apache/camel/dataformat/rss/RssConverterTest.java
+END
+RssDataFormatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/882489/camel/trunk/components/camel-rss/src/test/java/org/apache/camel/dataformat/rss/RssDataFormatTest.java
+END
+RssFilterWithXPathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-rss/src/test/java/org/apache/camel/dataformat/rss/RssFilterWithXPathTest.java
+END

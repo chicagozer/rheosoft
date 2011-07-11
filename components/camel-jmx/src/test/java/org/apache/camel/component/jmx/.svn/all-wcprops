@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1125078/camel/trunk/components/camel-jmx/src/test/java/org/apache/camel/component/jmx
+END
+JMXEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1125078/camel/trunk/components/camel-jmx/src/test/java/org/apache/camel/component/jmx/JMXEndpointTest.java
+END
+MockEndpointFixture.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1125078/camel/trunk/components/camel-jmx/src/test/java/org/apache/camel/component/jmx/MockEndpointFixture.java
+END
+JMXObjectPropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1125078/camel/trunk/components/camel-jmx/src/test/java/org/apache/camel/component/jmx/JMXObjectPropertiesTest.java
+END
+JMXMonitorTypeStringDiffersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1125078/camel/trunk/components/camel-jmx/src/test/java/org/apache/camel/component/jmx/JMXMonitorTypeStringDiffersTest.java
+END
+JMXMonitorTypeStringMatchesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1125078/camel/trunk/components/camel-jmx/src/test/java/org/apache/camel/component/jmx/JMXMonitorTypeStringMatchesTest.java
+END
+XmlFixture.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1125078/camel/trunk/components/camel-jmx/src/test/java/org/apache/camel/component/jmx/XmlFixture.java
+END
+JMXMonitorTypeCounterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1125078/camel/trunk/components/camel-jmx/src/test/java/org/apache/camel/component/jmx/JMXMonitorTypeCounterTest.java
+END
+JMXRemoteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1125078/camel/trunk/components/camel-jmx/src/test/java/org/apache/camel/component/jmx/JMXRemoteTest.java
+END
+JMXHandbackTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1125078/camel/trunk/components/camel-jmx/src/test/java/org/apache/camel/component/jmx/JMXHandbackTest.java
+END
+JMXConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1125078/camel/trunk/components/camel-jmx/src/test/java/org/apache/camel/component/jmx/JMXConsumerTest.java
+END
+JMXNotificationFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1125078/camel/trunk/components/camel-jmx/src/test/java/org/apache/camel/component/jmx/JMXNotificationFilterTest.java
+END
+JMXMonitorTypeGaugeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1125078/camel/trunk/components/camel-jmx/src/test/java/org/apache/camel/component/jmx/JMXMonitorTypeGaugeTest.java
+END
+JMXComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1031461/camel/trunk/components/camel-jmx/src/test/java/org/apache/camel/component/jmx/JMXComponentTest.java
+END
+JMXUriBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1031461/camel/trunk/components/camel-jmx/src/test/java/org/apache/camel/component/jmx/JMXUriBuilderTest.java
+END
+SimpleBeanFixture.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1125078/camel/trunk/components/camel-jmx/src/test/java/org/apache/camel/component/jmx/SimpleBeanFixture.java
+END

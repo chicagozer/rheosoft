@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/security
+END
+DummyTrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/security/DummyTrustManager.java
+END
+DummySSLSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1065931/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/security/DummySSLSocketFactory.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-crypto/src/test/resources/org/apache/camel/component/crypto
+END
+SpringCryptoDataFormatTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-crypto/src/test/resources/org/apache/camel/component/crypto/SpringCryptoDataFormatTest.xml
+END
+SpringSignatureTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-crypto/src/test/resources/org/apache/camel/component/crypto/SpringSignatureTests.xml
+END

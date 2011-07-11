@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1142641/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote
+END
+RemoteFileOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/984720/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileOperations.java
+END
+FtpsComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/FtpsComponent.java
+END
+RemoteFileProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileProducer.java
+END
+SftpComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/835283/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/SftpComponent.java
+END
+FtpsConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/FtpsConfiguration.java
+END
+SftpConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1091629/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/SftpConfiguration.java
+END
+FtpConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1142641/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/FtpConsumer.java
+END
+RemoteFilePollingConsumerPollStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1071753/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFilePollingConsumerPollStrategy.java
+END
+RemoteFileConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1140555/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileConsumer.java
+END
+FtpComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/950375/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/FtpComponent.java
+END
+FtpsEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/FtpsEndpoint.java
+END
+SftpEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1000459/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/SftpEndpoint.java
+END
+RemoteFileComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/835186/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileComponent.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/package.html
+END
+FtpsOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/FtpsOperations.java
+END
+SftpOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/SftpOperations.java
+END
+FtpConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/888048/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/FtpConfiguration.java
+END
+RemoteFileConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1039088/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileConfiguration.java
+END
+SftpConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1142641/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/SftpConsumer.java
+END
+FtpEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/FtpEndpoint.java
+END
+RemoteFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1004923/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFile.java
+END
+RemoteFileEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1141471/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/RemoteFileEndpoint.java
+END
+FtpOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-ftp/src/main/java/org/apache/camel/component/file/remote/FtpOperations.java
+END

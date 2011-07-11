@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1073186/camel/trunk/components/camel-sql/src/test/resources/org/apache/camel/processor/aggregate/jdbc
+END
+JdbcSpringDataSource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1073186/camel/trunk/components/camel-sql/src/test/resources/org/apache/camel/processor/aggregate/jdbc/JdbcSpringDataSource.xml
+END
+JdbcSpringAggregateRecoverWithRedeliveryPolicyTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/1073186/camel/trunk/components/camel-sql/src/test/resources/org/apache/camel/processor/aggregate/jdbc/JdbcSpringAggregateRecoverWithRedeliveryPolicyTest.xml
+END
+JdbcSpringAggregateTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1073186/camel/trunk/components/camel-sql/src/test/resources/org/apache/camel/processor/aggregate/jdbc/JdbcSpringAggregateTest.xml
+END

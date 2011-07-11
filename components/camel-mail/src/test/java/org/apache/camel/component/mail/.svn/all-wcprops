@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1142654/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail
+END
+MailShutdownCompleteCurrentTaskOnlyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1061136/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailShutdownCompleteCurrentTaskOnlyTest.java
+END
+MailUsingOwnComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/785630/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailUsingOwnComponentTest.java
+END
+MailComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailComponentTest.java
+END
+MailCollectionHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailCollectionHeaderTest.java
+END
+MailNameAndEmailInRecipientTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/785630/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailNameAndEmailInRecipientTest.java
+END
+MailRecipientsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/785630/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailRecipientsTest.java
+END
+MailDefaultDelayForMailConsumeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1060427/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailDefaultDelayForMailConsumeTest.java
+END
+MailAttachmentDuplicateNamesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1074033/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailAttachmentDuplicateNamesTest.java
+END
+MailMaxMessagesPerPollTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1061136/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailMaxMessagesPerPollTest.java
+END
+InvalidConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1125242/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/InvalidConfigurationTest.java
+END
+MailAttachmentsUmlautIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1134714/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailAttachmentsUmlautIssueTest.java
+END
+MailContentTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/785630/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailContentTypeTest.java
+END
+MailHtmlAttachmentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1060427/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailHtmlAttachmentTest.java
+END
+FromFileSendMailTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/FromFileSendMailTest.java
+END
+MailCustomMailSenderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailCustomMailSenderTest.java
+END
+MimeMultipartAlternativeWithContentTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1086028/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MimeMultipartAlternativeWithContentTypeTest.java
+END
+MailCommitOnCompletionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1061136/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailCommitOnCompletionTest.java
+END
+MailEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailEndpointTest.java
+END
+MailMultipleRecipientsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1004889/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailMultipleRecipientsTest.java
+END
+MailComponentRecipientSetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailComponentRecipientSetTest.java
+END
+MailMultipleRecipientsUsingHeadersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/938760/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailMultipleRecipientsUsingHeadersTest.java
+END
+MailMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailMessageTest.java
+END
+MailFetchSizeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1061136/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailFetchSizeTest.java
+END
+MultipleDestinationConsumeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MultipleDestinationConsumeTest.java
+END
+AdditionalMailPropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1060427/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/AdditionalMailPropertiesTest.java
+END
+MailProcessOnlyUnseenMessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1061136/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailProcessOnlyUnseenMessagesTest.java
+END
+MailProducerConcurrentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1131070/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailProducerConcurrentTest.java
+END
+MailRecipientsPipeIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/825760/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailRecipientsPipeIssueTest.java
+END
+MailBatchConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1061136/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailBatchConsumerTest.java
+END
+MailContentTypeResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1060427/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailContentTypeResolverTest.java
+END
+MailRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailRouteTest.java
+END
+RawMailMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1139760/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/RawMailMessageTest.java
+END
+MailPollEnrichTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1067630/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailPollEnrichTest.java
+END
+MailSubjectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/785630/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailSubjectTest.java
+END
+MailHeaderOverrulePreConfigurationRecipientsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/785630/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailHeaderOverrulePreConfigurationRecipientsTest.java
+END
+MailNoRecipientsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/825961/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailNoRecipientsTest.java
+END
+MailDoNotDeleteIfProcessFailsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1104401/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailDoNotDeleteIfProcessFailsTest.java
+END
+MailShutdownCompleteAllTasksTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1140095/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailShutdownCompleteAllTasksTest.java
+END
+MailProducerUnsupportedCharsetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1142654/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailProducerUnsupportedCharsetTest.java
+END
+MailCustomContentTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1142654/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailCustomContentTypeTest.java
+END
+MailConsumerUnsupportedCharsetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailConsumerUnsupportedCharsetTest.java
+END
+DetermineContentTypeIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1142654/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/DetermineContentTypeIssueTest.java
+END
+MailUsernameWithAtSignTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/785630/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailUsernameWithAtSignTest.java
+END
+MailUsingHeadersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1037260/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailUsingHeadersTest.java
+END
+MailToMultipleEndpointsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailToMultipleEndpointsTest.java
+END
+MimeMessageConsumeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MimeMessageConsumeTest.java
+END
+MailFetchSizeZeroTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1061136/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailFetchSizeZeroTest.java
+END
+MimeMultipartAlternativeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1086028/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MimeMultipartAlternativeTest.java
+END
+MailAttachmentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1134714/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailAttachmentTest.java
+END
+MimeMultipartAlternativeWithLongerFilenameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1086028/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MimeMultipartAlternativeWithLongerFilenameTest.java
+END
+MailConvertersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-mail/src/test/java/org/apache/camel/component/mail/MailConvertersTest.java
+END

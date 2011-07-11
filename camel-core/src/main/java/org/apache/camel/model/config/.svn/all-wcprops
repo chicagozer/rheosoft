@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1075873/camel/trunk/camel-core/src/main/java/org/apache/camel/model/config
+END
+StreamResequencerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1075873/camel/trunk/camel-core/src/main/java/org/apache/camel/model/config/StreamResequencerConfig.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/941182/camel/trunk/camel-core/src/main/java/org/apache/camel/model/config/package-info.java
+END
+PropertiesDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1074186/camel/trunk/camel-core/src/main/java/org/apache/camel/model/config/PropertiesDefinition.java
+END
+ResequencerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1075873/camel/trunk/camel-core/src/main/java/org/apache/camel/model/config/ResequencerConfig.java
+END
+BatchResequencerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1075873/camel/trunk/camel-core/src/main/java/org/apache/camel/model/config/BatchResequencerConfig.java
+END
+PropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/941182/camel/trunk/camel-core/src/main/java/org/apache/camel/model/config/PropertyDefinition.java
+END

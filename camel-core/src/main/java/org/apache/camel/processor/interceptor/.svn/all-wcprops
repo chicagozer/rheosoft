@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1143242/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/interceptor
+END
+TraceInterceptorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/932351/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/interceptor/TraceInterceptorFactory.java
+END
+TraceEventMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/924437/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/interceptor/TraceEventMessage.java
+END
+HandleFaultInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/955294/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/interceptor/HandleFaultInterceptor.java
+END
+StreamCaching.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/938376/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/interceptor/StreamCaching.java
+END
+DefaultTraceInterceptorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/932351/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/interceptor/DefaultTraceInterceptorFactory.java
+END
+DefaultTraceEventMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1143242/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/interceptor/DefaultTraceEventMessage.java
+END
+TraceInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1088267/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/interceptor/TraceInterceptor.java
+END
+DelayInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/959977/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/interceptor/DelayInterceptor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/735816/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/interceptor/package.html
+END
+Tracer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/interceptor/Tracer.java
+END
+TraceFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/884845/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/interceptor/TraceFormatter.java
+END
+Delayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/955294/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/interceptor/Delayer.java
+END
+Debug.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1071733/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/interceptor/Debug.java
+END
+StreamCachingInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/955294/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/interceptor/StreamCachingInterceptor.java
+END
+HandleFault.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/835732/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/interceptor/HandleFault.java
+END
+DefaultTraceFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1124990/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/interceptor/DefaultTraceFormatter.java
+END
+TraceEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/932351/camel/trunk/camel-core/src/main/java/org/apache/camel/processor/interceptor/TraceEventHandler.java
+END

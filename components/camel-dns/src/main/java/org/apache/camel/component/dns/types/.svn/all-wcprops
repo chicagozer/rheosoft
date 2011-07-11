@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1073665/camel/trunk/components/camel-dns/src/main/java/org/apache/camel/component/dns/types
+END
+DnsRecordConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1073665/camel/trunk/components/camel-dns/src/main/java/org/apache/camel/component/dns/types/DnsRecordConverter.java
+END
+DnsConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1073665/camel/trunk/components/camel-dns/src/main/java/org/apache/camel/component/dns/types/DnsConverter.java
+END

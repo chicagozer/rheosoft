@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/921743/camel/trunk/components/camel-cxf/src/main/resources/META-INF/services/org/apache/camel/component
+END
+cxf
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-cxf/src/main/resources/META-INF/services/org/apache/camel/component/cxf
+END
+cxfrs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/779898/camel/trunk/components/camel-cxf/src/main/resources/META-INF/services/org/apache/camel/component/cxfrs
+END
+cxfbean
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/747271/camel/trunk/components/camel-cxf/src/main/resources/META-INF/services/org/apache/camel/component/cxfbean
+END

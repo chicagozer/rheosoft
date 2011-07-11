@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1125078/camel/trunk/components/camel-jmx/src/test/resources/consumer-test
+END
+mbeanServerNotification.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1032126/camel/trunk/components/camel-jmx/src/test/resources/consumer-test/mbeanServerNotification.xml
+END
+relationNotification.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1032126/camel/trunk/components/camel-jmx/src/test/resources/consumer-test/relationNotification.xml
+END
+jmxConnectionNotification.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1032126/camel/trunk/components/camel-jmx/src/test/resources/consumer-test/jmxConnectionNotification.xml
+END
+attributeChange-0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1032126/camel/trunk/components/camel-jmx/src/test/resources/consumer-test/attributeChange-0.xml
+END
+attributeChange-1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1032126/camel/trunk/components/camel-jmx/src/test/resources/consumer-test/attributeChange-1.xml
+END
+timerNotification.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1032126/camel/trunk/components/camel-jmx/src/test/resources/consumer-test/timerNotification.xml
+END
+attributeChange-2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1032126/camel/trunk/components/camel-jmx/src/test/resources/consumer-test/attributeChange-2.xml
+END
+userdata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1032126/camel/trunk/components/camel-jmx/src/test/resources/consumer-test/userdata.xml
+END
+touched.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1032126/camel/trunk/components/camel-jmx/src/test/resources/consumer-test/touched.xml
+END
+monitorNotification.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1125078/camel/trunk/components/camel-jmx/src/test/resources/consumer-test/monitorNotification.xml
+END

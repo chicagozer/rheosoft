@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1034306/camel/trunk/components/camel-script/src/test/resources/org/apache/camel/builder/script/example
+END
+anyLanguageFilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-script/src/test/resources/org/apache/camel/builder/script/example/anyLanguageFilter.xml
+END
+beanShellFilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1034306/camel/trunk/components/camel-script/src/test/resources/org/apache/camel/builder/script/example/beanShellFilter.xml
+END
+pythonFilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-script/src/test/resources/org/apache/camel/builder/script/example/pythonFilter.xml
+END
+rubyFilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-script/src/test/resources/org/apache/camel/builder/script/example/rubyFilter.xml
+END
+groovyFilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-script/src/test/resources/org/apache/camel/builder/script/example/groovyFilter.xml
+END
+javaScriptFilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/966094/camel/trunk/components/camel-script/src/test/resources/org/apache/camel/builder/script/example/javaScriptFilter.xml
+END

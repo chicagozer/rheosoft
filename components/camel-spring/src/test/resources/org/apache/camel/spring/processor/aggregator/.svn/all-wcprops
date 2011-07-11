@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1098685/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/aggregator
+END
+SpringAggregateExpressionTimeoutFallbackTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/aggregator/SpringAggregateExpressionTimeoutFallbackTest.xml
+END
+SpringAggregateExpressionTimeoutTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/aggregator/SpringAggregateExpressionTimeoutTest.xml
+END
+SpringAggregateExpressionSizeFallbackTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/aggregator/SpringAggregateExpressionSizeFallbackTest.xml
+END
+SpringAggregateExpressionSizeTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/aggregator/SpringAggregateExpressionSizeTest.xml
+END
+SpringAggregateExpressionTimeoutPerGroupTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/aggregator/SpringAggregateExpressionTimeoutPerGroupTest.xml
+END
+SpringAggregateSimplePredicateTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/aggregator/SpringAggregateSimplePredicateTest.xml
+END
+SpringAggregateDiscardOnTimeoutTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1001436/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/aggregator/SpringAggregateDiscardOnTimeoutTest.xml
+END
+SpringAggregateGroupedExchangeCompletionExpressionSizeTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/asf/!svn/ver/1098685/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/aggregator/SpringAggregateGroupedExchangeCompletionExpressionSizeTest.xml
+END
+SpringAggregateCompletionIntervalTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/aggregator/SpringAggregateCompletionIntervalTest.xml
+END
+SpringAggregateSimplePredicateEagerTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/aggregator/SpringAggregateSimplePredicateEagerTest.xml
+END
+SpringAggregateSimpleTimeoutTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/aggregator/SpringAggregateSimpleTimeoutTest.xml
+END
+SpringAggregateThreadPoolProfileTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/aggregator/SpringAggregateThreadPoolProfileTest.xml
+END
+SpringAggregateSimpleSizeTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/983197/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/processor/aggregator/SpringAggregateSimpleSizeTest.xml
+END

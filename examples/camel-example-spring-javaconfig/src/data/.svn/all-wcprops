@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/758543/camel/trunk/examples/camel-example-spring-javaconfig/src/data
+END
+message1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/758543/camel/trunk/examples/camel-example-spring-javaconfig/src/data/message1.xml
+END
+message2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/758543/camel/trunk/examples/camel-example-spring-javaconfig/src/data/message2.xml
+END

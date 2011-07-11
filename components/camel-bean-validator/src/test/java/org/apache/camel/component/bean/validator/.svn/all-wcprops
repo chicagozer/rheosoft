@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1134081/camel/trunk/components/camel-bean-validator/src/test/java/org/apache/camel/component/bean/validator
+END
+CarWithAnnotations.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/933136/camel/trunk/components/camel-bean-validator/src/test/java/org/apache/camel/component/bean/validator/CarWithAnnotations.java
+END
+RequiredChecks.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/933136/camel/trunk/components/camel-bean-validator/src/test/java/org/apache/camel/component/bean/validator/RequiredChecks.java
+END
+BeanValidatorConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-bean-validator/src/test/java/org/apache/camel/component/bean/validator/BeanValidatorConfigurationTest.java
+END
+BeanValidatorXMLConfigurationRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-bean-validator/src/test/java/org/apache/camel/component/bean/validator/BeanValidatorXMLConfigurationRouteTest.java
+END
+Car.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-bean-validator/src/test/java/org/apache/camel/component/bean/validator/Car.java
+END
+OrderedChecks.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/933136/camel/trunk/components/camel-bean-validator/src/test/java/org/apache/camel/component/bean/validator/OrderedChecks.java
+END
+OptionalChecks.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/933136/camel/trunk/components/camel-bean-validator/src/test/java/org/apache/camel/component/bean/validator/OptionalChecks.java
+END
+CarWithoutAnnotations.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/933136/camel/trunk/components/camel-bean-validator/src/test/java/org/apache/camel/component/bean/validator/CarWithoutAnnotations.java
+END
+CarWithRedefinedDefaultGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/933136/camel/trunk/components/camel-bean-validator/src/test/java/org/apache/camel/component/bean/validator/CarWithRedefinedDefaultGroup.java
+END
+BeanValidatorRouteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1134081/camel/trunk/components/camel-bean-validator/src/test/java/org/apache/camel/component/bean/validator/BeanValidatorRouteTest.java
+END

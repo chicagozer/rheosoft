@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1143705/camel/trunk/components/camel-atom/src/main/java/org/apache/camel/component/atom
+END
+AtomEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-atom/src/main/java/org/apache/camel/component/atom/AtomEndpoint.java
+END
+AtomPollingConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1143705/camel/trunk/components/camel-atom/src/main/java/org/apache/camel/component/atom/AtomPollingConsumer.java
+END
+AtomUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-atom/src/main/java/org/apache/camel/component/atom/AtomUtils.java
+END
+AtomComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-atom/src/main/java/org/apache/camel/component/atom/AtomComponent.java
+END
+AtomEntryPollingConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1143705/camel/trunk/components/camel-atom/src/main/java/org/apache/camel/component/atom/AtomEntryPollingConsumer.java
+END
+AtomProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-atom/src/main/java/org/apache/camel/component/atom/AtomProducer.java
+END
+AtomConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/735816/camel/trunk/components/camel-atom/src/main/java/org/apache/camel/component/atom/AtomConverter.java
+END
+UpdatedDateFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-atom/src/main/java/org/apache/camel/component/atom/UpdatedDateFilter.java
+END
+AtomConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/748092/camel/trunk/components/camel-atom/src/main/java/org/apache/camel/component/atom/AtomConstants.java
+END

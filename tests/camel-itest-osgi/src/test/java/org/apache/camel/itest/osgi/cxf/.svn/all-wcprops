@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1133394/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/cxf
+END
+RealWebServiceBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/cxf/RealWebServiceBean.java
+END
+ReportIncidentEndpointService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/cxf/ReportIncidentEndpointService.java
+END
+CxfProxyExampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1133394/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/cxf/CxfProxyExampleTest.java
+END
+EnrichBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1071740/camel/trunk/tests/camel-itest-osgi/src/test/java/org/apache/camel/itest/osgi/cxf/EnrichBean.java
+END

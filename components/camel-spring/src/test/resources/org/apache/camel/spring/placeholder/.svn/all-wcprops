@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1003484/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/placeholder
+END
+bundle-context.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1003484/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/placeholder/bundle-context.properties
+END
+SimpleLanguageWithSprinPropertyPlaceholderRouteTest-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/asf/!svn/ver/1003484/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/spring/placeholder/SimpleLanguageWithSprinPropertyPlaceholderRouteTest-context.xml
+END

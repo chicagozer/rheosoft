@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1144310/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4/helper
+END
+HttpHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1144310/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4/helper/HttpHelper.java
+END
+CamelFileDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1053671/camel/trunk/components/camel-http4/src/main/java/org/apache/camel/component/http4/helper/CamelFileDataSource.java
+END

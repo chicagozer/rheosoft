@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1137312/camel/trunk/components/camel-spring/src/main/java/org/apache/camel/spring
+END
+CamelProducerTemplateFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/main/java/org/apache/camel/spring/CamelProducerTemplateFactoryBean.java
+END
+ErrorHandlerDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1090316/camel/trunk/components/camel-spring/src/main/java/org/apache/camel/spring/ErrorHandlerDefinition.java
+END
+CamelEndpointFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/main/java/org/apache/camel/spring/CamelEndpointFactoryBean.java
+END
+CamelContextFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-spring/src/main/java/org/apache/camel/spring/CamelContextFactoryBean.java
+END
+ContextScanRouteBuilderFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-spring/src/main/java/org/apache/camel/spring/ContextScanRouteBuilderFinder.java
+END
+CamelConsumerTemplateFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/main/java/org/apache/camel/spring/CamelConsumerTemplateFactoryBean.java
+END
+SpringCamelContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-spring/src/main/java/org/apache/camel/spring/SpringCamelContext.java
+END
+CamelRedeliveryPolicyFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/main/java/org/apache/camel/spring/CamelRedeliveryPolicyFactoryBean.java
+END
+CamelBeanPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1129023/camel/trunk/components/camel-spring/src/main/java/org/apache/camel/spring/CamelBeanPostProcessor.java
+END
+PackageScanRouteBuilderFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1134198/camel/trunk/components/camel-spring/src/main/java/org/apache/camel/spring/PackageScanRouteBuilderFinder.java
+END
+CamelThreadPoolFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/main/java/org/apache/camel/spring/CamelThreadPoolFactoryBean.java
+END
+CamelRouteContextFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/main/java/org/apache/camel/spring/CamelRouteContextFactoryBean.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/main/java/org/apache/camel/spring/Main.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/741939/camel/trunk/components/camel-spring/src/main/java/org/apache/camel/spring/package-info.java
+END
+SpringRouteBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/main/java/org/apache/camel/spring/SpringRouteBuilder.java
+END
+ErrorHandlerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1071746/camel/trunk/components/camel-spring/src/main/java/org/apache/camel/spring/ErrorHandlerType.java
+END

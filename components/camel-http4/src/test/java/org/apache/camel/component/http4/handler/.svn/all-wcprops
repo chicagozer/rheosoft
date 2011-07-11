@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-http4/src/test/java/org/apache/camel/component/http4/handler
+END
+HeaderValidationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-http4/src/test/java/org/apache/camel/component/http4/handler/HeaderValidationHandler.java
+END
+DelayValidationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-http4/src/test/java/org/apache/camel/component/http4/handler/DelayValidationHandler.java
+END
+AuthenticationValidationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-http4/src/test/java/org/apache/camel/component/http4/handler/AuthenticationValidationHandler.java
+END
+BasicValidationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-http4/src/test/java/org/apache/camel/component/http4/handler/BasicValidationHandler.java
+END
+ProxyAuthenticationValidationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-http4/src/test/java/org/apache/camel/component/http4/handler/ProxyAuthenticationValidationHandler.java
+END

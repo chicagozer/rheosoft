@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1125863/camel/trunk/components/camel-saxon/src/test/java/org/apache/camel/builder/saxon
+END
+XQueryWithNamespacesFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-saxon/src/test/java/org/apache/camel/builder/saxon/XQueryWithNamespacesFilterTest.java
+END
+XPathAnnotationResultTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1125863/camel/trunk/components/camel-saxon/src/test/java/org/apache/camel/builder/saxon/XPathAnnotationResultTypeTest.java
+END
+BeanWithXQueryInjectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-saxon/src/test/java/org/apache/camel/builder/saxon/BeanWithXQueryInjectionTest.java
+END
+XQueryFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-saxon/src/test/java/org/apache/camel/builder/saxon/XQueryFilterTest.java
+END
+XPathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-saxon/src/test/java/org/apache/camel/builder/saxon/XPathTest.java
+END
+XQueryTransformTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-saxon/src/test/java/org/apache/camel/builder/saxon/XQueryTransformTest.java
+END
+XQueryRecipientListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-saxon/src/test/java/org/apache/camel/builder/saxon/XQueryRecipientListTest.java
+END
+XQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1071779/camel/trunk/components/camel-saxon/src/test/java/org/apache/camel/builder/saxon/XQueryTest.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1139452/camel/trunk/components/camel-apns/src/test/java/org/apache/camel/component/apns
+END
+ApnsProducerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1139452/camel/trunk/components/camel-apns/src/test/java/org/apache/camel/component/apns/ApnsProducerTest.java
+END
+ApnsProducerWithoutTokensHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1139452/camel/trunk/components/camel-apns/src/test/java/org/apache/camel/component/apns/ApnsProducerWithoutTokensHeaderTest.java
+END
+ApnsConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1139452/camel/trunk/components/camel-apns/src/test/java/org/apache/camel/component/apns/ApnsConsumerTest.java
+END
