@@ -1,85 +1,0 @@
-10
-
-dir
-1144481
-http://svn.apache.org/repos/asf/camel/trunk/tests/camel-itest/src/test/java/org/apache/camel/itest
-http://svn.apache.org/repos/asf
-
-
-
-2011-06-02T14:00:42.175113Z
-1130557
-ningjiang
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13f79535-47bb-0310-9956-ffa450edef68
-
-http
-dir
-
-test
-dir
-
-proxy
-dir
-
-restlet
-dir
-
-mail
-dir
-
-customerrelations
-dir
-
-jaxb
-dir
-
-jms
-dir
-
-ftp
-dir
-
-tx
-dir
-
-greeter
-dir
-
-jetty
-dir
-
-sql
-dir
-
-security
-dir
-
-idempotent
-dir
-
-hawtdb
-dir
-
-issues
-dir
-
-ibatis
-dir
-
-async
-dir
-

@@ -1,128 +1,0 @@
-10
-
-dir
-1144481
-http://svn.apache.org/repos/asf/camel/trunk/tests/camel-itest-osgi/src/test/resources/org/apache/camel/itest/osgi
-http://svn.apache.org/repos/asf
-
-
-
-2011-06-30T10:43:02.991503Z
-1141471
-davsclaus
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13f79535-47bb-0310-9956-ffa450edef68
-
-cxf
-dir
-
-restlet
-dir
-
-freemarker
-dir
-
-dozer
-dir
-
-jaxb
-dir
-
-servlet
-dir
-
-shiro
-dir
-
-CamelContext.xml
-file
-
-
-
-
-2011-07-08T20:16:27.000000Z
-fa56f598b3dc031724f607a114e437a0
-2010-09-16T07:10:16.258876Z
-997621
-davsclaus
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1497
-
-core
-dir
-
-jms
-dir
-
-ftp
-dir
-
-hl7
-dir
-
-aws
-dir
-
-velocity
-dir
-
-jetty
-dir
-
-spring
-dir
-
-cache
-dir
-
-blueprint
-dir
-
-rss
-dir
-
-mybatis
-dir
-
-jpa
-dir
-
-jasypt
-dir
-
-util
-dir
-

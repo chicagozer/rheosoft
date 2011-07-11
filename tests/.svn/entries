@@ -1,80 +1,0 @@
-10
-
-dir
-1144481
-http://svn.apache.org/repos/asf/camel/trunk/tests
-http://svn.apache.org/repos/asf
-
-
-
-2011-07-08T08:47:11.123490Z
-1144193
-davsclaus
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-13f79535-47bb-0310-9956-ffa450edef68
-
-camel-itest-osgi
-dir
-
-camel-itest
-dir
-
-camel-partial-classpath-test
-dir
-
-camel-itest-karaf
-dir
-
-test-bundles
-dir
-
-pom.xml
-file
-
-
-
-
-2011-07-08T20:16:30.000000Z
-f9b0978365d569aed197bffa94840247
-2011-03-17T23:45:49.228432Z
-1082753
-hadrian
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1847
-
-camel-itest-standalone
-dir
-

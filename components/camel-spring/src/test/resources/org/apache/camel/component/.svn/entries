@@ -1,86 +1,0 @@
-10
-
-dir
-1144481
-http://svn.apache.org/repos/asf/camel/trunk/components/camel-spring/src/test/resources/org/apache/camel/component
-http://svn.apache.org/repos/asf
-
-
-
-2011-02-22T15:09:31.255809Z
-1073359
-davsclaus
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13f79535-47bb-0310-9956-ffa450edef68
-
-test
-dir
-
-event
-dir
-
-log
-dir
-
-staff_other_template.xsl
-file
-
-
-
-
-2011-07-08T20:15:45.000000Z
-1e8244ffa625186483c3695c6692f5d8
-2010-09-09T02:04:37.733272Z
-995293
-hadrian
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1308
-
-bean
-dir
-
-dataset
-dir
-
-validator
-dir
-
-xslt
-dir
-
-properties
-dir
-
